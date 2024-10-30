@@ -9,7 +9,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# SEED GERMINATION
+# SEED GERMINATION TIME
 
 ```{r, echo=TRUE, message=FALSE, warning=FALSE}
 
@@ -20,6 +20,9 @@ if (!require(car)) install.packages("car", dependencies = TRUE)
 # 2. Load necessary libraries
 library(tidyverse)  # For data manipulation and visualization
 library(car)         # For ANOVA and Type II SS
+
+# set working directory
+setwd("C:/FLYTILIZER_21_plts/Data")
 
 # 3. Read in the data
 data <- read.table("Germination_Flytilizer_Final.txt", header = TRUE, sep = "\t")
@@ -38,14 +41,6 @@ data$germ_time <- as.numeric(data$germ_time)
 str(data)
 
 # 6. Chi-Square Test for Germination Success
-contingency_table <- table(data$amendment, data$germ_success)
-chi_test <- chisq.test(contingency_table)
-
-# Print the Chi-Square test results
-print("Chi-Square Test Results:")
-print(chi_test)
-
-##########
 
 # Perform Chi-Square Test for each plant species
 plant_species_list <- unique(data$plant_species)  # Get the list of plant species
@@ -86,67 +81,218 @@ for (species in plant_species_list) {
     cat("==============================\n")
     
     # Force flush to ensure message is displayed
-    flush.console()
-  }
-}
+    flush.console()}}
 
-##################################
-# Create a small test dataset
-data <- data.frame(
-  amendment = rep(c("amended", "unamended"), each = 10),
-  plant_species = rep(c("Maize", "Wheat"), times = 10),
-  germ_success = c(1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 
-                   1, 1, 0, 1, 0, 0, 1, 0, 1, 1)
-)
 
-# Check the structure
-str(data)
+#####same code as above, but summarizes the results into a table form
 
-# Perform the looped Chi-Square test for each plant species
-plant_species_list <- unique(data$plant_species)
+# Create an empty data frame to store results
+results_df <- data.frame(
+  Plant_Species = character(),
+  Chi_Square = numeric(),
+  DF = integer(),
+  P_Value = numeric(),
+  Significant = character(),
+  stringsAsFactors = FALSE)
 
+# Perform Chi-Square Test for each plant species
+plant_species_list <- unique(data$plant_species)  # Get the list of plant species
+
+# Loop through each plant species and perform the chi-square test
 for (species in plant_species_list) {
+  # Subset the data for the current plant species
   subset_data <- subset(data, plant_species == species)
   
-  # Check if valid data for Chi-Square
-  if (length(unique(subset_data$amendment)) > 1 && 
+  # Check if the data has enough levels for a Chi-Square Test
+  if (nrow(subset_data) > 1 && 
+      length(unique(subset_data$amendment)) > 1 && 
       length(unique(subset_data$germ_success)) > 1) {
     
+    # Create a contingency table for the current subset
     contingency_table <- table(subset_data$amendment, subset_data$germ_success)
+    
+    # Perform the Chi-Square Test
     chi_test <- chisq.test(contingency_table)
-
-    cat("\n==============================\n")
-    cat("Chi-Square Test for Plant Species:", species, "\n")
-    print(contingency_table)
-    print(chi_test)
-    cat("==============================\n")
-    flush.console()
+    
+    # Collect results in the data frame
+    results_df <- rbind(results_df, data.frame(
+      Plant_Species = species,
+      Chi_Square = round(chi_test$statistic, 2),
+      DF = chi_test$parameter,
+      P_Value = round(chi_test$p.value, 4),
+      Significant = ifelse(chi_test$p.value < 0.05, "Yes", "No")
+    ))
+    
   } else {
-    cat("\nInsufficient data for Chi-Square Test for Plant Species:", species, "\n")
+    # If the test cannot be performed, add a row indicating insufficient data
+    results_df <- rbind(results_df, data.frame(
+      Plant_Species = species,
+      Chi_Square = NA,
+      DF = NA,
+      P_Value = NA,
+      Significant = "Insufficient Data"
+    ))
   }
+}
+
+# Print the summary table
+print(results_df)
+
+# Optionally, display the table using kable for a cleaner view (if you have knitr installed)
+if (require(knitr)) {
+  knitr::kable(results_df, caption = "Chi-Square Test Results for Each Plant Species")
 }
 
 
 
-
-
-# 7. Two-Way ANOVA for Germination Time
+# 7. Two-Way ANOVA or GLM for Germination Time
 anova_model <- aov(germ_time ~ amendment * plant_species, data = data)
+glm_model <- glm(germ_time ~ amendment * plant_species, data = data)
 
 # Print the ANOVA summary
 print("Two-Way ANOVA Results:")
-summary(anova_model)
+summary(anova_model) # works well, but glm is prefered
 
-# 8. Optional: Post-hoc Tukey's HSD test if significant effects are found
-tukey_test <- TukeyHSD(anova_model)
-print("Tukey's HSD Test Results:")
-print(tukey_test)
+print("GLM Results:")
+Anova(glm_model)
 
-# 9. Visualization: Boxplot for Germination Time by Amendment and Plant Species
-ggplot(data, aes(x = amendment, y = germ_time, fill = plant_species)) +
-  geom_boxplot() +
-  labs(title = "Germination Time by Amendment and Plant Species", 
-       x = "Amendment", y = "Germination Time") +
-  theme_minimal()
+
+
+# 8. Post-hoc Tukey's HSD test if significant effects are found
+
+# Install and load the required packages
+if (!require(emmeans)) install.packages("emmeans", dependencies = TRUE)
+library(emmeans)
+
+emmeans(ref_grid(glm_model, regrid = "response"), pairwise ~ amendment | plant_species) # changing "*" to "|" allows meaningful comparisons)
+
 
 ```
+
+# PERCENT GERMINATION
+
+```{r}
+# Load required libraries
+library(dplyr)
+library(ggplot2)
+
+# Step 1: Load the data
+data <- read.csv("Germination_Flytilizer_Final.txt", sep = "\t")
+
+# Step 2: Ensure variables are correctly formatted
+data$amendment <- as.factor(data$amendment)
+data$plant_species <- as.factor(data$plant_species)
+data$germ_success <- as.numeric(data$germ_success)  # 1 = success, 0 = no success
+
+# Step 3: Aggregate data to calculate total and germinated seeds per group
+percent_germ <- data %>%
+  group_by(amendment, plant_species) %>%
+  summarise(total_seeds = n(), germinated = sum(germ_success)) %>%
+  mutate(non_germinated = total_seeds - germinated)
+
+# View the aggregated data
+print(percent_germ)
+
+
+# Step 5: Fit a GLM with binomial family (for proportion data)
+glm_model <- glm(cbind(germinated, non_germinated) ~ amendment * plant_species,data = percent_germ, family = binomial)
+
+# Display the summary of the GLM model
+anova(glm_model)
+
+# Grouped Bar Plot of Percent Germination
+ggplot(percent_germ, aes(x = plant_species, y = germinated / total_seeds * 100, fill = amendment)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(title = "Percent Germination by Plant Species and Amendment",
+       x = "Plant Species", y = "Percent Germination (%)") +
+  theme_minimal() +
+  theme(legend.position = "top") +
+  scale_fill_brewer(palette = "Set2")
+
+
+# Create a summary table for GLM results
+glm_summary <- summary(glm_model)$coefficients
+glm_summary_df <- as.data.frame(glm_summary)
+glm_summary_df$Predictor <- rownames(glm_summary_df)
+rownames(glm_summary_df) <- NULL
+
+# Use knitr for a nice table (optional)
+if (!require(knitr)) install.packages("knitr", dependencies = TRUE)
+library(knitr)
+
+# Display the GLM summary table
+kable(glm_summary_df, caption = "Summary of GLM Results for Germination Success")
+
+# Use an interaction plot to show how different plant species respond to the amendment
+ggplot(percent_germ, aes(x = plant_species, y = germinated / total_seeds * 100, color = amendment, group = amendment)) +
+  stat_summary(fun = mean, geom = "line", size = 1) +
+  stat_summary(fun = mean, geom = "point", size = 3) +
+  labs(title = "Interaction of Amendment and Plant Species on Germination",
+       x = "Plant Species", y = "Percent Germination (%)") +
+  theme_minimal() +
+  theme(legend.position = "top")
+
+
+```
+
+# Dry weight of roots and shoots
+
+```{r}
+
+# Step 1: Load the data
+data <- read.csv("Dryweight_Flytilizer_Final.txt", sep = "\t")
+
+# Step 2: Ensure variables are correctly formatted
+data$amendment <- as.factor(data$amendment)
+data$plant_species <- as.factor(data$plant_species)
+data$tissue <- as.factor(data$tissue)
+data$dryweight <- as.numeric(data$dryweight) 
+
+
+# Step 1: Visualize the Distribution of the Response Variable
+# Use histograms and Q-Q plots to inspect the shape of the distribution.
+
+# Histogram of dry weights
+hist(data$dryweight, main = "Histogram of Dry Weight", xlab = "Dry Weight (g)") 
+#positively skewed (skewed to the right = most values are close to zero) 
+
+# Q-Q plot to check normality
+qqnorm(data$dryweight)
+qqline(data$dryweight, col = "red")  # Add a reference line # not normally distr.
+
+# hence, use a gamma with a logfxn
+
+# Fit a GLM with Gamma family
+glm_gamma <- glm(dryweight ~ amendment * plant_species * tissue, 
+                 data = data, family = Gamma(link = "log"))
+
+# Display the summary
+anova(glm_gamma)
+
+
+
+# Install and load required packages
+if (!require(emmeans)) install.packages("emmeans", dependencies = TRUE)
+library(emmeans)
+
+# Fit the Gamma GLM (or use your existing model)
+glm_gamma <- glm(dryweight ~ amendment * plant_species * tissue, 
+                 data = data, family = Gamma(link = "log"))
+
+
+# Step 1: Create the reference grid for the GLM
+ref_grid_model <- ref_grid(glm_gamma, regrid = "response")
+
+# Step 2: Perform pairwise comparisons for 'amendment' within each 'plant_species' and 'tissue'
+posthoc_results <- emmeans(ref_grid_model, pairwise ~ amendment | plant_species * tissue)
+
+# Step 3: Print the pairwise comparisons
+print(posthoc_results$contrasts)
+
+# Optional: Adjust p-values for multiple comparisons using Tukey correction
+posthoc_tukey <- contrast(posthoc_results, method = "pairwise", adjust = "tukey")
+print(posthoc_tukey)
+
+
+```
+
