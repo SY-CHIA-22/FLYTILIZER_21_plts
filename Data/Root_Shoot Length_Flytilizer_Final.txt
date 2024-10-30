@@ -1,0 +1,764 @@
+amendment	plant_code	plant_species	rootlength	shootlength	root_shoot_ratio
+_Control	A	Allium cepa	6.3	6.0	1.05
+_Control	A	Allium cepa	5.5	5.0	1.10
+_Control	A	Allium cepa	6.4	8.2	0.78
+_Control	A	Allium cepa	5.2	7.4	0.70
+_Control	A	Allium cepa	0.6	4.0	0.15
+_Control	A	Allium cepa	6.2	7.9	0.78
+_Control	A	Allium cepa	8.0	7.0	1.14
+_Control	A	Allium cepa	3.6	8.7	0.41
+_Control	A	Allium cepa	0.7	1.0	0.70
+_Control	A	Allium cepa	6.5	7.8	0.83
+_Control	A	Allium cepa	5.0	7.4	0.68
+_Control	A	Allium cepa	5.0	6.5	0.77
+_Control	A	Allium cepa	7.5	8.1	0.93
+_Control	A	Allium cepa	5.2	8.0	0.65
+_Control	A	Allium cepa	5.1	4.2	1.21
+_Control	A	Allium cepa	3.5	2.0	1.75
+_Control	A	Allium cepa	5.7	3.8	1.50
+_Control	A	Allium cepa	5.0	8.0	0.63
+_Control	B	Daucus carota	4.5	0.3	15.00
+_Control	B	Daucus carota	4.8	1.2	4.00
+_Control	B	Daucus carota	4.5	0.9	5.00
+_Control	B	Daucus carota	3.4	1.4	2.43
+_Control	B	Daucus carota	5.3	1.9	2.79
+_Control	B	Daucus carota	5.2	2.0	2.60
+_Control	B	Daucus carota	7.5	1.5	5.00
+_Control	B	Daucus carota	5.3	1.1	4.82
+_Control	B	Daucus carota	6.0	1.8	3.33
+_Control	B	Daucus carota	4.3	1.5	2.87
+_Control	B	Daucus carota	3.4	1.2	2.83
+_Control	B	Daucus carota			
+_Control	B	Daucus carota	3.7	1.2	3.08
+_Control	B	Daucus carota	3.0	0.7	4.29
+_Control	B	Daucus carota	3.7	0.5	7.40
+_Control	B	Daucus carota	6.5	1.2	5.42
+_Control	B	Daucus carota	5.7	1.3	4.38
+_Control	B	Daucus carota	5.1	1.9	2.68
+_Control	C	Brassica napus	7.0	2.8	2.50
+_Control	C	Brassica napus	8.5	2.0	4.25
+_Control	C	Brassica napus	5.7	2.2	2.59
+_Control	C	Brassica napus	3.0	2.2	1.36
+_Control	C	Brassica napus	7.5	3.2	2.34
+_Control	C	Brassica napus	7.5	2.5	3.00
+_Control	C	Brassica napus	5.0	2.8	1.79
+_Control	C	Brassica napus	6.5	2.1	3.10
+_Control	C	Brassica napus	4.0	3.0	1.33
+_Control	C	Brassica napus	5.5	2.5	2.20
+_Control	C	Brassica napus	5.5	2.9	1.90
+_Control	C	Brassica napus	7.5	3.4	2.21
+_Control	C	Brassica napus	6.4	3.3	1.94
+_Control	C	Brassica napus	6.6	3.3	2.03
+_Control	C	Brassica napus	5.1	4.0	1.28
+_Control	C	Brassica napus	7.5	2.4	3.13
+_Control	C	Brassica napus	4.4	3.2	1.38
+_Control	C	Brassica napus	3.3	2.5	1.32
+_Control	C	Brassica napus	6.5	4.7	1.38
+_Control	C	Brassica napus	7.2	3.1	2.32
+_Control	C	Brassica napus	6.5	4.0	1.63
+_Control	C	Brassica napus	6.2	2.7	2.30
+_Control	D	B. oleracea var gemmifera	5.5	3.5	1.57
+_Control	D	B. oleracea var gemmifera	2.0	3.0	0.67
+_Control	D	B. oleracea var gemmifera	6.3	4.5	1.40
+_Control	D	B. oleracea var gemmifera	6.1	2.9	2.10
+_Control	D	B. oleracea var gemmifera	5.7	3.5	1.63
+_Control	D	B. oleracea var gemmifera	2.0	1.8	1.11
+_Control	D	B. oleracea var gemmifera	4.0	2.5	1.60
+_Control	D	B. oleracea var gemmifera	5.9	3.2	1.84
+_Control	D	B. oleracea var gemmifera	2.6	1.6	1.63
+_Control	D	B. oleracea var gemmifera	3.8	3.3	1.15
+_Control	D	B. oleracea var gemmifera	6.5	4.0	1.63
+_Control	D	B. oleracea var gemmifera	0.7	1.6	0.44
+_Control	D	B. oleracea var gemmifera	3.5	1.9	1.84
+_Control	D	B. oleracea var gemmifera	5.0	2.6	1.92
+_Control	D	B. oleracea var gemmifera	7.5	4.0	1.88
+_Control	D	B. oleracea var gemmifera	5.5	3.6	1.53
+_Control	D	B. oleracea var gemmifera	7.5	4.3	1.74
+_Control	D	B. oleracea var gemmifera	3.5	2.2	1.59
+_Control	D	B. oleracea var gemmifera	4.0	3.7	1.08
+_Control	D	B. oleracea var gemmifera	5.5	4.0	1.38
+_Control	D	B. oleracea var gemmifera	7.2	2.2	3.27
+_Control	D	B. oleracea var gemmifera	4.5	2.9	1.55
+_Control	D	B. oleracea var gemmifera	2.5	2.2	1.14
+_Control	D	B. oleracea var gemmifera	6.5	4.0	1.63
+_Control	D	B. oleracea var gemmifera	5.5	3.8	1.45
+_Control	D	B. oleracea var gemmifera	3.5	4.0	0.88
+_Control	E	Cucurbita maxima	10.5	2.2	4.77
+_Control	E	Cucurbita maxima	9.0	3.0	3.00
+_Control	E	Cucurbita maxima	10.6	2.0	5.30
+_Control	E	Cucurbita maxima	10.2	2.7	3.78
+_Control	E	Cucurbita maxima	9.5	2.7	3.52
+_Control	E	Cucurbita maxima	6.0	3.0	2.00
+_Control	E	Cucurbita maxima	8.6	2.5	3.44
+_Control	E	Cucurbita maxima	8.2	2.5	3.28
+_Control	E	Cucurbita maxima	7.9	2.0	3.95
+_Control	E	Cucurbita maxima	14.6	2.4	6.08
+_Control	E	Cucurbita maxima	12.5	2.5	5.00
+_Control	E	Cucurbita maxima	7.5	2.0	3.75
+_Control	E	Cucurbita maxima	12.5	2.2	5.68
+_Control	F	Raphanus sativus	6.7	1.2	5.58
+_Control	F	Raphanus sativus	4.7	1.9	2.47
+_Control	F	Raphanus sativus	6.0	2.0	3.00
+_Control	F	Raphanus sativus	5.8	2.2	2.64
+_Control	F	Raphanus sativus	6.0	2.1	2.86
+_Control	F	Raphanus sativus	8.1	2.1	3.86
+_Control	F	Raphanus sativus	7.7	2.1	3.67
+_Control	F	Raphanus sativus	4.9	1.8	2.72
+_Control	F	Raphanus sativus	7.9	2.3	3.43
+_Control	F	Raphanus sativus	6.3	1.8	3.50
+_Control	F	Raphanus sativus	9.3	2.2	4.23
+_Control	F	Raphanus sativus	5.1	2.1	2.43
+_Control	F	Raphanus sativus	8.9	2.2	4.05
+_Control	G	Beta vulgaris	5.0	2.0	2.50
+_Control	G	Beta vulgaris	7.0	2.1	3.33
+_Control	G	Beta vulgaris	6.6	2.5	2.64
+_Control	G	Beta vulgaris	7.0	1.7	4.12
+_Control	G	Beta vulgaris	2.0	1.3	1.54
+_Control	G	Beta vulgaris	3.0	2.3	1.30
+_Control	G	Beta vulgaris	4.0	1.8	2.22
+_Control	G	Beta vulgaris	2.0	2.6	0.77
+_Control	G	Beta vulgaris	3.0	2.2	1.36
+_Control	G	Beta vulgaris	2.5	1.5	1.67
+_Control	G	Beta vulgaris	4.5	1.3	3.46
+_Control	G	Beta vulgaris	4.4	1.2	3.67
+_Control	G	Beta vulgaris	5.5	3.0	1.83
+_Control	G	Beta vulgaris	5.6	2.3	2.43
+_Control	G	Beta vulgaris	7.4	2.1	3.52
+_Control	G	Beta vulgaris	6.3	1.7	3.71
+_Control	G	Beta vulgaris	6.2	2.6	2.38
+_Control	G	Beta vulgaris	0.8	1.8	0.44
+_Control	G	Beta vulgaris	3.5	2.6	1.36
+_Control	G	Beta vulgaris	4.5	1.0	4.50
+_Control	G	Beta vulgaris	5.0	2.0	2.50
+_Control	G	Beta vulgaris	7.9	3.0	2.63
+_Control	G	Beta vulgaris	4.5	2.4	1.88
+_Control	G	Beta vulgaris	9.0	1.8	5.00
+_Control	G	Beta vulgaris	1.7	1.5	1.13
+_Control	G	Beta vulgaris	4.8	2.2	2.18
+_Control	H	B. oleracea var capitata	3.4	1.4	2.43
+_Control	H	B. oleracea var capitata	2.0	1.2	1.67
+_Control	H	B. oleracea var capitata	6.6	1.2	5.50
+_Control	H	B. oleracea var capitata	4.6	0.9	5.11
+_Control	H	B. oleracea var capitata	3.0	1.2	2.50
+_Control	H	B. oleracea var capitata	7.5	1.0	7.50
+_Control	H	B. oleracea var capitata	8.2	1.5	5.47
+_Control	H	B. oleracea var capitata	6.3	1.2	5.25
+_Control	H	B. oleracea var capitata	3.3	1.3	2.54
+_Control	H	B. oleracea var capitata	4.0	1.6	2.50
+_Control	H	B. oleracea var capitata	6.9	1.7	4.06
+_Control	H	B. oleracea var capitata	8.8	1.4	6.29
+_Control	H	B. oleracea var capitata	6.0	2.3	2.61
+_Control	H	B. oleracea var capitata	7.1	1.8	3.94
+_Control	H	B. oleracea var capitata	3.1	1.5	2.07
+_Control	H	B. oleracea var capitata	6.7	1.3	5.15
+_Control	H	B. oleracea var capitata	6.7	1.4	4.79
+_Control	H	B. oleracea var capitata	8.7	1.8	4.83
+_Control	H	B. oleracea var capitata	6.5	1.5	4.33
+_Control	H	B. oleracea var capitata	5.2	1.4	3.71
+_Control	H	B. oleracea var capitata	5.6	0.8	7.00
+_Control	H	B. oleracea var capitata	8.4	1.7	4.94
+_Control	H	B. oleracea var capitata	9.3	1.7	5.47
+_Control	H	B. oleracea var capitata	4.5	1.9	2.37
+_Control	H	B. oleracea var capitata	8.0	2.0	4.00
+_Control	H	B. oleracea var capitata	5.6	0.9	6.22
+_Control	H	B. oleracea var capitata	2.8	1.7	1.65
+_Control	I	Cucumis sativus	2.3	2.2	1.05
+_Control	I	Cucumis sativus	7.5	2.6	2.88
+_Control	I	Cucumis sativus	4.6	2.4	1.92
+_Control	I	Cucumis sativus	4.2	2.6	1.62
+_Control	I	Cucumis sativus	3.7	25.2	0.15
+_Control	I	Cucumis sativus	3.6	1.2	3.00
+_Control	I	Cucumis sativus	2.8	2.4	1.17
+_Control	I	Cucumis sativus	7.5	2.4	3.13
+_Control	J	Solanum lycopersicum	0.6	2.3	0.26
+_Control	J	Solanum lycopersicum	4.0	2.8	1.43
+_Control	J	Solanum lycopersicum	5.3	2.4	2.21
+_Control	J	Solanum lycopersicum	3.2	2.7	1.19
+_Control	J	Solanum lycopersicum	5.5	3.4	1.62
+_Control	J	Solanum lycopersicum	3.6	2.2	1.64
+_Control	J	Solanum lycopersicum	2.4	2.0	1.20
+_Control	J	Solanum lycopersicum	3.7	2.2	1.68
+_Control	J	Solanum lycopersicum	2.2	2.5	0.88
+_Control	J	Solanum lycopersicum	3.1	2.6	1.19
+_Control	J	Solanum lycopersicum	2.5	2.6	0.96
+_Control	J	Solanum lycopersicum	2.9	2.6	1.12
+_Control	J	Solanum lycopersicum	5.4	2.3	2.35
+_Control	J	Solanum lycopersicum	0.6	2.2	0.27
+_Control	J	Solanum lycopersicum	2.7	3.0	0.90
+_Control	J	Solanum lycopersicum	6.0	2.7	2.22
+_Control	J	Solanum lycopersicum	3.5	2.2	1.59
+_Control	J	Solanum lycopersicum	5.3	2.8	1.89
+_Control	J	Solanum lycopersicum	9.5	2.5	3.80
+_Control	J	Solanum lycopersicum	3.0	2.6	1.15
+_Control	J	Solanum lycopersicum	2.3	2.1	1.10
+_Control	J	Solanum lycopersicum	3.5	2.4	1.46
+_Control	J	Solanum lycopersicum	4.4	2.7	1.63
+_Control	K	Capsicum annuum	6.5	2.1	3.10
+_Control	K	Capsicum annuum	5.5	2.3	2.39
+_Control	K	Capsicum annuum	6.5	2.4	2.71
+_Control	K	Capsicum annuum	5.5	2.5	2.20
+_Control	K	Capsicum annuum	4.2	1.7	2.47
+_Control	K	Capsicum annuum	3.5	1.3	2.69
+_Control	K	Capsicum annuum	4.3	1.6	2.69
+_Control	K	Capsicum annuum	6.0	2.4	2.50
+_Control	K	Capsicum annuum	1.5	1.1	1.36
+_Control	K	Capsicum annuum	6.5	2.2	2.95
+_Control	K	Capsicum annuum	4.7	2.7	1.74
+_Control	K	Capsicum annuum	4.0	2.0	2.00
+_Control	K	Capsicum annuum	7.5	1.3	5.77
+_Control	K	Capsicum annuum	2.4	1.3	1.85
+_Control	K	Capsicum annuum	4.7	1.2	3.92
+_Control	L	Zea mays	3.5	5.8	0.60
+_Control	L	Zea mays	5.4	4.2	1.29
+_Control	L	Zea mays	3.9	1.8	2.17
+_Control	L	Zea mays	13.3	6.8	1.96
+_Control	L	Zea mays	9.6	6.6	1.45
+_Control	L	Zea mays	11.9	8.5	1.40
+_Control	M	Triticum aestivum	7.5	8.0	0.94
+_Control	M	Triticum aestivum	9.5	9.0	1.06
+_Control	M	Triticum aestivum	4.2	5.2	0.81
+_Control	M	Triticum aestivum	1.0	5.6	0.18
+_Control	M	Triticum aestivum	2.0	4.2	0.48
+_Control	M	Triticum aestivum	9.2	12.0	0.77
+_Control	M	Triticum aestivum	6.9	15.0	0.46
+_Control	N	Pisum sativum	3.1	8.7	0.36
+_Control	N	Pisum sativum	4.6	3.8	1.21
+					
+_Control	O	Vicia faba	13.0	3.1	4.19
+_Control	O	Vicia faba	6.6	7.4	0.89
+_Control	O	Vicia faba	14.9	6.4	2.33
+_Control	O	Vicia faba	1.5	6.6	0.23
+_Control	O	Vicia faba	11.8	11.1	1.06
+_Control	O	Vicia faba	13.1	9.3	1.41
+_Control	O	Vicia faba	69.0	5.7	12.11
+_Control	O	Vicia faba	16.0	9.9	1.62
+_Control	O	Vicia faba	9.4	6.4	1.47
+_Control	O	Vicia faba	9.4	6.5	1.45
+_Control	O	Vicia faba	12.5	6.8	1.84
+_Control	O	Vicia faba	10.5	5.5	1.91
+_Control	O	Vicia faba	8.6	6.5	1.32
+_Control	O	Vicia faba	9.7	6.6	1.47
+_Control	O	Vicia faba	6.6	8.3	0.80
+_Control	O	Vicia faba	14.5	8.2	1.77
+_Control	O	Vicia faba	11.2	4.9	2.29
+_Control	O	Vicia faba	1.3	7.4	0.18
+_Control	O	Vicia faba	6.6	8.6	0.77
+_Control	O	Vicia faba	12.7	7.3	1.74
+_Control	O	Vicia faba	12.8	9.0	1.42
+_Control	O	Vicia faba	13.0	4.6	2.83
+_Control	O	Vicia faba	14.1	6.6	2.14
+_Control	O	Vicia faba	13.5	9.2	1.47
+_Control	O	Vicia faba	11.2	4.7	2.38
+_Control	O	Vicia faba	10.3	11.6	0.89
+_Control	P	Fagopyrum esculentum	8.3	6.0	1.38
+_Control	P	Fagopyrum esculentum	4.7	4.2	1.12
+_Control	P	Fagopyrum esculentum	4.2	6.0	0.70
+_Control	P	Fagopyrum esculentum	3.0	4.5	0.67
+_Control	P	Fagopyrum esculentum	7.1	6.5	1.09
+_Control	P	Fagopyrum esculentum	6.5	5.2	1.25
+_Control	P	Fagopyrum esculentum	9.2	5.3	1.74
+_Control	P	Fagopyrum esculentum	3.5	5.3	0.66
+_Control	P	Fagopyrum esculentum	7.5	4.9	1.53
+_Control	P	Fagopyrum esculentum	7.0	4.1	1.71
+_Control	P	Fagopyrum esculentum	8.0	5.6	1.43
+_Control	P	Fagopyrum esculentum	8.1	4.3	1.88
+_Control	P	Fagopyrum esculentum	5.0	4.0	1.25
+_Control	P	Fagopyrum esculentum	5.8	5.0	1.16
+_Control	P	Fagopyrum esculentum	4.0	5.0	0.80
+_Control	P	Fagopyrum esculentum	4.2	6.0	0.70
+_Control	P	Fagopyrum esculentum	5.3	5.2	1.02
+_Control	P	Fagopyrum esculentum	2.7	6.2	0.44
+_Control	P	Fagopyrum esculentum	4.9	4.7	1.04
+_Control	P	Fagopyrum esculentum	6.6	5.6	1.18
+_Control	P	Fagopyrum esculentum	5.5	6.5	0.85
+_Control	P	Fagopyrum esculentum	5.0	4.8	1.04
+_Control	Q	Borago officinalis	5.8	1.9	3.05
+_Control	Q	Borago officinalis	7.6	1.2	6.33
+_Control	Q	Borago officinalis	6.0	1.0	6.00
+_Control	Q	Borago officinalis	5.8	1.5	3.87
+_Control	Q	Borago officinalis	3.6	1.5	2.40
+_Control	Q	Borago officinalis	6.0	1.2	5.00
+_Control	Q	Borago officinalis	3.5	1.0	3.50
+_Control	Q	Borago officinalis	7.5	1.4	5.36
+_Control	Q	Borago officinalis	8.3	1.0	8.30
+_Control	Q	Borago officinalis	5.7	1.1	5.18
+_Control	Q	Borago officinalis	6.0	1.2	5.00
+_Control	Q	Borago officinalis	6.9	1.4	4.93
+_Control	Q	Borago officinalis	5.0	0.7	7.14
+_Control	Q	Borago officinalis	6.0	1.5	4.00
+_Control	Q	Borago officinalis	5.0	0.9	5.56
+_Control	Q	Borago officinalis	6.6	1.3	5.08
+_Control	Q	Borago officinalis	9.3	1.5	6.20
+_Control	Q	Borago officinalis	7.0	1.1	6.36
+_Control	R	Lactuca sativa	6.5	0.4	16.25
+_Control	R	Lactuca sativa	6.6	0.8	8.25
+_Control	R	Lactuca sativa	6.3	1.1	5.73
+_Control	R	Lactuca sativa	4.5	0.9	5.00
+_Control	R	Lactuca sativa	4.5	0.9	5.00
+_Control	R	Lactuca sativa	2.0	0.4	5.00
+_Control	R	Lactuca sativa	6.0	0.3	20.00
+_Control	R	Lactuca sativa	4.1	0.6	6.83
+_Control	R	Lactuca sativa	6.0	0.6	10.00
+_Control	R	Lactuca sativa	5.6	1.0	5.60
+_Control	R	Lactuca sativa	8.0	0.8	10.00
+_Control	R	Lactuca sativa	4.2	1.2	3.50
+_Control	R	Lactuca sativa	5.7	0.8	7.13
+_Control	R	Lactuca sativa	2.6	0.6	4.33
+_Control	R	Lactuca sativa	4.6	0.9	5.11
+_Control	R	Lactuca sativa	4.4	0.8	5.50
+_Control	R	Lactuca sativa	3.2	0.7	4.57
+_Control	R	Lactuca sativa	6.5	1.2	5.42
+_Control	R	Lactuca sativa	4.1	0.9	4.56
+_Control	R	Lactuca sativa	7.3	1.0	7.30
+_Control	R	Lactuca sativa	4.0	0.5	8.00
+_Control	R	Lactuca sativa	8.4	0.5	16.80
+_Control	R	Lactuca sativa	3.6	0.8	4.50
+_Control	R	Lactuca sativa	7.3	0.7	10.43
+_Control	R	Lactuca sativa	6.7	0.9	7.44
+_Control	R	Lactuca sativa	7.4	0.6	12.33
+_Control	R	Lactuca sativa	4.0	0.6	6.67
+_Control	R	Lactuca sativa	3.6	0.5	7.20
+_Control	S	Phacelia tanacetifolia	3.7	0.9	4.11
+_Control	S	Phacelia tanacetifolia	6.2	1.0	6.20
+_Control	S	Phacelia tanacetifolia	6.0	1.5	4.00
+_Control	S	Phacelia tanacetifolia	7.5	3.0	2.50
+_Control	S	Phacelia tanacetifolia	3.6	3.8	0.95
+_Control	S	Phacelia tanacetifolia	4.5	3.7	1.22
+_Control	S	Phacelia tanacetifolia	2.0	1.2	1.67
+_Control	S	Phacelia tanacetifolia	5.5	4.2	1.31
+_Control	S	Phacelia tanacetifolia	5.8	1.2	4.83
+_Control	S	Phacelia tanacetifolia	3.9	4.3	0.91
+_Control	S	Phacelia tanacetifolia	5.0	1.4	3.57
+_Control	S	Phacelia tanacetifolia	5.5	2.5	2.20
+_Control	S	Phacelia tanacetifolia	6.6	2.4	2.75
+_Control	T	Helianthus annuus	11.1	3.1	3.58
+_Control	T	Helianthus annuus	13.4	5.4	2.48
+_Control	T	Helianthus annuus	7.0	4.4	1.59
+_Control	T	Helianthus annuus	5.5	2.1	2.62
+_Control	T	Helianthus annuus	9.1	4.3	2.12
+_Control	T	Helianthus annuus	8.1	3.1	2.61
+_Control	T	Helianthus annuus	7.9	4.4	1.80
+_Control	T	Helianthus annuus	7.4	3.6	2.06
+_Control	T	Helianthus annuus	10.0	3.9	2.56
+_Control	T	Helianthus annuus	5.4	3.1	1.74
+_Control	T	Helianthus annuus	2.1	3.1	0.68
+_Control	T	Helianthus annuus	11.1	6.1	1.82
+_Control	T	Helianthus annuus	3.6	2.6	1.38
+_Control	T	Helianthus annuus	8.6	4.9	1.76
+_Control	T	Helianthus annuus	3.4	4.3	0.79
+_Control	T	Helianthus annuus	5.5	3.5	1.57
+_Control	T	Helianthus annuus	8.8	5.0	1.76
+_Control	T	Helianthus annuus	9.3	6.3	1.48
+_Control	T	Helianthus annuus	1.0	4.5	0.22
+_Control	T	Helianthus annuus	10.0	4.1	2.44
+_Control	T	Helianthus annuus	6.2	3.6	1.72
+_Control	T	Helianthus annuus	2.0	3.6	0.56
+_Control	T	Helianthus annuus	9.8	4.7	2.09
+_Control	U	Trifolium pratense	3.2	0.7	4.57
+_Control	U	Trifolium pratense	3.5	1.0	3.50
+_Control	U	Trifolium pratense	1.0	1.0	1.00
+_Control	U	Trifolium pratense	1.0	1.1	0.91
+_Control	U	Trifolium pratense	4.5	0.7	6.43
+_Control	U	Trifolium pratense	2.5	0.5	5.00
+_Control	U	Trifolium pratense	2.4	0.5	4.80
+_Control	U	Trifolium pratense	2.8	1.0	2.80
+_Control	U	Trifolium pratense	2.5	1.5	1.67
+_Control	U	Trifolium pratense	4.1	0.9	4.56
+_Control	U	Trifolium pratense	5.5	0.9	6.11
+_Control	U	Trifolium pratense	3.5	0.9	3.89
+_Control	U	Trifolium pratense	3.0	0.8	3.75
+BSFFF	A	Allium cepa	1.1	7.0	0.16
+BSFFF	A	Allium cepa	2.1	4.7	0.45
+BSFFF	A	Allium cepa	5.0	9.0	0.56
+BSFFF	A	Allium cepa	2.3	4.3	0.53
+BSFFF	A	Allium cepa	4.5	10.2	0.44
+BSFFF	B	Daucus carota	5.4	1.5	3.60
+BSFFF	B	Daucus carota	2.3	0.8	2.88
+BSFFF	B	Daucus carota	4.0	1.0	4.00
+BSFFF	B	Daucus carota	3.5	1.1	3.18
+BSFFF	B	Daucus carota	3.0	1.4	2.14
+BSFFF	B	Daucus carota	2.7	1.2	2.25
+BSFFF	B	Daucus carota	1.2	1.0	1.20
+BSFFF	B	Daucus carota	1.5	1.5	1.00
+BSFFF	B	Daucus carota	2.1	0.9	2.33
+BSFFF	B	Daucus carota	1.7	1.1	1.55
+BSFFF	B	Daucus carota	2.0	1.5	1.33
+BSFFF	B	Daucus carota	4.0	1.5	2.67
+BSFFF	B	Daucus carota	2.0	0.8	2.50
+BSFFF	B	Daucus carota	5.0	1.6	3.13
+BSFFF	B	Daucus carota	3.0	1.5	2.00
+BSFFF	B	Daucus carota	1.6	1.0	1.60
+BSFFF	C	Brassica napus	2.5	1.8	1.39
+BSFFF	C	Brassica napus	4.6	3.0	1.53
+BSFFF	C	Brassica napus	1.7	2.0	0.85
+BSFFF	C	Brassica napus	1.1	1.7	0.65
+BSFFF	C	Brassica napus	4.5	3.5	1.29
+BSFFF	C	Brassica napus	3.1	3.4	0.91
+BSFFF	C	Brassica napus	5.7	2.9	1.97
+BSFFF	C	Brassica napus	9.8	3.9	2.51
+BSFFF	C	Brassica napus	2.4	2.2	1.09
+BSFFF	C	Brassica napus	6.4	3.5	1.83
+BSFFF	C	Brassica napus	2.9	2.1	1.38
+BSFFF	C	Brassica napus	2.8	2.4	1.17
+BSFFF	C	Brassica napus	6.5	3.8	1.71
+BSFFF	C	Brassica napus	2.8	4.4	0.64
+BSFFF	C	Brassica napus	3.2	2.6	1.23
+BSFFF	C	Brassica napus	5.0	2.2	2.27
+BSFFF	C	Brassica napus	7.0	3.7	1.89
+BSFFF	C	Brassica napus	0.5	1.7	0.29
+BSFFF	C	Brassica napus	4.2	2.8	1.50
+BSFFF	C	Brassica napus	6.5	2.1	3.10
+BSFFF	C	Brassica napus	9.4	4.0	2.35
+BSFFF	C	Brassica napus	7.5	2.3	3.26
+BSFFF	C	Brassica napus	4.5	2.0	2.25
+BSFFF	C	Brassica napus	5.0	2.0	2.50
+BSFFF	D	B. oleracea var gemmifera	3.9	3.1	1.26
+BSFFF	D	B. oleracea var gemmifera	6.2	5.0	1.24
+BSFFF	D	B. oleracea var gemmifera	6.5	3.7	1.76
+BSFFF	D	B. oleracea var gemmifera	3.0	3.5	0.86
+BSFFF	D	B. oleracea var gemmifera	3.5	3.7	0.95
+BSFFF	D	B. oleracea var gemmifera	3.0	1.8	1.67
+BSFFF	D	B. oleracea var gemmifera	6.3	3.4	1.85
+BSFFF	D	B. oleracea var gemmifera	7.5	2.7	2.78
+BSFFF	D	B. oleracea var gemmifera	8.9	4.6	1.93
+BSFFF	D	B. oleracea var gemmifera	4.2	3.5	1.20
+BSFFF	D	B. oleracea var gemmifera	2.7	2.7	1.00
+BSFFF	D	B. oleracea var gemmifera	8.2	4.1	2.00
+BSFFF	D	B. oleracea var gemmifera	7.5	3.7	2.03
+BSFFF	D	B. oleracea var gemmifera	4.1	3.7	1.11
+BSFFF	D	B. oleracea var gemmifera	4.0	3.0	1.33
+BSFFF	D	B. oleracea var gemmifera	2.5	3.3	0.76
+BSFFF	D	B. oleracea var gemmifera	3.2	2.9	1.10
+BSFFF	D	B. oleracea var gemmifera	7.0	3.4	2.06
+BSFFF	D	B. oleracea var gemmifera	10.9	3.0	3.63
+BSFFF	D	B. oleracea var gemmifera	2.3	3.2	0.72
+BSFFF	D	B. oleracea var gemmifera	6.0	3.7	1.62
+BSFFF	D	B. oleracea var gemmifera	2.0	3.8	0.53
+BSFFF	D	B. oleracea var gemmifera	5.2	3.4	1.53
+BSFFF	D	B. oleracea var gemmifera	6.0	3.3	1.82
+BSFFF	D	B. oleracea var gemmifera	5.2	4.0	1.30
+BSFFF	D	B. oleracea var gemmifera	2.1	3.2	0.66
+BSFFF	D	B. oleracea var gemmifera	6.3	4.2	1.50
+BSFFF	D	B. oleracea var gemmifera	4.2	5.3	0.79
+BSFFF	E	Cucurbita maxima	3.2	2.1	1.52
+BSFFF	E	Cucurbita maxima	6.0	2.0	3.00
+BSFFF	E	Cucurbita maxima	9.0	2.4	3.75
+BSFFF	E	Cucurbita maxima	7.0	1.7	4.12
+BSFFF	E	Cucurbita maxima	8.0	1.8	4.44
+BSFFF	E	Cucurbita maxima	8.5	2.9	2.93
+BSFFF	E	Cucurbita maxima	9.0	2.0	4.50
+BSFFF	E	Cucurbita maxima	7.0	2.4	2.92
+BSFFF	E	Cucurbita maxima	4.5	2.4	1.88
+BSFFF	E	Cucurbita maxima	12.0	2.1	5.71
+BSFFF	E	Cucurbita maxima	3.5	2.2	1.59
+BSFFF	E	Cucurbita maxima	13.3	2.5	5.32
+BSFFF	E	Cucurbita maxima	4.0	2.4	1.67
+BSFFF	F	Raphanus sativus	8.5	2.6	3.27
+BSFFF	F	Raphanus sativus	8.0	2.1	3.81
+BSFFF	F	Raphanus sativus	4.9	1.6	3.06
+BSFFF	F	Raphanus sativus	8.9	2.8	3.18
+BSFFF	F	Raphanus sativus	5.0	1.3	3.85
+BSFFF	F	Raphanus sativus	6.2	2.4	2.58
+BSFFF	F	Raphanus sativus	4.7	2.2	2.14
+BSFFF	F	Raphanus sativus	2.4	1.8	1.33
+BSFFF	F	Raphanus sativus	6.5	1.1	5.91
+BSFFF	F	Raphanus sativus	2.5	1.5	1.67
+BSFFF	F	Raphanus sativus	8.5	2.3	3.70
+BSFFF	F	Raphanus sativus	7.5	2.5	3.00
+BSFFF	F	Raphanus sativus	6.5	2.2	2.95
+BSFFF	F	Raphanus sativus	5.2	1.5	3.47
+BSFFF	F	Raphanus sativus	6.7	2.1	3.19
+BSFFF	F	Raphanus sativus	5.5	1.3	4.23
+BSFFF	F	Raphanus sativus	7.5	1.6	4.75
+BSFFF	F	Raphanus sativus	5.0	1.6	3.13
+BSFFF	F	Raphanus sativus	5.4	2.6	2.08
+BSFFF	F	Raphanus sativus	7.2	2.2	3.27
+BSFFF	F	Raphanus sativus	7.7	1.6	4.81
+BSFFF	F	Raphanus sativus	10.2	1.2	8.50
+BSFFF	F	Raphanus sativus	5.5	2.3	2.39
+BSFFF	F	Raphanus sativus	10.0	3.5	2.86
+BSFFF	F	Raphanus sativus	10.2	1.8	5.67
+BSFFF	F	Raphanus sativus	8.9	2.8	3.18
+BSFFF	F	Raphanus sativus	5.5	1.6	3.44
+BSFFF	G	Beta vulgaris	5.7	1.9	3.00
+BSFFF	G	Beta vulgaris	2.4	2.3	1.04
+BSFFF	G	Beta vulgaris	12.0	2.0	6.00
+BSFFF	G	Beta vulgaris	3.8	2.3	1.65
+BSFFF	G	Beta vulgaris	3.1	1.6	1.94
+BSFFF	G	Beta vulgaris	2.2	2.7	0.81
+BSFFF	G	Beta vulgaris	5.0	1.7	2.94
+BSFFF	G	Beta vulgaris	3.5	0.9	3.89
+BSFFF	G	Beta vulgaris	1.0	1.3	0.77
+BSFFF	G	Beta vulgaris	1.4	1.4	1.00
+BSFFF	G	Beta vulgaris	1.6	1.8	0.89
+BSFFF	G	Beta vulgaris	2.5	1.2	2.08
+BSFFF	G	Beta vulgaris	3.0	1.5	2.00
+BSFFF	G	Beta vulgaris	4.2	2.8	1.50
+BSFFF	G	Beta vulgaris	5.8	2.3	2.52
+BSFFF	G	Beta vulgaris	2.0	1.7	1.18
+BSFFF	G	Beta vulgaris	4.0	2.5	1.60
+BSFFF	G	Beta vulgaris	2.5	1.8	1.39
+BSFFF	G	Beta vulgaris	3.5	2.6	1.35
+BSFFF	G	Beta vulgaris	2.0	2.0	1.00
+BSFFF	G	Beta vulgaris	1.6	1.5	1.07
+BSFFF	G	Beta vulgaris	2.6	2.3	1.13
+BSFFF	G	Beta vulgaris	2.2	2.0	1.10
+BSFFF	G	Beta vulgaris	3.3	2.1	1.57
+BSFFF	G	Beta vulgaris	5.5	2.0	2.75
+BSFFF	G	Beta vulgaris	4.2	1.8	2.33
+BSFFF	G	Beta vulgaris	2.2	2.0	1.10
+BSFFF	G	Beta vulgaris	2.5	0.8	3.13
+BSFFF	G	Beta vulgaris	6.5	2.0	3.25
+BSFFF	G	Beta vulgaris	5.7	2.7	2.11
+BSFFF	G	Beta vulgaris	7.0	2.0	3.50
+BSFFF	G	Beta vulgaris	3.2	3.0	1.07
+BSFFF	G	Beta vulgaris	2.5	2.0	1.25
+BSFFF	G	Beta vulgaris	3.7	2.0	1.85
+BSFFF	G	Beta vulgaris	3.0	2.4	1.25
+BSFFF	G	Beta vulgaris	2.5	1.1	2.27
+BSFFF	G	Beta vulgaris	2.5	2.0	1.25
+BSFFF	G	Beta vulgaris	2.5	1.2	2.08
+BSFFF	G	Beta vulgaris	3.5	2.1	1.67
+BSFFF	G	Beta vulgaris	3.5	2.3	1.52
+BSFFF	G	Beta vulgaris	7.4	2.5	2.96
+BSFFF	H	B. oleracea var capitata	5.5	1.3	4.23
+BSFFF	H	B. oleracea var capitata	4.6	1.6	2.88
+BSFFF	H	B. oleracea var capitata	4.2	1.4	3.00
+BSFFF	H	B. oleracea var capitata	3.3	1.4	2.36
+BSFFF	H	B. oleracea var capitata	6.6	0.3	22.00
+BSFFF	H	B. oleracea var capitata	2.7	14.3	0.19
+BSFFF	H	B. oleracea var capitata	1.8	1.2	1.50
+BSFFF	H	B. oleracea var capitata	6.0	1.0	6.00
+BSFFF	H	B. oleracea var capitata	3.3	1.2	2.75
+BSFFF	H	B. oleracea var capitata	4.0	1.0	4.00
+BSFFF	H	B. oleracea var capitata	4.3	1.2	3.58
+BSFFF	H	B. oleracea var capitata	2.4	1.5	1.60
+BSFFF	H	B. oleracea var capitata	5.8	1.6	3.63
+BSFFF	H	B. oleracea var capitata	5.2	1.4	3.71
+BSFFF	H	B. oleracea var capitata	4.6	4.6	1.00
+BSFFF	H	B. oleracea var capitata	2.5	1.2	2.08
+BSFFF	H	B. oleracea var capitata	4.2	1.4	3.00
+BSFFF	H	B. oleracea var capitata	7.5	1.0	7.50
+BSFFF	H	B. oleracea var capitata	4.6	1.6	2.88
+BSFFF	H	B. oleracea var capitata	6.9	1.3	5.31
+BSFFF	H	B. oleracea var capitata	9.5	1.0	9.50
+BSFFF	H	B. oleracea var capitata	6.0	2.0	3.00
+BSFFF	H	B. oleracea var capitata	6.0	1.5	4.00
+BSFFF	H	B. oleracea var capitata	4.2	1.1	3.82
+BSFFF	H	B. oleracea var capitata	3.0	1.2	2.50
+BSFFF	H	B. oleracea var capitata	5.5	0.8	6.88
+BSFFF	I	Cucumis sativus	3.1	3.0	1.03
+BSFFF	I	Cucumis sativus	2.5	1.5	1.67
+BSFFF	I	Cucumis sativus	2.9	2.7	1.07
+BSFFF	I	Cucumis sativus	5.0	2.0	2.50
+BSFFF	I	Cucumis sativus	2.8	2.0	1.40
+BSFFF	I	Cucumis sativus	4.5	3.0	1.50
+BSFFF	I	Cucumis sativus	2.9	2.4	1.21
+BSFFF	I	Cucumis sativus	2.3	3.3	0.70
+BSFFF	I	Cucumis sativus	2.4	2.6	0.92
+BSFFF	I	Cucumis sativus	6.5	3.1	2.10
+BSFFF	I	Cucumis sativus	4.3	3.3	1.30
+BSFFF	I	Cucumis sativus	4.4	3.1	1.42
+BSFFF	I	Cucumis sativus	5.4	2.7	2.00
+BSFFF	I	Cucumis sativus	3.5	2.7	1.30
+BSFFF	I	Cucumis sativus	6.7	3.4	1.97
+BSFFF	I	Cucumis sativus	8.1	4.0	2.03
+BSFFF	I	Cucumis sativus	1.1	0.3	3.67
+BSFFF	I	Cucumis sativus	3.0	6.3	0.48
+BSFFF	J	Solanum lycopersicum	1.7	2.2	0.77
+BSFFF	J	Solanum lycopersicum	2.9	3.0	0.97
+BSFFF	J	Solanum lycopersicum	2.3	2.5	0.92
+BSFFF	J	Solanum lycopersicum	3.0	5.6	0.54
+BSFFF	J	Solanum lycopersicum	1.7	2.5	0.68
+BSFFF	J	Solanum lycopersicum	2.5	2.2	1.14
+BSFFF	J	Solanum lycopersicum	1.6	2.7	0.59
+BSFFF	J	Solanum lycopersicum	6.3	2.8	2.25
+BSFFF	J	Solanum lycopersicum	5.0	4.0	1.25
+BSFFF	J	Solanum lycopersicum	2.5	2.2	1.14
+BSFFF	J	Solanum lycopersicum	1.6	2.0	0.80
+BSFFF	J	Solanum lycopersicum	3.5	2.6	1.35
+BSFFF	J	Solanum lycopersicum	1.3	2.2	0.59
+BSFFF	J	Solanum lycopersicum	8.0	3.0	2.67
+BSFFF	J	Solanum lycopersicum	2.5	2.3	1.09
+BSFFF	J	Solanum lycopersicum	2.8	2.6	1.08
+BSFFF	J	Solanum lycopersicum	3.0	2.5	1.20
+BSFFF	J	Solanum lycopersicum	3.9	2.5	1.56
+BSFFF	J	Solanum lycopersicum	3.5	3.4	1.03
+BSFFF	J	Solanum lycopersicum	4.7	2.2	2.14
+BSFFF	J	Solanum lycopersicum	4.0	2.6	1.55
+BSFFF	J	Solanum lycopersicum	4.0	3.1	1.29
+BSFFF	J	Solanum lycopersicum	3.3	2.6	1.27
+BSFFF	J	Solanum lycopersicum	7.0	2.7	2.59
+BSFFF	K	Capsicum annuum	2.3	2.2	1.05
+BSFFF	K	Capsicum annuum	4.9	2.1	2.33
+BSFFF	K	Capsicum annuum	2.0	1.9	1.05
+BSFFF	K	Capsicum annuum	1.5	1.5	1.00
+BSFFF	K	Capsicum annuum	2.0	2.5	0.80
+BSFFF	L	Zea mays	3.5	5.8	0.60
+BSFFF	L	Zea mays	14.6	9.0	1.62
+BSFFF	L	Zea mays	6.0	5.0	1.20
+BSFFF	L	Zea mays	1.2	3.0	0.40
+BSFFF	M	Triticum aestivum	11.0	1.9	5.79
+BSFFF	M	Triticum aestivum	9.8	9.6	1.02
+BSFFF	M	Triticum aestivum	10.2	18.0	0.57
+BSFFF	M	Triticum aestivum	10.5	20.7	0.51
+BSFFF	M	Triticum aestivum	5.7	11.0	0.52
+BSFFF	N	Pisum sativum	3.9	3.3	1.18
+BSFFF	N	Pisum sativum	8.9	4.2	2.12
+BSFFF	N	Pisum sativum	13.5	3.8	3.55
+BSFFF	N	Pisum sativum	3.7	3.1	1.19
+BSFFF	N	Pisum sativum	4.9	3.3	1.48
+BSFFF	O	Vicia faba	7.2	6.9	1.04
+BSFFF	O	Vicia faba	13.0	10.2	1.27
+BSFFF	O	Vicia faba	10.7	9.3	1.15
+BSFFF	O	Vicia faba	10.0	8.6	1.16
+BSFFF	O	Vicia faba	9.2	8.7	1.06
+BSFFF	O	Vicia faba	17.0	10.0	1.70
+BSFFF	O	Vicia faba	13.1	7.3	1.79
+BSFFF	O	Vicia faba	10.9	6.9	1.58
+BSFFF	O	Vicia faba	12.5	8.1	1.54
+BSFFF	O	Vicia faba	7.8	5.4	1.44
+BSFFF	O	Vicia faba	10.0	8.2	1.22
+BSFFF	O	Vicia faba	13.0	7.5	1.73
+BSFFF	O	Vicia faba	9.1	4.5	2.02
+BSFFF	O	Vicia faba	2.0	6.1	0.33
+BSFFF	O	Vicia faba	12.8	8.5	1.51
+BSFFF	O	Vicia faba	9.4	5.4	1.74
+BSFFF	O	Vicia faba	12.1	6.7	1.81
+BSFFF	O	Vicia faba	12.0	8.8	1.36
+BSFFF	O	Vicia faba	12.5	8.7	1.44
+BSFFF	O	Vicia faba	6.0	11.4	0.53
+BSFFF	O	Vicia faba	9.5	7.2	1.32
+BSFFF	O	Vicia faba	13.5	9.0	1.50
+BSFFF	O	Vicia faba	9.0	7.2	1.25
+BSFFF	O	Vicia faba	11.3	7.6	1.49
+BSFFF	O	Vicia faba	13.0	8.2	1.59
+BSFFF	O	Vicia faba	8.7	8.1	1.07
+BSFFF	O	Vicia faba	14.8	7.5	1.97
+BSFFF	O	Vicia faba	13.8	6.8	2.03
+BSFFF	O	Vicia faba	11.6	6.2	1.87
+BSFFF	O	Vicia faba	9.9	7.0	1.41
+BSFFF	P	Fagopyrum esculentum	3.6	4.1	0.88
+BSFFF	P	Fagopyrum esculentum	6.1	4.2	1.45
+BSFFF	P	Fagopyrum esculentum	5.5	4.5	1.22
+BSFFF	P	Fagopyrum esculentum	2.4	4.7	0.51
+BSFFF	P	Fagopyrum esculentum	2.5	5.0	0.50
+BSFFF	P	Fagopyrum esculentum	2.8	5.5	0.51
+BSFFF	P	Fagopyrum esculentum	1.7	4.5	0.38
+BSFFF	P	Fagopyrum esculentum	4.0	4.7	0.85
+BSFFF	P	Fagopyrum esculentum	2.5	4.5	0.56
+BSFFF	P	Fagopyrum esculentum	3.0	4.6	0.65
+BSFFF	P	Fagopyrum esculentum	6.5	4.3	1.51
+BSFFF	P	Fagopyrum esculentum	8.5	5.7	1.49
+BSFFF	P	Fagopyrum esculentum	5.8	4.0	1.45
+BSFFF	P	Fagopyrum esculentum	5.0	7.2	0.69
+BSFFF	P	Fagopyrum esculentum	1.5	4.1	0.37
+BSFFF	P	Fagopyrum esculentum	5.4	5.7	0.95
+BSFFF	P	Fagopyrum esculentum	3.0	5.0	0.60
+BSFFF	P	Fagopyrum esculentum	2.5	6.9	0.36
+BSFFF	P	Fagopyrum esculentum	3.2	4.7	0.68
+BSFFF	P	Fagopyrum esculentum	1.1	5.1	0.22
+BSFFF	P	Fagopyrum esculentum	3.5	4.6	0.76
+BSFFF	Q	Borago officinalis	4.5	1.0	4.50
+BSFFF	Q	Borago officinalis	5.0	0.9	5.56
+BSFFF	Q	Borago officinalis	4.0	0.3	13.33
+BSFFF	Q	Borago officinalis	5.0	0.6	8.33
+BSFFF	Q	Borago officinalis	7.8	0.8	9.75
+BSFFF	Q	Borago officinalis	3.1	1.1	2.82
+BSFFF	Q	Borago officinalis	5.5	1.5	3.67
+BSFFF	Q	Borago officinalis	7.6	1.0	7.60
+BSFFF	Q	Borago officinalis	7.2	1.8	4.00
+BSFFF	Q	Borago officinalis	1.9	1.0	1.90
+BSFFF	Q	Borago officinalis	5.6	1.2	4.67
+BSFFF	Q	Borago officinalis	2.0	0.5	4.00
+BSFFF	Q	Borago officinalis	2.5	0.7	3.57
+BSFFF	Q	Borago officinalis	5.6	1.1	5.09
+BSFFF	Q	Borago officinalis	8.7	1.8	4.83
+BSFFF	Q	Borago officinalis	6.0	1.0	6.00
+BSFFF	Q	Borago officinalis	5.0	1.0	5.00
+BSFFF	Q	Borago officinalis	7.9	0.9	8.78
+BSFFF	Q	Borago officinalis	2.7	1.3	2.08
+BSFFF	Q	Borago officinalis	6.1	1.1	5.55
+BSFFF	Q	Borago officinalis	4.2	2.0	2.10
+BSFFF	Q	Borago officinalis	2.7	0.9	3.00
+BSFFF	R	Lactuca sativa	1.7	0.5	3.40
+BSFFF	R	Lactuca sativa	3.2	0.6	5.33
+BSFFF	R	Lactuca sativa	3.2	1.1	2.91
+BSFFF	R	Lactuca sativa	5.6	0.6	9.33
+BSFFF	R	Lactuca sativa	2.8	0.9	3.11
+BSFFF	R	Lactuca sativa	1.8	0.5	3.60
+BSFFF	R	Lactuca sativa	7.1	0.7	10.14
+BSFFF	R	Lactuca sativa	2.8	0.8	3.50
+BSFFF	R	Lactuca sativa	4.7	0.9	5.22
+BSFFF	R	Lactuca sativa	3.1	0.5	6.20
+BSFFF	R	Lactuca sativa	3.2	0.9	3.56
+BSFFF	R	Lactuca sativa	3.4	0.9	3.78
+BSFFF	R	Lactuca sativa	2.3	0.9	2.56
+BSFFF	R	Lactuca sativa	3.4	0.7	4.86
+BSFFF	R	Lactuca sativa	4.7	0.7	6.71
+BSFFF	R	Lactuca sativa	3.1	1.0	3.10
+BSFFF	R	Lactuca sativa	4.0	0.5	8.00
+BSFFF	R	Lactuca sativa	3.0	0.9	3.33
+BSFFF	R	Lactuca sativa	8.1	0.7	11.57
+BSFFF	R	Lactuca sativa	3.9	0.5	7.80
+BSFFF	R	Lactuca sativa	8.7	1.4	6.21
+BSFFF	R	Lactuca sativa	6.1	1.1	5.55
+BSFFF	R	Lactuca sativa	2.3	0.6	3.83
+BSFFF	S	Phacelia tanacetifolia	3.5	2.4	1.46
+BSFFF	S	Phacelia tanacetifolia	3.2	2.7	1.19
+BSFFF	S	Phacelia tanacetifolia	5.6	5.2	1.08
+BSFFF	S	Phacelia tanacetifolia	5.0	3.5	1.43
+BSFFF	S	Phacelia tanacetifolia	1.6	2.8	0.57
+BSFFF	S	Phacelia tanacetifolia	4.5	0.7	6.43
+BSFFF	S	Phacelia tanacetifolia	3.9	2.8	1.39
+BSFFF	S	Phacelia tanacetifolia	7.2	3.6	2.00
+BSFFF	S	Phacelia tanacetifolia	4.9	3.6	1.36
+BSFFF	S	Phacelia tanacetifolia	1.6	4.6	0.35
+BSFFF	S	Phacelia tanacetifolia	3.0	3.2	0.94
+BSFFF	S	Phacelia tanacetifolia	4.0	3.4	1.18
+BSFFF	S	Phacelia tanacetifolia	3.2	3.1	1.03
+BSFFF	S	Phacelia tanacetifolia	4.0	4.8	0.83
+BSFFF	S	Phacelia tanacetifolia	4.0	3.8	1.05
+BSFFF	S	Phacelia tanacetifolia	3.0	2.6	1.15
+BSFFF	S	Phacelia tanacetifolia	5.8	3.9	1.49
+BSFFF	S	Phacelia tanacetifolia	3.1	5.5	0.56
+BSFFF	T	Helianthus annuus	4.2	4.8	0.88
+BSFFF	T	Helianthus annuus	12.0	5.2	2.31
+BSFFF	T	Helianthus annuus	6.2	4.5	1.38
+BSFFF	T	Helianthus annuus	7.5	5.1	1.47
+BSFFF	T	Helianthus annuus	11.0	5.0	2.20
+BSFFF	T	Helianthus annuus	2.6	3.5	0.74
+BSFFF	T	Helianthus annuus	8.5	4.0	2.13
+BSFFF	T	Helianthus annuus	4.6	6.0	0.77
+BSFFF	T	Helianthus annuus	1.3	2.7	0.48
+BSFFF	T	Helianthus annuus	6.0	3.2	1.88
+BSFFF	T	Helianthus annuus	10.2	3.5	2.91
+BSFFF	T	Helianthus annuus	7.0	5.5	1.27
+BSFFF	T	Helianthus annuus	10.5	5.5	1.91
+BSFFF	T	Helianthus annuus	11.0	6.0	1.83
+BSFFF	T	Helianthus annuus	8.0	3.9	2.05
+BSFFF	T	Helianthus annuus	6.5	2.0	3.25
+BSFFF	T	Helianthus annuus	11.5	6.7	1.72
+BSFFF	T	Helianthus annuus	4.4	2.5	1.76
+BSFFF	T	Helianthus annuus	7.4	4.5	1.64
+BSFFF	T	Helianthus annuus	1.0	4.6	0.22
+BSFFF	T	Helianthus annuus	7.0	4.0	1.75
+BSFFF	T	Helianthus annuus	6.4	4.2	1.52
+BSFFF	T	Helianthus annuus	8.2	6.3	1.30
+BSFFF	T	Helianthus annuus	17.0	6.3	2.70
+BSFFF	T	Helianthus annuus	11.0	6.0	1.83
+BSFFF	U	Trifolium pratense	3.5	1.0	3.50
+BSFFF	U	Trifolium pratense	3.9	1.1	3.55
+BSFFF	U	Trifolium pratense	3.5	1.0	3.50
+BSFFF	U	Trifolium pratense	3.9	0.8	4.88
+BSFFF	U	Trifolium pratense	3.0	1.0	3.00
+BSFFF	U	Trifolium pratense	3.2	1.1	2.91
+BSFFF	U	Trifolium pratense	0.9	1.1	0.82
+BSFFF	U	Trifolium pratense	0.7	0.3	2.33
+BSFFF	U	Trifolium pratense	3.9	0.3	13.00
+BSFFF	U	Trifolium pratense	4.3	1.0	4.30
+BSFFF	U	Trifolium pratense	3.1	1.5	2.07
+BSFFF	U	Trifolium pratense	1.2	0.7	1.71
+BSFFF	U	Trifolium pratense	3.7	1.3	2.85
+BSFFF	U	Trifolium pratense	3.3	1.2	2.75
+BSFFF	U	Trifolium pratense	1.3	1.2	1.08

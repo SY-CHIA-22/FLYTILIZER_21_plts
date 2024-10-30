@@ -1,0 +1,1261 @@
+amendment	plant_code	plant_species	replicate	germ_success	germ_time							
+_Control	A	Allium cepa	1	0								
+_Control	A	Allium cepa	2	1	9							
+_Control	A	Allium cepa	3	0								
+_Control	A	Allium cepa	4	0								
+_Control	A	Allium cepa	5	1	8							
+_Control	A	Allium cepa	6	1	8							
+_Control	A	Allium cepa	7	0								
+_Control	A	Allium cepa	8	1	7							
+_Control	A	Allium cepa	9	1	6							
+_Control	A	Allium cepa	10	0								
+_Control	A	Allium cepa	11	0								
+_Control	A	Allium cepa	12	1	8							
+_Control	A	Allium cepa	13	1	8							
+_Control	A	Allium cepa	14	1	8							
+_Control	A	Allium cepa	15	1	8							
+_Control	A	Allium cepa	16	0								
+_Control	A	Allium cepa	17	0								
+_Control	A	Allium cepa	18	1	8							
+_Control	A	Allium cepa	19	1	9							
+_Control	A	Allium cepa	20	1	8							
+_Control	A	Allium cepa	21	1	8							
+_Control	A	Allium cepa	22	1	8							
+_Control	A	Allium cepa	23	1	8							
+_Control	A	Allium cepa	24	0								
+_Control	A	Allium cepa	25	1	7							
+_Control	A	Allium cepa	26	0								
+_Control	A	Allium cepa	27	1	7							
+_Control	A	Allium cepa	28	1	8							
+_Control	A	Allium cepa	29	1	13							
+_Control	A	Allium cepa	30	1	8							
+_Control	B	Daucus carota	1	0								
+_Control	B	Daucus carota	2	1	9							
+_Control	B	Daucus carota	3	0								
+_Control	B	Daucus carota	4	1	8							
+_Control	B	Daucus carota	5	1	8							
+_Control	B	Daucus carota	6	0								
+_Control	B	Daucus carota	7	1	6							
+_Control	B	Daucus carota	8	1	8							
+_Control	B	Daucus carota	9	0								
+_Control	B	Daucus carota	10	1	12							
+_Control	B	Daucus carota	11	0								
+_Control	B	Daucus carota	12	1	9							
+_Control	B	Daucus carota	13	0								
+_Control	B	Daucus carota	14	0								
+_Control	B	Daucus carota	15	1	8							
+_Control	B	Daucus carota	16	1	8							
+_Control	B	Daucus carota	17	1	8							
+_Control	B	Daucus carota	18	1	6							
+_Control	B	Daucus carota	19	0								
+_Control	B	Daucus carota	20	0								
+_Control	B	Daucus carota	21	1	8							
+_Control	B	Daucus carota	22	1	12							
+_Control	B	Daucus carota	23	1	6							
+_Control	B	Daucus carota	24	1	8							
+_Control	B	Daucus carota	25	0								
+_Control	B	Daucus carota	26	0								
+_Control	B	Daucus carota	27	1	8							
+_Control	B	Daucus carota	28	1	10							
+_Control	B	Daucus carota	29	0								
+_Control	B	Daucus carota	30	1	10							
+_Control	C	Brassica napus	1	1	6							
+_Control	C	Brassica napus	2	0								
+_Control	C	Brassica napus	3	1	4							
+_Control	C	Brassica napus	4	1	3							
+_Control	C	Brassica napus	5	0								
+_Control	C	Brassica napus	6	1	5							
+_Control	C	Brassica napus	7	1	5							
+_Control	C	Brassica napus	8	1	5							
+_Control	C	Brassica napus	9	1	3							
+_Control	C	Brassica napus	10	1	11							
+_Control	C	Brassica napus	11	1	4							
+_Control	C	Brassica napus	12	1	4							
+_Control	C	Brassica napus	13	0								
+_Control	C	Brassica napus	14	1	5							
+_Control	C	Brassica napus	15	1	4							
+_Control	C	Brassica napus	16	1	7							
+_Control	C	Brassica napus	17	1	5							
+_Control	C	Brassica napus	18	1	4							
+_Control	C	Brassica napus	19	1	4							
+_Control	C	Brassica napus	20	1	5							
+_Control	C	Brassica napus	21	1	4							
+_Control	C	Brassica napus	22	0								
+_Control	C	Brassica napus	23	1	4							
+_Control	C	Brassica napus	24	1	4							
+_Control	C	Brassica napus	25	1	5							
+_Control	C	Brassica napus	26	1	5							
+_Control	C	Brassica napus	27	0								
+_Control	C	Brassica napus	28	1	5							
+_Control	C	Brassica napus	29	1	5							
+_Control	C	Brassica napus	30	1	7							
+_Control	D	B. oleracea var gemmifera	1	1	4							
+_Control	D	B. oleracea var gemmifera	2	1	4							
+_Control	D	B. oleracea var gemmifera	3	1	4							
+_Control	D	B. oleracea var gemmifera	4	1	7							
+_Control	D	B. oleracea var gemmifera	5	1	6							
+_Control	D	B. oleracea var gemmifera	6	1	4							
+_Control	D	B. oleracea var gemmifera	7	1	4							
+_Control	D	B. oleracea var gemmifera	8	1	5							
+_Control	D	B. oleracea var gemmifera	9	1	4							
+_Control	D	B. oleracea var gemmifera	10	1	5							
+_Control	D	B. oleracea var gemmifera	11	1	4							
+_Control	D	B. oleracea var gemmifera	12	1	5							
+_Control	D	B. oleracea var gemmifera	13	1	4							
+_Control	D	B. oleracea var gemmifera	14	1	5							
+_Control	D	B. oleracea var gemmifera	15	1	4							
+_Control	D	B. oleracea var gemmifera	16	1	8							
+_Control	D	B. oleracea var gemmifera	17	0								
+_Control	D	B. oleracea var gemmifera	18	1	4							
+_Control	D	B. oleracea var gemmifera	19	1	5							
+_Control	D	B. oleracea var gemmifera	20	1	4							
+_Control	D	B. oleracea var gemmifera	21	1	7							
+_Control	D	B. oleracea var gemmifera	22	1	7							
+_Control	D	B. oleracea var gemmifera	23	1	5							
+_Control	D	B. oleracea var gemmifera	24	1	4							
+_Control	D	B. oleracea var gemmifera	25	1	4							
+_Control	D	B. oleracea var gemmifera	26	1	4							
+_Control	D	B. oleracea var gemmifera	27	1	4							
+_Control	D	B. oleracea var gemmifera	28	1	4							
+_Control	D	B. oleracea var gemmifera	29	1	4							
+_Control	D	B. oleracea var gemmifera	30	1	6							
+_Control	E	Cucurbita maxima	1	1	6							
+_Control	E	Cucurbita maxima	2	1	7							
+_Control	E	Cucurbita maxima	3	0								
+_Control	E	Cucurbita maxima	4	1	5							
+_Control	E	Cucurbita maxima	5	1	6							
+_Control	E	Cucurbita maxima	6	1	6							
+_Control	E	Cucurbita maxima	7	1	7							
+_Control	E	Cucurbita maxima	8	1	6							
+_Control	E	Cucurbita maxima	9	1	5							
+_Control	E	Cucurbita maxima	10	1	6							
+_Control	E	Cucurbita maxima	11	1	6							
+_Control	E	Cucurbita maxima	12	1	6							
+_Control	E	Cucurbita maxima	13	1	7							
+_Control	E	Cucurbita maxima	14	1	6							
+_Control	E	Cucurbita maxima	15	1	7							
+_Control	E	Cucurbita maxima	16	1	6							
+_Control	E	Cucurbita maxima	17	1	7							
+_Control	E	Cucurbita maxima	18	1	7							
+_Control	E	Cucurbita maxima	19	1	7							
+_Control	E	Cucurbita maxima	20	1	7							
+_Control	E	Cucurbita maxima	21	1	7							
+_Control	E	Cucurbita maxima	22	1	6							
+_Control	E	Cucurbita maxima	23	1	7							
+_Control	E	Cucurbita maxima	24	1	8							
+_Control	E	Cucurbita maxima	25	0								
+_Control	E	Cucurbita maxima	26	1	6							
+_Control	E	Cucurbita maxima	27	1	7							
+_Control	E	Cucurbita maxima	28	1	7							
+_Control	E	Cucurbita maxima	29	0								
+_Control	E	Cucurbita maxima	30	1	6							
+_Control	F	Raphanus sativus	1	1	3							
+_Control	F	Raphanus sativus	2	1	3							
+_Control	F	Raphanus sativus	3	1	5							
+_Control	F	Raphanus sativus	4	0								
+_Control	F	Raphanus sativus	5	1	8							
+_Control	F	Raphanus sativus	6	1	3							
+_Control	F	Raphanus sativus	7	1	3							
+_Control	F	Raphanus sativus	8	1	3							
+_Control	F	Raphanus sativus	9	1	3							
+_Control	F	Raphanus sativus	10	1	4							
+_Control	F	Raphanus sativus	11	1	3							
+_Control	F	Raphanus sativus	12	1	3							
+_Control	F	Raphanus sativus	13	1	3							
+_Control	F	Raphanus sativus	14	1	3							
+_Control	F	Raphanus sativus	15	0								
+_Control	F	Raphanus sativus	16	1	7							
+_Control	F	Raphanus sativus	17	1	4							
+_Control	F	Raphanus sativus	18	1	3							
+_Control	F	Raphanus sativus	19	1	3							
+_Control	F	Raphanus sativus	20	1	4							
+_Control	F	Raphanus sativus	21	1	4							
+_Control	F	Raphanus sativus	22	1	3							
+_Control	F	Raphanus sativus	23	1	4							
+_Control	F	Raphanus sativus	24	1	3							
+_Control	F	Raphanus sativus	25	1	5							
+_Control	F	Raphanus sativus	26	1	4							
+_Control	F	Raphanus sativus	27	1	3							
+_Control	F	Raphanus sativus	28	1	3							
+_Control	F	Raphanus sativus	29	0								
+_Control	F	Raphanus sativus	30	1	9							
+_Control	G	Beta vulgaris	1	1	8							
+_Control	G	Beta vulgaris	2	1	8							
+_Control	G	Beta vulgaris	3	1	8							
+_Control	G	Beta vulgaris	4	1	7							
+_Control	G	Beta vulgaris	5	1	7							
+_Control	G	Beta vulgaris	6	0								
+_Control	G	Beta vulgaris	7	1	6							
+_Control	G	Beta vulgaris	8	1	5							
+_Control	G	Beta vulgaris	9	0								
+_Control	G	Beta vulgaris	10	1	4							
+_Control	G	Beta vulgaris	11	0								
+_Control	G	Beta vulgaris	12	1	5							
+_Control	G	Beta vulgaris	13	1	6							
+_Control	G	Beta vulgaris	14	1	5							
+_Control	G	Beta vulgaris	15	1	8							
+_Control	G	Beta vulgaris	16	1	6							
+_Control	G	Beta vulgaris	17	0								
+_Control	G	Beta vulgaris	18	1	7							
+_Control	G	Beta vulgaris	19	1	6							
+_Control	G	Beta vulgaris	20	0								
+_Control	G	Beta vulgaris	21	1	6							
+_Control	G	Beta vulgaris	22	1	5							
+_Control	G	Beta vulgaris	23	1	7							
+_Control	G	Beta vulgaris	24	1	9							
+_Control	G	Beta vulgaris	25	1	5							
+_Control	G	Beta vulgaris	26	0								
+_Control	G	Beta vulgaris	27	1	8							
+_Control	G	Beta vulgaris	28	1	5							
+_Control	G	Beta vulgaris	29	1	7							
+_Control	G	Beta vulgaris	30	1	6							
+_Control	H	B. oleracea var capitata	1	1	4							
+_Control	H	B. oleracea var capitata	2	1	3							
+_Control	H	B. oleracea var capitata	3	0								
+_Control	H	B. oleracea var capitata	4	1	4							
+_Control	H	B. oleracea var capitata	5	1	4							
+_Control	H	B. oleracea var capitata	6	1	4							
+_Control	H	B. oleracea var capitata	7	1	4							
+_Control	H	B. oleracea var capitata	8	1	7							
+_Control	H	B. oleracea var capitata	9	1	4							
+_Control	H	B. oleracea var capitata	10	1	7							
+_Control	H	B. oleracea var capitata	11	1	4							
+_Control	H	B. oleracea var capitata	12	1	4							
+_Control	H	B. oleracea var capitata	13	0								
+_Control	H	B. oleracea var capitata	14	1	4							
+_Control	H	B. oleracea var capitata	15	1	4							
+_Control	H	B. oleracea var capitata	16	1	5							
+_Control	H	B. oleracea var capitata	17	1	4							
+_Control	H	B. oleracea var capitata	18	1	4							
+_Control	H	B. oleracea var capitata	19	1	4							
+_Control	H	B. oleracea var capitata	20	1	6							
+_Control	H	B. oleracea var capitata	21	1	3							
+_Control	H	B. oleracea var capitata	22	1	3							
+_Control	H	B. oleracea var capitata	23	1	4							
+_Control	H	B. oleracea var capitata	24	0								
+_Control	H	B. oleracea var capitata	25	1	4							
+_Control	H	B. oleracea var capitata	26	1	4							
+_Control	H	B. oleracea var capitata	27	1	4							
+_Control	H	B. oleracea var capitata	28	1	4							
+_Control	H	B. oleracea var capitata	29	1	4							
+_Control	H	B. oleracea var capitata	30	0								
+_Control	I	Cucumis sativus	1	1	4							
+_Control	I	Cucumis sativus	2	1	4							
+_Control	I	Cucumis sativus	3	1	5							
+_Control	I	Cucumis sativus	4	0								
+_Control	I	Cucumis sativus	5	1	5							
+_Control	I	Cucumis sativus	6	1	3							
+_Control	I	Cucumis sativus	7	1	4							
+_Control	I	Cucumis sativus	8	1	4							
+_Control	I	Cucumis sativus	9	0								
+_Control	I	Cucumis sativus	10	1	4							
+_Control	I	Cucumis sativus	11	1	4							
+_Control	I	Cucumis sativus	12	0								
+_Control	I	Cucumis sativus	13	1	3							
+_Control	I	Cucumis sativus	14	1	4							
+_Control	I	Cucumis sativus	15	1	4							
+_Control	I	Cucumis sativus	16	1	4							
+_Control	I	Cucumis sativus	17	1	4							
+_Control	I	Cucumis sativus	18	1	4							
+_Control	I	Cucumis sativus	19	0								
+_Control	I	Cucumis sativus	20	1	5							
+_Control	I	Cucumis sativus	21	1	4							
+_Control	I	Cucumis sativus	22	0								
+_Control	I	Cucumis sativus	23	1	4							
+_Control	I	Cucumis sativus	24	1	4							
+_Control	I	Cucumis sativus	25	1	5							
+_Control	I	Cucumis sativus	26	1	4							
+_Control	I	Cucumis sativus	27	1	5							
+_Control	I	Cucumis sativus	28	0								
+_Control	I	Cucumis sativus	29	1	4							
+_Control	I	Cucumis sativus	30	1	4							
+_Control	J	Solanum lycopersicum	1	1	9							
+_Control	J	Solanum lycopersicum	2	1	7							
+_Control	J	Solanum lycopersicum	3	1	7							
+_Control	J	Solanum lycopersicum	4	1	7							
+_Control	J	Solanum lycopersicum	5	1	9							
+_Control	J	Solanum lycopersicum	6	1	8							
+_Control	J	Solanum lycopersicum	7	1	6							
+_Control	J	Solanum lycopersicum	8	1	6							
+_Control	J	Solanum lycopersicum	9	1	7							
+_Control	J	Solanum lycopersicum	10	0								
+_Control	J	Solanum lycopersicum	11	1	9							
+_Control	J	Solanum lycopersicum	12	1	6							
+_Control	J	Solanum lycopersicum	13	1	6							
+_Control	J	Solanum lycopersicum	14	1	7							
+_Control	J	Solanum lycopersicum	15	1	7							
+_Control	J	Solanum lycopersicum	16	0								
+_Control	J	Solanum lycopersicum	17	1	7							
+_Control	J	Solanum lycopersicum	18	0								
+_Control	J	Solanum lycopersicum	19	0								
+_Control	J	Solanum lycopersicum	20	1	8							
+_Control	J	Solanum lycopersicum	21	0								
+_Control	J	Solanum lycopersicum	22	1	7							
+_Control	J	Solanum lycopersicum	23	1	7							
+_Control	J	Solanum lycopersicum	24	1	7							
+_Control	J	Solanum lycopersicum	25	1	7							
+_Control	J	Solanum lycopersicum	26	0								
+_Control	J	Solanum lycopersicum	27	1	11							
+_Control	J	Solanum lycopersicum	28	1	7							
+_Control	J	Solanum lycopersicum	29	1	8							
+_Control	J	Solanum lycopersicum	30	1	7							
+_Control	K	Capsicum annuum	1	1	8							
+_Control	K	Capsicum annuum	2	0								
+_Control	K	Capsicum annuum	3	1	10							
+_Control	K	Capsicum annuum	4	0								
+_Control	K	Capsicum annuum	5	1	9							
+_Control	K	Capsicum annuum	6	0								
+_Control	K	Capsicum annuum	7	1	16							
+_Control	K	Capsicum annuum	8	0								
+_Control	K	Capsicum annuum	9	1	8							
+_Control	K	Capsicum annuum	10	0								
+_Control	K	Capsicum annuum	11	1	8							
+_Control	K	Capsicum annuum	12	1	8							
+_Control	K	Capsicum annuum	13	1	9							
+_Control	K	Capsicum annuum	14	0								
+_Control	K	Capsicum annuum	15	1	16							
+_Control	K	Capsicum annuum	16	0								
+_Control	K	Capsicum annuum	17	0								
+_Control	K	Capsicum annuum	18	0								
+_Control	K	Capsicum annuum	19	1	9							
+_Control	K	Capsicum annuum	20	1	9							
+_Control	K	Capsicum annuum	21	0								
+_Control	K	Capsicum annuum	22	0								
+_Control	K	Capsicum annuum	23	1	8							
+_Control	K	Capsicum annuum	24	1	11							
+_Control	K	Capsicum annuum	25	1	12							
+_Control	K	Capsicum annuum	26	1	8							
+_Control	K	Capsicum annuum	27	1	9							
+_Control	K	Capsicum annuum	28	0								
+_Control	K	Capsicum annuum	29	0								
+_Control	K	Capsicum annuum	30	1	13							
+_Control	L	Zea mays	1	1	5							
+_Control	L	Zea mays	2	1	4							
+_Control	L	Zea mays	3	1	5							
+_Control	L	Zea mays	4	1	4							
+_Control	L	Zea mays	5	1	4							
+_Control	L	Zea mays	6	1	4							
+_Control	L	Zea mays	7	1	5							
+_Control	L	Zea mays	8	1	7							
+_Control	L	Zea mays	9	1	6							
+_Control	L	Zea mays	10	0								
+_Control	L	Zea mays	11	1	4							
+_Control	L	Zea mays	12	0								
+_Control	L	Zea mays	13	0								
+_Control	L	Zea mays	14	1	5							
+_Control	L	Zea mays	15	1	4							
+_Control	L	Zea mays	16	1	4							
+_Control	L	Zea mays	17	1	4							
+_Control	L	Zea mays	18	1	5							
+_Control	L	Zea mays	19	0								
+_Control	L	Zea mays	20	1	5							
+_Control	L	Zea mays	21	0								
+_Control	L	Zea mays	22	0								
+_Control	L	Zea mays	23	1	6							
+_Control	L	Zea mays	24	0								
+_Control	L	Zea mays	25	1	8							
+_Control	L	Zea mays	26	0								
+_Control	L	Zea mays	27	1	4							
+_Control	L	Zea mays	28	0								
+_Control	L	Zea mays	29	1	6							
+_Control	L	Zea mays	30	0								
+_Control	M	Triticum aestivum	1	1	6							
+_Control	M	Triticum aestivum	2	1	4							
+_Control	M	Triticum aestivum	3	0								
+_Control	M	Triticum aestivum	4	1	4							
+_Control	M	Triticum aestivum	5	1	5							
+_Control	M	Triticum aestivum	6	1	4							
+_Control	M	Triticum aestivum	7	1	3							
+_Control	M	Triticum aestivum	8	1	4							
+_Control	M	Triticum aestivum	9	1	3							
+_Control	M	Triticum aestivum	10	0								
+_Control	M	Triticum aestivum	11	1	5							
+_Control	M	Triticum aestivum	12	1	3							
+_Control	M	Triticum aestivum	13	1	9							
+_Control	M	Triticum aestivum	14	1	8							
+_Control	M	Triticum aestivum	15	0								
+_Control	M	Triticum aestivum	16	1	3							
+_Control	M	Triticum aestivum	17	1	3							
+_Control	M	Triticum aestivum	18	0								
+_Control	M	Triticum aestivum	19	1	5							
+_Control	M	Triticum aestivum	20	0								
+_Control	M	Triticum aestivum	21	0								
+_Control	M	Triticum aestivum	22	1	3							
+_Control	M	Triticum aestivum	23	1	3							
+_Control	M	Triticum aestivum	24	0								
+_Control	M	Triticum aestivum	25	1	3							
+_Control	M	Triticum aestivum	26	1	6							
+_Control	M	Triticum aestivum	27	1	4							
+_Control	M	Triticum aestivum	28	1	7							
+_Control	M	Triticum aestivum	29	0								
+_Control	M	Triticum aestivum	30	1	7							
+_Control	N	Pisum sativum	1	0								
+_Control	N	Pisum sativum	2	0								
+_Control	N	Pisum sativum	3	1	4							
+_Control	N	Pisum sativum	4	0								
+_Control	N	Pisum sativum	5	1	3							
+_Control	N	Pisum sativum	6	0								
+_Control	N	Pisum sativum	7	0								
+_Control	N	Pisum sativum	8	1	5							
+_Control	N	Pisum sativum	9	0								
+_Control	N	Pisum sativum	10	1	4							
+_Control	N	Pisum sativum	11	0								
+_Control	N	Pisum sativum	12	0								
+_Control	N	Pisum sativum	13	1	4							
+_Control	N	Pisum sativum	14	0								
+_Control	N	Pisum sativum	15	1	7							
+_Control	N	Pisum sativum	16	1	4							
+_Control	N	Pisum sativum	17	1	4							
+_Control	N	Pisum sativum	18	0								
+_Control	N	Pisum sativum	19	1	3							
+_Control	N	Pisum sativum	20	1	4							
+_Control	N	Pisum sativum	21	1	5							
+_Control	N	Pisum sativum	22	1	5							
+_Control	N	Pisum sativum	23	0								
+_Control	N	Pisum sativum	24	1	4							
+_Control	N	Pisum sativum	25	0								
+_Control	N	Pisum sativum	26	0								
+_Control	N	Pisum sativum	27	1	3							
+_Control	N	Pisum sativum	28	0								
+_Control	N	Pisum sativum	29	1	5							
+_Control	N	Pisum sativum	30	1	4							
+_Control	O	Vicia faba	1	1	6							
+_Control	O	Vicia faba	2	1	6							
+_Control	O	Vicia faba	3	1	3							
+_Control	O	Vicia faba	4	1	5							
+_Control	O	Vicia faba	5	1	5							
+_Control	O	Vicia faba	6	1	5							
+_Control	O	Vicia faba	7	1	5							
+_Control	O	Vicia faba	8	1	7							
+_Control	O	Vicia faba	9	0								
+_Control	O	Vicia faba	10	1	6							
+_Control	O	Vicia faba	11	1	6							
+_Control	O	Vicia faba	12	0								
+_Control	O	Vicia faba	13	1	5							
+_Control	O	Vicia faba	14	1	6							
+_Control	O	Vicia faba	15	1	8							
+_Control	O	Vicia faba	16	1	5							
+_Control	O	Vicia faba	17	1	6							
+_Control	O	Vicia faba	18	1	5							
+_Control	O	Vicia faba	19	1	5							
+_Control	O	Vicia faba	20	1	5							
+_Control	O	Vicia faba	21	1	5							
+_Control	O	Vicia faba	22	1	5							
+_Control	O	Vicia faba	23	1	5							
+_Control	O	Vicia faba	24	1	6							
+_Control	O	Vicia faba	25	1	5							
+_Control	O	Vicia faba	26	1	5							
+_Control	O	Vicia faba	27	0								
+_Control	O	Vicia faba	28	1	7							
+_Control	O	Vicia faba	29	1	6							
+_Control	O	Vicia faba	30	1	7							
+_Control	P	Fagopyrum esculentum	1	1	5							
+_Control	P	Fagopyrum esculentum	2	1	5							
+_Control	P	Fagopyrum esculentum	3	0								
+_Control	P	Fagopyrum esculentum	4	1	5							
+_Control	P	Fagopyrum esculentum	5	1	4							
+_Control	P	Fagopyrum esculentum	6	1	5							
+_Control	P	Fagopyrum esculentum	7	1	5							
+_Control	P	Fagopyrum esculentum	8	0								
+_Control	P	Fagopyrum esculentum	9	1	4							
+_Control	P	Fagopyrum esculentum	10	0								
+_Control	P	Fagopyrum esculentum	11	1	5							
+_Control	P	Fagopyrum esculentum	12	1	5							
+_Control	P	Fagopyrum esculentum	13	1	5							
+_Control	P	Fagopyrum esculentum	14	0								
+_Control	P	Fagopyrum esculentum	15	1	4							
+_Control	P	Fagopyrum esculentum	16	1	4							
+_Control	P	Fagopyrum esculentum	17	1	4							
+_Control	P	Fagopyrum esculentum	18	1	5							
+_Control	P	Fagopyrum esculentum	19	1	4							
+_Control	P	Fagopyrum esculentum	20	1	5							
+_Control	P	Fagopyrum esculentum	21	1	5							
+_Control	P	Fagopyrum esculentum	22	0								
+_Control	P	Fagopyrum esculentum	23	1	5							
+_Control	P	Fagopyrum esculentum	24	0								
+_Control	P	Fagopyrum esculentum	25	1	5							
+_Control	P	Fagopyrum esculentum	26	1	5							
+_Control	P	Fagopyrum esculentum	27	1	4							
+_Control	P	Fagopyrum esculentum	28	1	4							
+_Control	P	Fagopyrum esculentum	29	1	5							
+_Control	P	Fagopyrum esculentum	30	1	8							
+_Control	Q	Borago officinalis	1	1	6							
+_Control	Q	Borago officinalis	2	1	6							
+_Control	Q	Borago officinalis	3	1	5							
+_Control	Q	Borago officinalis	4	0								
+_Control	Q	Borago officinalis	5	1	5							
+_Control	Q	Borago officinalis	6	0								
+_Control	Q	Borago officinalis	7	1	5							
+_Control	Q	Borago officinalis	8	0								
+_Control	Q	Borago officinalis	9	1	5							
+_Control	Q	Borago officinalis	10	0								
+_Control	Q	Borago officinalis	11	1	5							
+_Control	Q	Borago officinalis	12	0								
+_Control	Q	Borago officinalis	13	1	6							
+_Control	Q	Borago officinalis	14	0								
+_Control	Q	Borago officinalis	15	1	6							
+_Control	Q	Borago officinalis	16	1	7							
+_Control	Q	Borago officinalis	17	1	6							
+_Control	Q	Borago officinalis	18	1	6							
+_Control	Q	Borago officinalis	19	1	5							
+_Control	Q	Borago officinalis	20	1	6							
+_Control	Q	Borago officinalis	21	0								
+_Control	Q	Borago officinalis	22	0								
+_Control	Q	Borago officinalis	23	1	6							
+_Control	Q	Borago officinalis	24	0								
+_Control	Q	Borago officinalis	25	1	5							
+_Control	Q	Borago officinalis	26	0								
+_Control	Q	Borago officinalis	27	1	7							
+_Control	Q	Borago officinalis	28	1	8							
+_Control	Q	Borago officinalis	29	1	5							
+_Control	Q	Borago officinalis	30	1	8							
+_Control	R	Lactuca sativa	1	1	4							
+_Control	R	Lactuca sativa	2	1	4							
+_Control	R	Lactuca sativa	3	1	4							
+_Control	R	Lactuca sativa	4	1	3							
+_Control	R	Lactuca sativa	5	1	3							
+_Control	R	Lactuca sativa	6	0								
+_Control	R	Lactuca sativa	7	1	4							
+_Control	R	Lactuca sativa	8	1	4							
+_Control	R	Lactuca sativa	9	1	4							
+_Control	R	Lactuca sativa	10	1	4							
+_Control	R	Lactuca sativa	11	1	4							
+_Control	R	Lactuca sativa	12	1	3							
+_Control	R	Lactuca sativa	13	1	4							
+_Control	R	Lactuca sativa	14	1	9							
+_Control	R	Lactuca sativa	15	1	3							
+_Control	R	Lactuca sativa	16	1	4							
+_Control	R	Lactuca sativa	17	1	4							
+_Control	R	Lactuca sativa	18	1	3							
+_Control	R	Lactuca sativa	19	1	4							
+_Control	R	Lactuca sativa	20	1	3							
+_Control	R	Lactuca sativa	21	1	3							
+_Control	R	Lactuca sativa	22	1	3							
+_Control	R	Lactuca sativa	23	1	4							
+_Control	R	Lactuca sativa	24	1	3							
+_Control	R	Lactuca sativa	25	1	3							
+_Control	R	Lactuca sativa	26	1	4							
+_Control	R	Lactuca sativa	27	0								
+_Control	R	Lactuca sativa	28	1	4							
+_Control	R	Lactuca sativa	29	1	3							
+_Control	R	Lactuca sativa	30	1	4							
+_Control	S	Phacelia tanacetifolia	1	0								
+_Control	S	Phacelia tanacetifolia	2	1	5							
+_Control	S	Phacelia tanacetifolia	3	1	6							
+_Control	S	Phacelia tanacetifolia	4	1	5							
+_Control	S	Phacelia tanacetifolia	5	1	5							
+_Control	S	Phacelia tanacetifolia	6	0								
+_Control	S	Phacelia tanacetifolia	7	1	5							
+_Control	S	Phacelia tanacetifolia	8	1	4							
+_Control	S	Phacelia tanacetifolia	9	0								
+_Control	S	Phacelia tanacetifolia	10	1	4							
+_Control	S	Phacelia tanacetifolia	11	0								
+_Control	S	Phacelia tanacetifolia	12	0								
+_Control	S	Phacelia tanacetifolia	13	1	4							
+_Control	S	Phacelia tanacetifolia	14	1	4							
+_Control	S	Phacelia tanacetifolia	15	1	4							
+_Control	S	Phacelia tanacetifolia	16	1	4							
+_Control	S	Phacelia tanacetifolia	17	0								
+_Control	S	Phacelia tanacetifolia	18	1	5							
+_Control	S	Phacelia tanacetifolia	19	1	3							
+_Control	S	Phacelia tanacetifolia	20	1	3							
+_Control	S	Phacelia tanacetifolia	21	0								
+_Control	S	Phacelia tanacetifolia	22	1	4							
+_Control	S	Phacelia tanacetifolia	23	1	5							
+_Control	S	Phacelia tanacetifolia	24	1	3							
+_Control	S	Phacelia tanacetifolia	25	1	4							
+_Control	S	Phacelia tanacetifolia	26	0								
+_Control	S	Phacelia tanacetifolia	27	1	4							
+_Control	S	Phacelia tanacetifolia	28	1	4							
+_Control	S	Phacelia tanacetifolia	29	1	4							
+_Control	S	Phacelia tanacetifolia	30	1	4							
+_Control	T	Helianthus annuus	1	1	4							
+_Control	T	Helianthus annuus	2	0								
+_Control	T	Helianthus annuus	3	1	4							
+_Control	T	Helianthus annuus	4	1	5							
+_Control	T	Helianthus annuus	5	1	4							
+_Control	T	Helianthus annuus	6	1	4							
+_Control	T	Helianthus annuus	7	1	5							
+_Control	T	Helianthus annuus	8	1	5							
+_Control	T	Helianthus annuus	9	0								
+_Control	T	Helianthus annuus	10	1	5							
+_Control	T	Helianthus annuus	11	1	4							
+_Control	T	Helianthus annuus	12	1	5							
+_Control	T	Helianthus annuus	13	1	5							
+_Control	T	Helianthus annuus	14	1	8							
+_Control	T	Helianthus annuus	15	1	5							
+_Control	T	Helianthus annuus	16	1	5							
+_Control	T	Helianthus annuus	17	1	5							
+_Control	T	Helianthus annuus	18	1	5							
+_Control	T	Helianthus annuus	19	1	5							
+_Control	T	Helianthus annuus	20	1	5							
+_Control	T	Helianthus annuus	21	1	5							
+_Control	T	Helianthus annuus	22	0								
+_Control	T	Helianthus annuus	23	0								
+_Control	T	Helianthus annuus	24	1	5							
+_Control	T	Helianthus annuus	25	1	4							
+_Control	T	Helianthus annuus	26	1	6							
+_Control	T	Helianthus annuus	27	0								
+_Control	T	Helianthus annuus	28	1	7							
+_Control	T	Helianthus annuus	29	1	4							
+_Control	T	Helianthus annuus	30	1	4							
+_Control	U	Trifolium pratense	1	0								
+_Control	U	Trifolium pratense	2	1	3							
+_Control	U	Trifolium pratense	3	1	4							
+_Control	U	Trifolium pratense	4	0								
+_Control	U	Trifolium pratense	5	1	6							
+_Control	U	Trifolium pratense	6	1	12							
+_Control	U	Trifolium pratense	7	1	4							
+_Control	U	Trifolium pratense	8	1	4							
+_Control	U	Trifolium pratense	9	1	4							
+_Control	U	Trifolium pratense	10	1	8							
+_Control	U	Trifolium pratense	11	0								
+_Control	U	Trifolium pratense	12	0								
+_Control	U	Trifolium pratense	13	1	8							
+_Control	U	Trifolium pratense	14	1	8							
+_Control	U	Trifolium pratense	15	0								
+_Control	U	Trifolium pratense	16	0								
+_Control	U	Trifolium pratense	17	1	7							
+_Control	U	Trifolium pratense	18	0								
+_Control	U	Trifolium pratense	19	0								
+_Control	U	Trifolium pratense	20	0								
+_Control	U	Trifolium pratense	21	0								
+_Control	U	Trifolium pratense	22	1	9							
+_Control	U	Trifolium pratense	23	1	9							
+_Control	U	Trifolium pratense	24	0								
+_Control	U	Trifolium pratense	25	0								
+_Control	U	Trifolium pratense	26	0								
+_Control	U	Trifolium pratense	27	0								
+_Control	U	Trifolium pratense	28	1	12							
+_Control	U	Trifolium pratense	29	1	12							
+_Control	U	Trifolium pratense	30	0								
+BSFFF	A	Allium cepa	1	0								
+BSFFF	A	Allium cepa	2	1	7							
+BSFFF	A	Allium cepa	3	0								
+BSFFF	A	Allium cepa	4	0								
+BSFFF	A	Allium cepa	5	1	8							
+BSFFF	A	Allium cepa	6	0								
+BSFFF	A	Allium cepa	7	0								
+BSFFF	A	Allium cepa	8	0								
+BSFFF	A	Allium cepa	9	0								
+BSFFF	A	Allium cepa	10	0								
+BSFFF	A	Allium cepa	11	1	9							
+BSFFF	A	Allium cepa	12	0								
+BSFFF	A	Allium cepa	13	0								
+BSFFF	A	Allium cepa	14	1	7							
+BSFFF	A	Allium cepa	15	0								
+BSFFF	A	Allium cepa	16	0								
+BSFFF	A	Allium cepa	17	0								
+BSFFF	A	Allium cepa	18	0								
+BSFFF	A	Allium cepa	19	0								
+BSFFF	A	Allium cepa	20	1	8							
+BSFFF	A	Allium cepa	21	0								
+BSFFF	A	Allium cepa	22	0								
+BSFFF	A	Allium cepa	23	1	9							
+BSFFF	A	Allium cepa	24	0								
+BSFFF	A	Allium cepa	25	1	9							
+BSFFF	A	Allium cepa	26	0								
+BSFFF	A	Allium cepa	27	0								
+BSFFF	A	Allium cepa	28	0								
+BSFFF	A	Allium cepa	29	0								
+BSFFF	A	Allium cepa	30	0								
+BSFFF	B	Daucus carota	1	1	7							
+BSFFF	B	Daucus carota	2	1	7							
+BSFFF	B	Daucus carota	3	1	7							
+BSFFF	B	Daucus carota	4	0								
+BSFFF	B	Daucus carota	5	0								
+BSFFF	B	Daucus carota	6	0								
+BSFFF	B	Daucus carota	7	1	7							
+BSFFF	B	Daucus carota	8	1	7							
+BSFFF	B	Daucus carota	9	1	8							
+BSFFF	B	Daucus carota	10	1	15							
+BSFFF	B	Daucus carota	11	0								
+BSFFF	B	Daucus carota	12	1	12							
+BSFFF	B	Daucus carota	13	1	16							
+BSFFF	B	Daucus carota	14	0								
+BSFFF	B	Daucus carota	15	1	6							
+BSFFF	B	Daucus carota	16	1	8							
+BSFFF	B	Daucus carota	17	0								
+BSFFF	B	Daucus carota	18	1	7							
+BSFFF	B	Daucus carota	19	0								
+BSFFF	B	Daucus carota	20	1	7							
+BSFFF	B	Daucus carota	21	0								
+BSFFF	B	Daucus carota	22	1	7							
+BSFFF	B	Daucus carota	23	1	7							
+BSFFF	B	Daucus carota	24	1	7							
+BSFFF	B	Daucus carota	25	0								
+BSFFF	B	Daucus carota	26	0								
+BSFFF	B	Daucus carota	27	0								
+BSFFF	B	Daucus carota	28	1	12							
+BSFFF	B	Daucus carota	29	0								
+BSFFF	B	Daucus carota	30	1	12							
+BSFFF	C	Brassica napus	1	1	5							
+BSFFF	C	Brassica napus	2	1	5							
+BSFFF	C	Brassica napus	3	1	4							
+BSFFF	C	Brassica napus	4	1	5							
+BSFFF	C	Brassica napus	5	1	5							
+BSFFF	C	Brassica napus	6	1	5							
+BSFFF	C	Brassica napus	7	1	5							
+BSFFF	C	Brassica napus	8	1	5							
+BSFFF	C	Brassica napus	9	1	8							
+BSFFF	C	Brassica napus	10	1	5							
+BSFFF	C	Brassica napus	11	1	4							
+BSFFF	C	Brassica napus	12	0								
+BSFFF	C	Brassica napus	13	1	5							
+BSFFF	C	Brassica napus	14	1	5							
+BSFFF	C	Brassica napus	15	1	5							
+BSFFF	C	Brassica napus	16	1	5							
+BSFFF	C	Brassica napus	17	1	6							
+BSFFF	C	Brassica napus	18	1	4							
+BSFFF	C	Brassica napus	19	1	4							
+BSFFF	C	Brassica napus	20	1	5							
+BSFFF	C	Brassica napus	21	1	9							
+BSFFF	C	Brassica napus	22	0								
+BSFFF	C	Brassica napus	23	1	4							
+BSFFF	C	Brassica napus	24	1	4							
+BSFFF	C	Brassica napus	25	1	5							
+BSFFF	C	Brassica napus	26	1	4							
+BSFFF	C	Brassica napus	27	1	4							
+BSFFF	C	Brassica napus	28	1	5							
+BSFFF	C	Brassica napus	29	1	7							
+BSFFF	C	Brassica napus	30	1	8							
+BSFFF	D	B. oleracea var gemmifera	1	1	5							
+BSFFF	D	B. oleracea var gemmifera	2	1	5							
+BSFFF	D	B. oleracea var gemmifera	3	1	5							
+BSFFF	D	B. oleracea var gemmifera	4	1	6							
+BSFFF	D	B. oleracea var gemmifera	5	1	5							
+BSFFF	D	B. oleracea var gemmifera	6	1	5							
+BSFFF	D	B. oleracea var gemmifera	7	1	5							
+BSFFF	D	B. oleracea var gemmifera	8	1	5							
+BSFFF	D	B. oleracea var gemmifera	9	1	5							
+BSFFF	D	B. oleracea var gemmifera	10	1	5							
+BSFFF	D	B. oleracea var gemmifera	11	1	5							
+BSFFF	D	B. oleracea var gemmifera	12	1	6							
+BSFFF	D	B. oleracea var gemmifera	13	1	8							
+BSFFF	D	B. oleracea var gemmifera	14	1	7							
+BSFFF	D	B. oleracea var gemmifera	15	1	4							
+BSFFF	D	B. oleracea var gemmifera	16	0								
+BSFFF	D	B. oleracea var gemmifera	17	1	5							
+BSFFF	D	B. oleracea var gemmifera	18	1	5							
+BSFFF	D	B. oleracea var gemmifera	19	1	5							
+BSFFF	D	B. oleracea var gemmifera	20	1	5							
+BSFFF	D	B. oleracea var gemmifera	21	1	5							
+BSFFF	D	B. oleracea var gemmifera	22	1	5							
+BSFFF	D	B. oleracea var gemmifera	23	1	6							
+BSFFF	D	B. oleracea var gemmifera	24	1	6							
+BSFFF	D	B. oleracea var gemmifera	25	1	5							
+BSFFF	D	B. oleracea var gemmifera	26	1	5							
+BSFFF	D	B. oleracea var gemmifera	27	1	5							
+BSFFF	D	B. oleracea var gemmifera	28	1	5							
+BSFFF	D	B. oleracea var gemmifera	29	0								
+BSFFF	D	B. oleracea var gemmifera	30	1	8							
+BSFFF	E	Cucurbita maxima	1	1	7							
+BSFFF	E	Cucurbita maxima	2	1	6							
+BSFFF	E	Cucurbita maxima	3	1	5							
+BSFFF	E	Cucurbita maxima	4	1	6							
+BSFFF	E	Cucurbita maxima	5	1	5							
+BSFFF	E	Cucurbita maxima	6	1	6							
+BSFFF	E	Cucurbita maxima	7	1	6							
+BSFFF	E	Cucurbita maxima	8	1	6							
+BSFFF	E	Cucurbita maxima	9	1	7							
+BSFFF	E	Cucurbita maxima	10	1	7							
+BSFFF	E	Cucurbita maxima	11	1	6							
+BSFFF	E	Cucurbita maxima	12	1	6							
+BSFFF	E	Cucurbita maxima	13	0								
+BSFFF	E	Cucurbita maxima	14	1	6							
+BSFFF	E	Cucurbita maxima	15	1	5							
+BSFFF	E	Cucurbita maxima	16	1	5							
+BSFFF	E	Cucurbita maxima	17	1	5							
+BSFFF	E	Cucurbita maxima	18	1	5							
+BSFFF	E	Cucurbita maxima	19	1	6							
+BSFFF	E	Cucurbita maxima	20	1	6							
+BSFFF	E	Cucurbita maxima	21	1	6							
+BSFFF	E	Cucurbita maxima	22	1	5							
+BSFFF	E	Cucurbita maxima	23	1	6							
+BSFFF	E	Cucurbita maxima	24	1	6							
+BSFFF	E	Cucurbita maxima	25	1	7							
+BSFFF	E	Cucurbita maxima	26	1	6							
+BSFFF	E	Cucurbita maxima	27	1	7							
+BSFFF	E	Cucurbita maxima	28	1	7							
+BSFFF	E	Cucurbita maxima	29	1	8							
+BSFFF	E	Cucurbita maxima	30	1	7							
+BSFFF	F	Raphanus sativus	1	1	4							
+BSFFF	F	Raphanus sativus	2	1	4							
+BSFFF	F	Raphanus sativus	3	1	5							
+BSFFF	F	Raphanus sativus	4	1	4							
+BSFFF	F	Raphanus sativus	5	1	4							
+BSFFF	F	Raphanus sativus	6	1	4							
+BSFFF	F	Raphanus sativus	7	1	4							
+BSFFF	F	Raphanus sativus	8	1	4							
+BSFFF	F	Raphanus sativus	9	1	5							
+BSFFF	F	Raphanus sativus	10	1	4							
+BSFFF	F	Raphanus sativus	11	1	5							
+BSFFF	F	Raphanus sativus	12	1	4							
+BSFFF	F	Raphanus sativus	13	1	5							
+BSFFF	F	Raphanus sativus	14	1	4							
+BSFFF	F	Raphanus sativus	15	1	4							
+BSFFF	F	Raphanus sativus	16	1	4							
+BSFFF	F	Raphanus sativus	17	1	5							
+BSFFF	F	Raphanus sativus	18	1	4							
+BSFFF	F	Raphanus sativus	19	1	4							
+BSFFF	F	Raphanus sativus	20	1	5							
+BSFFF	F	Raphanus sativus	21	1	5							
+BSFFF	F	Raphanus sativus	22	1	4							
+BSFFF	F	Raphanus sativus	23	1	4							
+BSFFF	F	Raphanus sativus	24	1	7							
+BSFFF	F	Raphanus sativus	25	1	5							
+BSFFF	F	Raphanus sativus	26	1	4							
+BSFFF	F	Raphanus sativus	27	1	4							
+BSFFF	F	Raphanus sativus	28	1	5							
+BSFFF	F	Raphanus sativus	29	1	5							
+BSFFF	F	Raphanus sativus	30	1	4							
+BSFFF	G	Beta vulgaris	1	1	7							
+BSFFF	G	Beta vulgaris	2	0								
+BSFFF	G	Beta vulgaris	3	1	6							
+BSFFF	G	Beta vulgaris	4	1	5							
+BSFFF	G	Beta vulgaris	5	1	5							
+BSFFF	G	Beta vulgaris	6	1	6							
+BSFFF	G	Beta vulgaris	7	1	5							
+BSFFF	G	Beta vulgaris	8	0								
+BSFFF	G	Beta vulgaris	9	1	5							
+BSFFF	G	Beta vulgaris	10	1	5							
+BSFFF	G	Beta vulgaris	11	0								
+BSFFF	G	Beta vulgaris	12	1	9							
+BSFFF	G	Beta vulgaris	13	0								
+BSFFF	G	Beta vulgaris	14	1	5							
+BSFFF	G	Beta vulgaris	15	1	5							
+BSFFF	G	Beta vulgaris	16	1	5							
+BSFFF	G	Beta vulgaris	17	0								
+BSFFF	G	Beta vulgaris	18	1	8							
+BSFFF	G	Beta vulgaris	19	1	6							
+BSFFF	G	Beta vulgaris	20	1	8							
+BSFFF	G	Beta vulgaris	21	1	5							
+BSFFF	G	Beta vulgaris	22	1	6							
+BSFFF	G	Beta vulgaris	23	1	5							
+BSFFF	G	Beta vulgaris	24	1	5							
+BSFFF	G	Beta vulgaris	25	1	5							
+BSFFF	G	Beta vulgaris	26	1	5							
+BSFFF	G	Beta vulgaris	27	1	5							
+BSFFF	G	Beta vulgaris	28	1	9							
+BSFFF	G	Beta vulgaris	29	1	5							
+BSFFF	G	Beta vulgaris	30	1	8							
+BSFFF	H	B. oleracea var capitata	1	1	5							
+BSFFF	H	B. oleracea var capitata	2	0								
+BSFFF	H	B. oleracea var capitata	3	1	5							
+BSFFF	H	B. oleracea var capitata	4	1	6							
+BSFFF	H	B. oleracea var capitata	5	0								
+BSFFF	H	B. oleracea var capitata	6	1	5							
+BSFFF	H	B. oleracea var capitata	7	1	6							
+BSFFF	H	B. oleracea var capitata	8	1	5							
+BSFFF	H	B. oleracea var capitata	9	1	7							
+BSFFF	H	B. oleracea var capitata	10	1	5							
+BSFFF	H	B. oleracea var capitata	11	1	5							
+BSFFF	H	B. oleracea var capitata	12	1	5							
+BSFFF	H	B. oleracea var capitata	13	1	9							
+BSFFF	H	B. oleracea var capitata	14	1	4							
+BSFFF	H	B. oleracea var capitata	15	1	6							
+BSFFF	H	B. oleracea var capitata	16	1	9							
+BSFFF	H	B. oleracea var capitata	17	1	5							
+BSFFF	H	B. oleracea var capitata	18	1	6							
+BSFFF	H	B. oleracea var capitata	19	1	9							
+BSFFF	H	B. oleracea var capitata	20	1	8							
+BSFFF	H	B. oleracea var capitata	21	1	8							
+BSFFF	H	B. oleracea var capitata	22	1	5							
+BSFFF	H	B. oleracea var capitata	23	1	5							
+BSFFF	H	B. oleracea var capitata	24	1	5							
+BSFFF	H	B. oleracea var capitata	25	1	5							
+BSFFF	H	B. oleracea var capitata	26	1	5							
+BSFFF	H	B. oleracea var capitata	27	1	5							
+BSFFF	H	B. oleracea var capitata	28	1	6							
+BSFFF	H	B. oleracea var capitata	29	1	8							
+BSFFF	H	B. oleracea var capitata	30	1	9							
+BSFFF	I	Cucumis sativus	1	1	5							
+BSFFF	I	Cucumis sativus	2	1	5							
+BSFFF	I	Cucumis sativus	3	1	5							
+BSFFF	I	Cucumis sativus	4	1	5							
+BSFFF	I	Cucumis sativus	5	1	5							
+BSFFF	I	Cucumis sativus	6	1	5							
+BSFFF	I	Cucumis sativus	7	1	5							
+BSFFF	I	Cucumis sativus	8	1	5							
+BSFFF	I	Cucumis sativus	9	1	5							
+BSFFF	I	Cucumis sativus	10	1	5							
+BSFFF	I	Cucumis sativus	11	1	6							
+BSFFF	I	Cucumis sativus	12	1	9							
+BSFFF	I	Cucumis sativus	13	1	9							
+BSFFF	I	Cucumis sativus	14	1	6							
+BSFFF	I	Cucumis sativus	15	1	5							
+BSFFF	I	Cucumis sativus	16	1	5							
+BSFFF	I	Cucumis sativus	17	1	5							
+BSFFF	I	Cucumis sativus	18	1	5							
+BSFFF	I	Cucumis sativus	19	1	5							
+BSFFF	I	Cucumis sativus	20	1	5							
+BSFFF	I	Cucumis sativus	21	1	6							
+BSFFF	I	Cucumis sativus	22	1	5							
+BSFFF	I	Cucumis sativus	23	1	5							
+BSFFF	I	Cucumis sativus	24	1	5							
+BSFFF	I	Cucumis sativus	25	1	5							
+BSFFF	I	Cucumis sativus	26	1	5							
+BSFFF	I	Cucumis sativus	27	1	5							
+BSFFF	I	Cucumis sativus	28	1	5							
+BSFFF	I	Cucumis sativus	29	1	5							
+BSFFF	I	Cucumis sativus	30	1	6							
+BSFFF	J	Solanum lycopersicum	1	1	9							
+BSFFF	J	Solanum lycopersicum	2	1	7							
+BSFFF	J	Solanum lycopersicum	3	1	7							
+BSFFF	J	Solanum lycopersicum	4	1	7							
+BSFFF	J	Solanum lycopersicum	5	1	6							
+BSFFF	J	Solanum lycopersicum	6	1	7							
+BSFFF	J	Solanum lycopersicum	7	1	8							
+BSFFF	J	Solanum lycopersicum	8	1	8							
+BSFFF	J	Solanum lycopersicum	9	1	8							
+BSFFF	J	Solanum lycopersicum	10	1	7							
+BSFFF	J	Solanum lycopersicum	11	0								
+BSFFF	J	Solanum lycopersicum	12	0								
+BSFFF	J	Solanum lycopersicum	13	0								
+BSFFF	J	Solanum lycopersicum	14	0								
+BSFFF	J	Solanum lycopersicum	15	1	8							
+BSFFF	J	Solanum lycopersicum	16	1	10							
+BSFFF	J	Solanum lycopersicum	17	1	10							
+BSFFF	J	Solanum lycopersicum	18	1	8							
+BSFFF	J	Solanum lycopersicum	19	1	9							
+BSFFF	J	Solanum lycopersicum	20	1	6							
+BSFFF	J	Solanum lycopersicum	21	1	6							
+BSFFF	J	Solanum lycopersicum	22	1	8							
+BSFFF	J	Solanum lycopersicum	23	0								
+BSFFF	J	Solanum lycopersicum	24	1	8							
+BSFFF	J	Solanum lycopersicum	25	1	8							
+BSFFF	J	Solanum lycopersicum	26	0								
+BSFFF	J	Solanum lycopersicum	27	0								
+BSFFF	J	Solanum lycopersicum	28	1	6							
+BSFFF	J	Solanum lycopersicum	29	1	9							
+BSFFF	J	Solanum lycopersicum	30	1	9							
+BSFFF	K	Capsicum annuum	1	1	9							
+BSFFF	K	Capsicum annuum	2	0								
+BSFFF	K	Capsicum annuum	3	0								
+BSFFF	K	Capsicum annuum	4	0								
+BSFFF	K	Capsicum annuum	5	0								
+BSFFF	K	Capsicum annuum	6	1	10							
+BSFFF	K	Capsicum annuum	7	0								
+BSFFF	K	Capsicum annuum	8	0								
+BSFFF	K	Capsicum annuum	9	0								
+BSFFF	K	Capsicum annuum	10	1	9							
+BSFFF	K	Capsicum annuum	11	0								
+BSFFF	K	Capsicum annuum	12	0								
+BSFFF	K	Capsicum annuum	13	0								
+BSFFF	K	Capsicum annuum	14	0								
+BSFFF	K	Capsicum annuum	15	0								
+BSFFF	K	Capsicum annuum	16	0								
+BSFFF	K	Capsicum annuum	17	0								
+BSFFF	K	Capsicum annuum	18	0								
+BSFFF	K	Capsicum annuum	19	0								
+BSFFF	K	Capsicum annuum	20	1	8							
+BSFFF	K	Capsicum annuum	21	0								
+BSFFF	K	Capsicum annuum	22	0								
+BSFFF	K	Capsicum annuum	23	0								
+BSFFF	K	Capsicum annuum	24	0								
+BSFFF	K	Capsicum annuum	25	0								
+BSFFF	K	Capsicum annuum	26	0								
+BSFFF	K	Capsicum annuum	27	0								
+BSFFF	K	Capsicum annuum	28	1	12							
+BSFFF	K	Capsicum annuum	29	0								
+BSFFF	K	Capsicum annuum	30	0								
+BSFFF	L	Zea mays	1	1	5							
+BSFFF	L	Zea mays	2	1	5							
+BSFFF	L	Zea mays	3	0								
+BSFFF	L	Zea mays	4	0								
+BSFFF	L	Zea mays	5	1	14							
+BSFFF	L	Zea mays	6	1	5							
+BSFFF	L	Zea mays	7	1	5							
+BSFFF	L	Zea mays	8	1	5							
+BSFFF	L	Zea mays	9	0								
+BSFFF	L	Zea mays	10	0								
+BSFFF	L	Zea mays	11	1	4							
+BSFFF	L	Zea mays	12	1	5							
+BSFFF	L	Zea mays	13	0								
+BSFFF	L	Zea mays	14	1	5							
+BSFFF	L	Zea mays	15	1	8							
+BSFFF	L	Zea mays	16	1	9							
+BSFFF	L	Zea mays	17	1	5							
+BSFFF	L	Zea mays	18	1	4							
+BSFFF	L	Zea mays	19	0								
+BSFFF	L	Zea mays	20	0								
+BSFFF	L	Zea mays	21	0								
+BSFFF	L	Zea mays	22	1	5							
+BSFFF	L	Zea mays	23	1	4							
+BSFFF	L	Zea mays	24	1	4							
+BSFFF	L	Zea mays	25	1	4							
+BSFFF	L	Zea mays	26	1	5							
+BSFFF	L	Zea mays	27	0								
+BSFFF	L	Zea mays	28	1	4							
+BSFFF	L	Zea mays	29	1	5							
+BSFFF	L	Zea mays	30	1	5							
+BSFFF	M	Triticum aestivum	1	0								
+BSFFF	M	Triticum aestivum	2	1	4							
+BSFFF	M	Triticum aestivum	3	1	8							
+BSFFF	M	Triticum aestivum	4	1	5							
+BSFFF	M	Triticum aestivum	5	0								
+BSFFF	M	Triticum aestivum	6	1	4							
+BSFFF	M	Triticum aestivum	7	1	5							
+BSFFF	M	Triticum aestivum	8	1	9							
+BSFFF	M	Triticum aestivum	9	1	4							
+BSFFF	M	Triticum aestivum	10	1	4							
+BSFFF	M	Triticum aestivum	11	1	4							
+BSFFF	M	Triticum aestivum	12	1	6							
+BSFFF	M	Triticum aestivum	13	0								
+BSFFF	M	Triticum aestivum	14	0								
+BSFFF	M	Triticum aestivum	15	0								
+BSFFF	M	Triticum aestivum	16	1	5							
+BSFFF	M	Triticum aestivum	17	0								
+BSFFF	M	Triticum aestivum	18	0								
+BSFFF	M	Triticum aestivum	19	1	4							
+BSFFF	M	Triticum aestivum	20	1	4							
+BSFFF	M	Triticum aestivum	21	0								
+BSFFF	M	Triticum aestivum	22	1	7							
+BSFFF	M	Triticum aestivum	23	0								
+BSFFF	M	Triticum aestivum	24	1	4							
+BSFFF	M	Triticum aestivum	25	1	5							
+BSFFF	M	Triticum aestivum	26	0								
+BSFFF	M	Triticum aestivum	27	1	5							
+BSFFF	M	Triticum aestivum	28	0								
+BSFFF	M	Triticum aestivum	29	0								
+BSFFF	M	Triticum aestivum	30	1	4							
+BSFFF	N	Pisum sativum	1	1	5							
+BSFFF	N	Pisum sativum	2	1	5							
+BSFFF	N	Pisum sativum	3	1	4							
+BSFFF	N	Pisum sativum	4	1	5							
+BSFFF	N	Pisum sativum	5	1	4							
+BSFFF	N	Pisum sativum	6	0								
+BSFFF	N	Pisum sativum	7	1	5							
+BSFFF	N	Pisum sativum	8	0								
+BSFFF	N	Pisum sativum	9	1	4							
+BSFFF	N	Pisum sativum	10	1	8							
+BSFFF	N	Pisum sativum	11	1	5							
+BSFFF	N	Pisum sativum	12	1	5							
+BSFFF	N	Pisum sativum	13	0								
+BSFFF	N	Pisum sativum	14	1	5							
+BSFFF	N	Pisum sativum	15	1	5							
+BSFFF	N	Pisum sativum	16	1	4							
+BSFFF	N	Pisum sativum	17	1	5							
+BSFFF	N	Pisum sativum	18	1	5							
+BSFFF	N	Pisum sativum	19	1	4							
+BSFFF	N	Pisum sativum	20	0								
+BSFFF	N	Pisum sativum	21	0								
+BSFFF	N	Pisum sativum	22	1	5							
+BSFFF	N	Pisum sativum	23	1	4							
+BSFFF	N	Pisum sativum	24	1								
+BSFFF	N	Pisum sativum	25	0	4							
+BSFFF	N	Pisum sativum	26	1	5							
+BSFFF	N	Pisum sativum	27	1	6							
+BSFFF	N	Pisum sativum	28	1	5							
+BSFFF	N	Pisum sativum	29	0								
+BSFFF	N	Pisum sativum	30	1	4							
+BSFFF	O	Vicia faba	1	1	5							
+BSFFF	O	Vicia faba	2	1	5							
+BSFFF	O	Vicia faba	3	1	5							
+BSFFF	O	Vicia faba	4	1	5							
+BSFFF	O	Vicia faba	5	1	5							
+BSFFF	O	Vicia faba	6	1	5							
+BSFFF	O	Vicia faba	7	1	5							
+BSFFF	O	Vicia faba	8	1	5							
+BSFFF	O	Vicia faba	9	1	5							
+BSFFF	O	Vicia faba	10	1	5							
+BSFFF	O	Vicia faba	11	1	5							
+BSFFF	O	Vicia faba	12	1	5							
+BSFFF	O	Vicia faba	13	1	5							
+BSFFF	O	Vicia faba	14	1	5							
+BSFFF	O	Vicia faba	15	1	5							
+BSFFF	O	Vicia faba	16	1	5							
+BSFFF	O	Vicia faba	17	1	6							
+BSFFF	O	Vicia faba	18	1	5							
+BSFFF	O	Vicia faba	19	1	5							
+BSFFF	O	Vicia faba	20	1	6							
+BSFFF	O	Vicia faba	21	1	5							
+BSFFF	O	Vicia faba	22	1	5							
+BSFFF	O	Vicia faba	23	1	5							
+BSFFF	O	Vicia faba	24	1	5							
+BSFFF	O	Vicia faba	25	1	6							
+BSFFF	O	Vicia faba	26	1	7							
+BSFFF	O	Vicia faba	27	1	8							
+BSFFF	O	Vicia faba	28	1	5							
+BSFFF	O	Vicia faba	29	1	5							
+BSFFF	O	Vicia faba	30	1	5							
+BSFFF	P	Fagopyrum esculentum	1	1	5							
+BSFFF	P	Fagopyrum esculentum	2	0								
+BSFFF	P	Fagopyrum esculentum	3	1	5							
+BSFFF	P	Fagopyrum esculentum	4	0								
+BSFFF	P	Fagopyrum esculentum	5	1	4							
+BSFFF	P	Fagopyrum esculentum	6	1	4							
+BSFFF	P	Fagopyrum esculentum	7	1	5							
+BSFFF	P	Fagopyrum esculentum	8	0								
+BSFFF	P	Fagopyrum esculentum	9	0								
+BSFFF	P	Fagopyrum esculentum	10	1	9							
+BSFFF	P	Fagopyrum esculentum	11	1	5							
+BSFFF	P	Fagopyrum esculentum	12	1	10							
+BSFFF	P	Fagopyrum esculentum	13	1	5							
+BSFFF	P	Fagopyrum esculentum	14	1	5							
+BSFFF	P	Fagopyrum esculentum	15	0								
+BSFFF	P	Fagopyrum esculentum	16	1	4							
+BSFFF	P	Fagopyrum esculentum	17	1	9							
+BSFFF	P	Fagopyrum esculentum	18	1	5							
+BSFFF	P	Fagopyrum esculentum	19	1	5							
+BSFFF	P	Fagopyrum esculentum	20	1	8							
+BSFFF	P	Fagopyrum esculentum	21	0	5							
+BSFFF	P	Fagopyrum esculentum	22	1								
+BSFFF	P	Fagopyrum esculentum	23	0	5							
+BSFFF	P	Fagopyrum esculentum	24	1								
+BSFFF	P	Fagopyrum esculentum	25	0	8							
+BSFFF	P	Fagopyrum esculentum	26	0								
+BSFFF	P	Fagopyrum esculentum	27	1								
+BSFFF	P	Fagopyrum esculentum	28	1	5							
+BSFFF	P	Fagopyrum esculentum	29	1	5							
+BSFFF	P	Fagopyrum esculentum	30	1	5							
+BSFFF	Q	Borago officinalis	1	1	5							
+BSFFF	Q	Borago officinalis	2	0								
+BSFFF	Q	Borago officinalis	3	1	5							
+BSFFF	Q	Borago officinalis	4	0								
+BSFFF	Q	Borago officinalis	5	1	5							
+BSFFF	Q	Borago officinalis	6	0								
+BSFFF	Q	Borago officinalis	7	1	5							
+BSFFF	Q	Borago officinalis	8	1	6							
+BSFFF	Q	Borago officinalis	9	1	4							
+BSFFF	Q	Borago officinalis	10	1	5							
+BSFFF	Q	Borago officinalis	11	1	8							
+BSFFF	Q	Borago officinalis	12	1	10							
+BSFFF	Q	Borago officinalis	13	1	5							
+BSFFF	Q	Borago officinalis	14	1	5							
+BSFFF	Q	Borago officinalis	15	1	5							
+BSFFF	Q	Borago officinalis	16	1	5							
+BSFFF	Q	Borago officinalis	17	1	5							
+BSFFF	Q	Borago officinalis	18	1	5							
+BSFFF	Q	Borago officinalis	19	1	6							
+BSFFF	Q	Borago officinalis	20	0								
+BSFFF	Q	Borago officinalis	21	1	8							
+BSFFF	Q	Borago officinalis	22	1	5							
+BSFFF	Q	Borago officinalis	23	1	5							
+BSFFF	Q	Borago officinalis	24	1	5							
+BSFFF	Q	Borago officinalis	25	1	5							
+BSFFF	Q	Borago officinalis	26	1	8							
+BSFFF	Q	Borago officinalis	27	1	9							
+BSFFF	Q	Borago officinalis	28	1	9							
+BSFFF	Q	Borago officinalis	29	0								
+BSFFF	Q	Borago officinalis	30	0								
+BSFFF	R	Lactuca sativa	1	1	8							
+BSFFF	R	Lactuca sativa	2	1	5							
+BSFFF	R	Lactuca sativa	3	0								
+BSFFF	R	Lactuca sativa	4	1	5							
+BSFFF	R	Lactuca sativa	5	1	4							
+BSFFF	R	Lactuca sativa	6	1	5							
+BSFFF	R	Lactuca sativa	7	0								
+BSFFF	R	Lactuca sativa	8	1	8							
+BSFFF	R	Lactuca sativa	9	0								
+BSFFF	R	Lactuca sativa	10	1	4							
+BSFFF	R	Lactuca sativa	11	1	4							
+BSFFF	R	Lactuca sativa	12	1	4							
+BSFFF	R	Lactuca sativa	13	1	4							
+BSFFF	R	Lactuca sativa	14	1	5							
+BSFFF	R	Lactuca sativa	15	1	4							
+BSFFF	R	Lactuca sativa	16	1	5							
+BSFFF	R	Lactuca sativa	17	1	4							
+BSFFF	R	Lactuca sativa	18	1	5							
+BSFFF	R	Lactuca sativa	19	1	4							
+BSFFF	R	Lactuca sativa	20	1	4							
+BSFFF	R	Lactuca sativa	21	1	4							
+BSFFF	R	Lactuca sativa	22	0								
+BSFFF	R	Lactuca sativa	23	1	5							
+BSFFF	R	Lactuca sativa	24	0								
+BSFFF	R	Lactuca sativa	25	1	5							
+BSFFF	R	Lactuca sativa	26	0								
+BSFFF	R	Lactuca sativa	27	1	4							
+BSFFF	R	Lactuca sativa	28	0								
+BSFFF	R	Lactuca sativa	29	1	5							
+BSFFF	R	Lactuca sativa	30	1	4							
+BSFFF	S	Phacelia tanacetifolia	1	0								
+BSFFF	S	Phacelia tanacetifolia	2	0								
+BSFFF	S	Phacelia tanacetifolia	3	0								
+BSFFF	S	Phacelia tanacetifolia	4	1	5							
+BSFFF	S	Phacelia tanacetifolia	5	1	5							
+BSFFF	S	Phacelia tanacetifolia	6	0								
+BSFFF	S	Phacelia tanacetifolia	7	1	4							
+BSFFF	S	Phacelia tanacetifolia	8	1	5							
+BSFFF	S	Phacelia tanacetifolia	9	1	5							
+BSFFF	S	Phacelia tanacetifolia	10	1	8							
+BSFFF	S	Phacelia tanacetifolia	11	1	5							
+BSFFF	S	Phacelia tanacetifolia	12	1	5							
+BSFFF	S	Phacelia tanacetifolia	13	0								
+BSFFF	S	Phacelia tanacetifolia	14	1	5							
+BSFFF	S	Phacelia tanacetifolia	15	0								
+BSFFF	S	Phacelia tanacetifolia	16	1	4							
+BSFFF	S	Phacelia tanacetifolia	17	1	5							
+BSFFF	S	Phacelia tanacetifolia	18	1	5							
+BSFFF	S	Phacelia tanacetifolia	19	0								
+BSFFF	S	Phacelia tanacetifolia	20	1	7							
+BSFFF	S	Phacelia tanacetifolia	21	0								
+BSFFF	S	Phacelia tanacetifolia	22	0								
+BSFFF	S	Phacelia tanacetifolia	23	1	5							
+BSFFF	S	Phacelia tanacetifolia	24	1	5							
+BSFFF	S	Phacelia tanacetifolia	25	1	5							
+BSFFF	S	Phacelia tanacetifolia	26	1	5							
+BSFFF	S	Phacelia tanacetifolia	27	1	5							
+BSFFF	S	Phacelia tanacetifolia	28	0								
+BSFFF	S	Phacelia tanacetifolia	29	0								
+BSFFF	S	Phacelia tanacetifolia	30	0								
+BSFFF	T	Helianthus annuus	1	1	4							
+BSFFF	T	Helianthus annuus	2	1	6							
+BSFFF	T	Helianthus annuus	3	1	4							
+BSFFF	T	Helianthus annuus	4	1	4							
+BSFFF	T	Helianthus annuus	5	1	5							
+BSFFF	T	Helianthus annuus	6	1	4							
+BSFFF	T	Helianthus annuus	7	1	5							
+BSFFF	T	Helianthus annuus	8	1	5							
+BSFFF	T	Helianthus annuus	9	0								
+BSFFF	T	Helianthus annuus	10	1	5							
+BSFFF	T	Helianthus annuus	11	1	5							
+BSFFF	T	Helianthus annuus	12	0								
+BSFFF	T	Helianthus annuus	13	1	4							
+BSFFF	T	Helianthus annuus	14	0								
+BSFFF	T	Helianthus annuus	15	1	5							
+BSFFF	T	Helianthus annuus	16	1	5							
+BSFFF	T	Helianthus annuus	17	1	8							
+BSFFF	T	Helianthus annuus	18	1	5							
+BSFFF	T	Helianthus annuus	19	1	8							
+BSFFF	T	Helianthus annuus	20	1	5							
+BSFFF	T	Helianthus annuus	21	1	5							
+BSFFF	T	Helianthus annuus	22	1	4							
+BSFFF	T	Helianthus annuus	23	1	4							
+BSFFF	T	Helianthus annuus	24	1	5							
+BSFFF	T	Helianthus annuus	25	1	5							
+BSFFF	T	Helianthus annuus	26	0								
+BSFFF	T	Helianthus annuus	27	1	5							
+BSFFF	T	Helianthus annuus	28	1	4							
+BSFFF	T	Helianthus annuus	29	1	5							
+BSFFF	T	Helianthus annuus	30	1	4							
+BSFFF	U	Trifolium pratense	1	1	9							
+BSFFF	U	Trifolium pratense	2	1	4							
+BSFFF	U	Trifolium pratense	3	0								
+BSFFF	U	Trifolium pratense	4	0								
+BSFFF	U	Trifolium pratense	5	0								
+BSFFF	U	Trifolium pratense	6	1	5							
+BSFFF	U	Trifolium pratense	7	0								
+BSFFF	U	Trifolium pratense	8	1	5							
+BSFFF	U	Trifolium pratense	9	1	8							
+BSFFF	U	Trifolium pratense	10	1	4							
+BSFFF	U	Trifolium pratense	11	1	18							
+BSFFF	U	Trifolium pratense	12	1	10							
+BSFFF	U	Trifolium pratense	13	1	9							
+BSFFF	U	Trifolium pratense	14	1	8							
+BSFFF	U	Trifolium pratense	15	1	7							
+BSFFF	U	Trifolium pratense	16	0								
+BSFFF	U	Trifolium pratense	17	0								
+BSFFF	U	Trifolium pratense	18	1	4							
+BSFFF	U	Trifolium pratense	19	0								
+BSFFF	U	Trifolium pratense	20	1	8							
+BSFFF	U	Trifolium pratense	21	0								
+BSFFF	U	Trifolium pratense	22	0								
+BSFFF	U	Trifolium pratense	23	0								
+BSFFF	U	Trifolium pratense	24	0								
+BSFFF	U	Trifolium pratense	25	0								
+BSFFF	U	Trifolium pratense	26	1	5							
+BSFFF	U	Trifolium pratense	27	0								
+BSFFF	U	Trifolium pratense	28	1	4							
+BSFFF	U	Trifolium pratense	29	0								
+BSFFF	U	Trifolium pratense	30	1	7							

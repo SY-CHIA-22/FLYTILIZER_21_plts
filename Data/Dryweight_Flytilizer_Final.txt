@@ -1,0 +1,1750 @@
+amendment	plant_code	plant_species	tissue	dryweight
+_Control	A	Allium cepa	root	0.0018
+_Control	A	Allium cepa	root	0.0011
+_Control	A	Allium cepa	root	0.004
+_Control	A	Allium cepa	root	0.0027
+_Control	A	Allium cepa	root	0.0008
+_Control	A	Allium cepa	root	0.0022
+_Control	A	Allium cepa	root	0.0009
+_Control	A	Allium cepa	root	0.0017
+_Control	A	Allium cepa	root	0.0004
+_Control	A	Allium cepa	root	0.0031
+_Control	A	Allium cepa	root	0.0002
+_Control	A	Allium cepa	root	0.0016
+_Control	A	Allium cepa	root	0.002
+_Control	B	Daucus carota	root	0.0015
+_Control	B	Daucus carota	root	0.0009
+_Control	B	Daucus carota	root	1E-04
+_Control	B	Daucus carota	root	0.0013
+_Control	B	Daucus carota	root	0.0009
+_Control	B	Daucus carota	root	0.0018
+_Control	B	Daucus carota	root	0.0021
+_Control	B	Daucus carota	root	0.0015
+_Control	B	Daucus carota	root	0.002
+_Control	B	Daucus carota	root	0.0031
+_Control	B	Daucus carota	root	0.0011
+_Control	B	Daucus carota	root	0.002
+_Control	B	Daucus carota	root	0.001
+_Control	B	Daucus carota	root	0.0018
+_Control	C	Brassica napus	root	0.0015
+_Control	C	Brassica napus	root	0.0171
+_Control	C	Brassica napus	root	0.002
+_Control	C	Brassica napus	root	0.0037
+_Control	C	Brassica napus	root	0.0067
+_Control	C	Brassica napus	root	0.0027
+_Control	C	Brassica napus	root	0.0002
+_Control	C	Brassica napus	root	0.0043
+_Control	C	Brassica napus	root	0.0023
+_Control	C	Brassica napus	root	0.0027
+_Control	C	Brassica napus	root	0.0046
+_Control	C	Brassica napus	root	0.0047
+_Control	C	Brassica napus	root	0.0023
+_Control	C	Brassica napus	root	0.0042
+_Control	C	Brassica napus	root	0.005
+_Control	C	Brassica napus	root	0.0064
+_Control	C	Brassica napus	root	0.0032
+_Control	C	Brassica napus	root	0.0058
+_Control	C	Brassica napus	root	0.0098
+_Control	C	Brassica napus	root	0.004
+_Control	C	Brassica napus	root	0.0042
+_Control	C	Brassica napus	root	0.0046
+_Control	D	B. oleracea var gemmifera	root	0.0009
+_Control	D	B. oleracea var gemmifera	root	0.0029
+_Control	D	B. oleracea var gemmifera	root	0.0072
+_Control	D	B. oleracea var gemmifera	root	0.0036
+_Control	D	B. oleracea var gemmifera	root	0.004
+_Control	D	B. oleracea var gemmifera	root	0.0056
+_Control	D	B. oleracea var gemmifera	root	0.0057
+_Control	D	B. oleracea var gemmifera	root	0.0064
+_Control	D	B. oleracea var gemmifera	root	0.0068
+_Control	D	B. oleracea var gemmifera	root	0.0069
+_Control	D	B. oleracea var gemmifera	root	0.0101
+_Control	D	B. oleracea var gemmifera	root	0.0057
+_Control	D	B. oleracea var gemmifera	root	0.0012
+_Control	D	B. oleracea var gemmifera	root	0.0018
+_Control	D	B. oleracea var gemmifera	root	0.0082
+_Control	D	B. oleracea var gemmifera	root	0.0035
+_Control	D	B. oleracea var gemmifera	root	0.0049
+_Control	D	B. oleracea var gemmifera	root	0.0082
+_Control	D	B. oleracea var gemmifera	root	0.008
+_Control	D	B. oleracea var gemmifera	root	0.007
+_Control	D	B. oleracea var gemmifera	root	0.0051
+_Control	D	B. oleracea var gemmifera	root	0.0051
+_Control	D	B. oleracea var gemmifera	root	0.0022
+_Control	D	B. oleracea var gemmifera	root	0.0044
+_Control	D	B. oleracea var gemmifera	root	0.005
+_Control	D	B. oleracea var gemmifera	root	0.0053
+_Control	D	B. oleracea var gemmifera	root	0.0047
+_Control	D	B. oleracea var gemmifera	root	0.0044
+_Control	D	B. oleracea var gemmifera	root	0.0032
+_Control	E	Cucurbita maxima	root	0.0204
+_Control	E	Cucurbita maxima	root	0.0465
+_Control	E	Cucurbita maxima	root	0.0349
+_Control	E	Cucurbita maxima	root	0.0389
+_Control	E	Cucurbita maxima	root	0.0396
+_Control	E	Cucurbita maxima	root	0.0345
+_Control	E	Cucurbita maxima	root	0.031
+_Control	E	Cucurbita maxima	root	0.0212
+_Control	E	Cucurbita maxima	root	0.0331
+_Control	E	Cucurbita maxima	root	0.0376
+_Control	E	Cucurbita maxima	root	0.0088
+_Control	E	Cucurbita maxima	root	0.054
+_Control	E	Cucurbita maxima	root	0.0393
+_Control	E	Cucurbita maxima	root	0.0303
+_Control	E	Cucurbita maxima	root	0.0328
+_Control	E	Cucurbita maxima	root	0.0216
+_Control	E	Cucurbita maxima	root	0.0333
+_Control	E	Cucurbita maxima	root	0.0356
+_Control	E	Cucurbita maxima	root	0.0351
+_Control	E	Cucurbita maxima	root	0.0354
+_Control	E	Cucurbita maxima	root	0.0409
+_Control	E	Cucurbita maxima	root	0.0402
+_Control	E	Cucurbita maxima	root	0.0344
+_Control	E	Cucurbita maxima	root	0.0322
+_Control	E	Cucurbita maxima	root	0.0397
+_Control	E	Cucurbita maxima	root	0.0379
+_Control	E	Cucurbita maxima	root	0.0321
+_Control	E	Cucurbita maxima	root	0.0283
+_Control	F	Raphanus sativus	root	0.0008
+_Control	F	Raphanus sativus	root	0.0024
+_Control	F	Raphanus sativus	root	0.0044
+_Control	F	Raphanus sativus	root	0.0064
+_Control	F	Raphanus sativus	root	0.0044
+_Control	F	Raphanus sativus	root	0.0022
+_Control	F	Raphanus sativus	root	0.0039
+_Control	F	Raphanus sativus	root	0.0096
+_Control	F	Raphanus sativus	root	0.0073
+_Control	F	Raphanus sativus	root	0.0025
+_Control	F	Raphanus sativus	root	0.011
+_Control	F	Raphanus sativus	root	0.0044
+_Control	F	Raphanus sativus	root	0.0038
+_Control	F	Raphanus sativus	root	0.0047
+_Control	F	Raphanus sativus	root	0.007
+_Control	F	Raphanus sativus	root	0.0067
+_Control	F	Raphanus sativus	root	0.0056
+_Control	F	Raphanus sativus	root	0.0056
+_Control	F	Raphanus sativus	root	0.012
+_Control	F	Raphanus sativus	root	0.0058
+_Control	F	Raphanus sativus	root	0.0089
+_Control	F	Raphanus sativus	root	0.0093
+_Control	F	Raphanus sativus	root	0.0063
+_Control	F	Raphanus sativus	root	0.0019
+_Control	G	Beta vulgaris	root	0.0006
+_Control	G	Beta vulgaris	root	0.001
+_Control	G	Beta vulgaris	root	0.0009
+_Control	G	Beta vulgaris	root	0.0004
+_Control	G	Beta vulgaris	root	0.0013
+_Control	G	Beta vulgaris	root	0.001
+_Control	G	Beta vulgaris	root	0.0021
+_Control	G	Beta vulgaris	root	0.003
+_Control	G	Beta vulgaris	root	0.0002
+_Control	G	Beta vulgaris	root	0.0021
+_Control	G	Beta vulgaris	root	0.003
+_Control	G	Beta vulgaris	root	0.0014
+_Control	G	Beta vulgaris	root	0.001
+_Control	G	Beta vulgaris	root	0.0015
+_Control	G	Beta vulgaris	root	0.0019
+_Control	G	Beta vulgaris	root	0.0008
+_Control	G	Beta vulgaris	root	0.0022
+_Control	G	Beta vulgaris	root	0.0014
+_Control	G	Beta vulgaris	root	0.0005
+_Control	G	Beta vulgaris	root	0.001
+_Control	G	Beta vulgaris	root	0.0021
+_Control	G	Beta vulgaris	root	0.0013
+_Control	H	B. oleracea var capitata	root	0.0033
+_Control	H	B. oleracea var capitata	root	0.0025
+_Control	H	B. oleracea var capitata	root	0.0035
+_Control	H	B. oleracea var capitata	root	0.0016
+_Control	H	B. oleracea var capitata	root	0.0027
+_Control	H	B. oleracea var capitata	root	0.0028
+_Control	H	B. oleracea var capitata	root	0.0037
+_Control	H	B. oleracea var capitata	root	0.0022
+_Control	H	B. oleracea var capitata	root	0.0025
+_Control	H	B. oleracea var capitata	root	0.0064
+_Control	H	B. oleracea var capitata	root	0.002
+_Control	H	B. oleracea var capitata	root	0.0048
+_Control	H	B. oleracea var capitata	root	0.0064
+_Control	H	B. oleracea var capitata	root	0.0022
+_Control	H	B. oleracea var capitata	root	0.0003
+_Control	H	B. oleracea var capitata	root	0.0024
+_Control	H	B. oleracea var capitata	root	0.0018
+_Control	H	B. oleracea var capitata	root	0.0018
+_Control	H	B. oleracea var capitata	root	0.002
+_Control	H	B. oleracea var capitata	root	0.0065
+_Control	H	B. oleracea var capitata	root	0.0029
+_Control	H	B. oleracea var capitata	root	0.0012
+_Control	H	B. oleracea var capitata	root	0.0029
+_Control	H	B. oleracea var capitata	root	0.0021
+_Control	H	B. oleracea var capitata	root	0.0039
+_Control	H	B. oleracea var capitata	root	0.0041
+_Control	I	Cucumis sativus	root	0.006
+_Control	I	Cucumis sativus	root	0.0053
+_Control	I	Cucumis sativus	root	0.0038
+_Control	I	Cucumis sativus	root	0.0138
+_Control	I	Cucumis sativus	root	0.0221
+_Control	I	Cucumis sativus	root	0.0306
+_Control	I	Cucumis sativus	root	0.0051
+_Control	I	Cucumis sativus	root	0.004
+_Control	I	Cucumis sativus	root	0.0032
+_Control	I	Cucumis sativus	root	0.0071
+_Control	I	Cucumis sativus	root	0.0164
+_Control	I	Cucumis sativus	root	0.008
+_Control	I	Cucumis sativus	root	0.0093
+_Control	I	Cucumis sativus	root	0.0071
+_Control	I	Cucumis sativus	root	0.0083
+_Control	I	Cucumis sativus	root	0.0055
+_Control	I	Cucumis sativus	root	0.0153
+_Control	I	Cucumis sativus	root	0.0025
+_Control	I	Cucumis sativus	root	0.0109
+_Control	I	Cucumis sativus	root	0.0063
+_Control	I	Cucumis sativus	root	0.0059
+_Control	I	Cucumis sativus	root	0.0049
+_Control	I	Cucumis sativus	root	0.0063
+_Control	I	Cucumis sativus	root	0.0052
+_Control	J	Solanum lycopersicum	root	0.0018
+_Control	J	Solanum lycopersicum	root	0.0013
+_Control	J	Solanum lycopersicum	root	0.0009
+_Control	J	Solanum lycopersicum	root	0.0012
+_Control	J	Solanum lycopersicum	root	0.0027
+_Control	J	Solanum lycopersicum	root	0.0035
+_Control	J	Solanum lycopersicum	root	0.0012
+_Control	J	Solanum lycopersicum	root	0.0043
+_Control	J	Solanum lycopersicum	root	0.0012
+_Control	J	Solanum lycopersicum	root	0.0026
+_Control	J	Solanum lycopersicum	root	0.001
+_Control	J	Solanum lycopersicum	root	0.004
+_Control	J	Solanum lycopersicum	root	0.0025
+_Control	J	Solanum lycopersicum	root	0.0059
+_Control	J	Solanum lycopersicum	root	0.0026
+_Control	J	Solanum lycopersicum	root	0.0025
+_Control	J	Solanum lycopersicum	root	0.0034
+_Control	K	Capsicum annuum	root	0.0007
+_Control	K	Capsicum annuum	root	0.0029
+_Control	K	Capsicum annuum	root	0.0022
+_Control	K	Capsicum annuum	root	0.004
+_Control	K	Capsicum annuum	root	0.002
+_Control	K	Capsicum annuum	root	0.0025
+_Control	K	Capsicum annuum	root	0.0011
+_Control	K	Capsicum annuum	root	0.003
+_Control	K	Capsicum annuum	root	0.002
+_Control	K	Capsicum annuum	root	0.0003
+_Control	K	Capsicum annuum	root	0.0037
+_Control	K	Capsicum annuum	root	0.001
+_Control	K	Capsicum annuum	root	0.0033
+_Control	L	Zea mays	root	0.0246
+_Control	L	Zea mays	root	0.0257
+_Control	L	Zea mays	root	0.0078
+_Control	L	Zea mays	root	0.0129
+_Control	L	Zea mays	root	0.0165
+_Control	L	Zea mays	root	0.0265
+_Control	L	Zea mays	root	0.0107
+_Control	L	Zea mays	root	0.0275
+_Control	L	Zea mays	root	0.0362
+_Control	L	Zea mays	root	0.0091
+_Control	L	Zea mays	root	0.0393
+_Control	L	Zea mays	root	0.0332
+_Control	L	Zea mays	root	0.013
+_Control	L	Zea mays	root	0.0244
+_Control	L	Zea mays	root	0.0626
+_Control	L	Zea mays	root	0.0105
+_Control	L	Zea mays	root	0.0227
+_Control	L	Zea mays	root	0.0263
+_Control	L	Zea mays	root	0.0152
+_Control	L	Zea mays	root	0.0159
+_Control	M	Triticum aestivum	root	0.0221
+_Control	M	Triticum aestivum	root	0.0118
+_Control	M	Triticum aestivum	root	0.0077
+_Control	M	Triticum aestivum	root	0.011
+_Control	M	Triticum aestivum	root	0.002
+_Control	M	Triticum aestivum	root	0.0026
+_Control	M	Triticum aestivum	root	0.0144
+_Control	M	Triticum aestivum	root	0.0067
+_Control	M	Triticum aestivum	root	0.0079
+_Control	M	Triticum aestivum	root	0.009
+_Control	M	Triticum aestivum	root	0.0108
+_Control	M	Triticum aestivum	root	0.0087
+_Control	M	Triticum aestivum	root	0.0054
+_Control	M	Triticum aestivum	root	0.0085
+_Control	M	Triticum aestivum	root	0.0109
+_Control	M	Triticum aestivum	root	0.0108
+_Control	N	Pisum sativum	root	0.0157
+_Control	N	Pisum sativum	root	0.0151
+_Control	N	Pisum sativum	root	0.0211
+_Control	N	Pisum sativum	root	0.036
+_Control	N	Pisum sativum	root	0.0211
+_Control	N	Pisum sativum	root	0.0137
+_Control	N	Pisum sativum	root	0.0247
+_Control	N	Pisum sativum	root	0.015
+_Control	N	Pisum sativum	root	0.0145
+_Control	N	Pisum sativum	root	0.0256
+_Control	N	Pisum sativum	root	0.0153
+_Control	N	Pisum sativum	root	0.0193
+_Control	N	Pisum sativum	root	0.0189
+_Control	N	Pisum sativum	root	0.0138
+_Control	O	Vicia faba	root	0.0847
+_Control	O	Vicia faba	root	0.0911
+_Control	O	Vicia faba	root	0.0721
+_Control	O	Vicia faba	root	0.1109
+_Control	O	Vicia faba	root	0.0683
+_Control	O	Vicia faba	root	0.0644
+_Control	O	Vicia faba	root	0.1145
+_Control	O	Vicia faba	root	0.0632
+_Control	O	Vicia faba	root	0.0505
+_Control	O	Vicia faba	root	0.0809
+_Control	O	Vicia faba	root	0.0587
+_Control	O	Vicia faba	root	0.0984
+_Control	O	Vicia faba	root	0.0665
+_Control	O	Vicia faba	root	0.0931
+_Control	O	Vicia faba	root	0.0788
+_Control	O	Vicia faba	root	0.0913
+_Control	O	Vicia faba	root	0.073
+_Control	O	Vicia faba	root	0.0565
+_Control	O	Vicia faba	root	0.0491
+_Control	O	Vicia faba	root	0.052
+_Control	O	Vicia faba	root	0.0904
+_Control	O	Vicia faba	root	0.1397
+_Control	O	Vicia faba	root	0.0833
+_Control	O	Vicia faba	root	0.0651
+_Control	O	Vicia faba	root	0.0469
+_Control	P	Fagopyrum esculentum	root	0.0137
+_Control	P	Fagopyrum esculentum	root	0.0068
+_Control	P	Fagopyrum esculentum	root	0.0141
+_Control	P	Fagopyrum esculentum	root	0.0051
+_Control	P	Fagopyrum esculentum	root	0.0059
+_Control	P	Fagopyrum esculentum	root	0.0102
+_Control	P	Fagopyrum esculentum	root	0.0074
+_Control	P	Fagopyrum esculentum	root	0.0077
+_Control	P	Fagopyrum esculentum	root	0.0063
+_Control	P	Fagopyrum esculentum	root	0.0096
+_Control	P	Fagopyrum esculentum	root	0.006
+_Control	P	Fagopyrum esculentum	root	0.0101
+_Control	P	Fagopyrum esculentum	root	0.0116
+_Control	P	Fagopyrum esculentum	root	0.0158
+_Control	P	Fagopyrum esculentum	root	0.0192
+_Control	P	Fagopyrum esculentum	root	0.0108
+_Control	P	Fagopyrum esculentum	root	0.0115
+_Control	P	Fagopyrum esculentum	root	0.0062
+_Control	P	Fagopyrum esculentum	root	0.0034
+_Control	P	Fagopyrum esculentum	root	0.011
+_Control	P	Fagopyrum esculentum	root	0.0121
+_Control	P	Fagopyrum esculentum	root	0.0056
+_Control	P	Fagopyrum esculentum	root	0.0037
+_Control	Q	Borago officinalis	root	0.0026
+_Control	Q	Borago officinalis	root	0.0049
+_Control	Q	Borago officinalis	root	0.0039
+_Control	Q	Borago officinalis	root	0.0085
+_Control	Q	Borago officinalis	root	0.0084
+_Control	Q	Borago officinalis	root	0.0022
+_Control	Q	Borago officinalis	root	0.0027
+_Control	Q	Borago officinalis	root	0.0048
+_Control	Q	Borago officinalis	root	0.0042
+_Control	Q	Borago officinalis	root	0.0083
+_Control	Q	Borago officinalis	root	0.0062
+_Control	Q	Borago officinalis	root	0.0061
+_Control	Q	Borago officinalis	root	0.0057
+_Control	Q	Borago officinalis	root	0.0071
+_Control	Q	Borago officinalis	root	0.0034
+_Control	Q	Borago officinalis	root	0.0084
+_Control	Q	Borago officinalis	root	0.0056
+_Control	R	Lactuca sativa	root	0.0058
+_Control	R	Lactuca sativa	root	0.0012
+_Control	R	Lactuca sativa	root	0.001
+_Control	R	Lactuca sativa	root	0.0009
+_Control	R	Lactuca sativa	root	0.0036
+_Control	R	Lactuca sativa	root	0.0019
+_Control	R	Lactuca sativa	root	0.0041
+_Control	R	Lactuca sativa	root	0.0023
+_Control	R	Lactuca sativa	root	0.0015
+_Control	R	Lactuca sativa	root	0.0022
+_Control	R	Lactuca sativa	root	0.0013
+_Control	R	Lactuca sativa	root	0.0032
+_Control	R	Lactuca sativa	root	0.0028
+_Control	R	Lactuca sativa	root	0.0024
+_Control	R	Lactuca sativa	root	0.0013
+_Control	R	Lactuca sativa	root	0.0017
+_Control	R	Lactuca sativa	root	0.001
+_Control	R	Lactuca sativa	root	0.0011
+_Control	R	Lactuca sativa	root	0.0025
+_Control	R	Lactuca sativa	root	0.003
+_Control	R	Lactuca sativa	root	0.0016
+_Control	R	Lactuca sativa	root	0.0037
+_Control	R	Lactuca sativa	root	0.0029
+_Control	R	Lactuca sativa	root	0.0066
+_Control	R	Lactuca sativa	root	0.0034
+_Control	S	Phacelia tanacetifolia	root	0.0011
+_Control	S	Phacelia tanacetifolia	root	0.0032
+_Control	S	Phacelia tanacetifolia	root	0.0039
+_Control	S	Phacelia tanacetifolia	root	0.0035
+_Control	S	Phacelia tanacetifolia	root	0.0009
+_Control	S	Phacelia tanacetifolia	root	0.003
+_Control	S	Phacelia tanacetifolia	root	0.002
+_Control	S	Phacelia tanacetifolia	root	0.0047
+_Control	S	Phacelia tanacetifolia	root	0.0014
+_Control	S	Phacelia tanacetifolia	root	0.0018
+_Control	S	Phacelia tanacetifolia	root	0.0032
+_Control	S	Phacelia tanacetifolia	root	0.0035
+_Control	S	Phacelia tanacetifolia	root	0.0035
+_Control	S	Phacelia tanacetifolia	root	0.0018
+_Control	S	Phacelia tanacetifolia	root	0.004
+_Control	S	Phacelia tanacetifolia	root	0.0045
+_Control	S	Phacelia tanacetifolia	root	0.0054
+_Control	S	Phacelia tanacetifolia	root	0.0056
+_Control	S	Phacelia tanacetifolia	root	0.0043
+_Control	S	Phacelia tanacetifolia	root	0.0015
+_Control	S	Phacelia tanacetifolia	root	0.0027
+_Control	T	Helianthus annuus	root	0.0077
+_Control	T	Helianthus annuus	root	0.013
+_Control	T	Helianthus annuus	root	0.0129
+_Control	T	Helianthus annuus	root	0.0107
+_Control	T	Helianthus annuus	root	0.0086
+_Control	T	Helianthus annuus	root	0.011
+_Control	T	Helianthus annuus	root	0.0062
+_Control	T	Helianthus annuus	root	0.0096
+_Control	T	Helianthus annuus	root	0.0054
+_Control	T	Helianthus annuus	root	0.0116
+_Control	T	Helianthus annuus	root	0.0125
+_Control	T	Helianthus annuus	root	0.0134
+_Control	T	Helianthus annuus	root	0.0078
+_Control	T	Helianthus annuus	root	0.0058
+_Control	T	Helianthus annuus	root	0.0043
+_Control	T	Helianthus annuus	root	0.0187
+_Control	T	Helianthus annuus	root	0.0067
+_Control	T	Helianthus annuus	root	0.0032
+_Control	T	Helianthus annuus	root	0.0076
+_Control	T	Helianthus annuus	root	0.0063
+_Control	T	Helianthus annuus	root	0.012
+_Control	T	Helianthus annuus	root	0.0087
+_Control	T	Helianthus annuus	root	0.0065
+_Control	U	Trifolium pratense	root	0.0023
+_Control	U	Trifolium pratense	root	0.0054
+_Control	U	Trifolium pratense	root	0.0007
+_Control	U	Trifolium pratense	root	0.0029
+_Control	U	Trifolium pratense	root	0.002
+_Control	U	Trifolium pratense	root	0.0028
+_Control	U	Trifolium pratense	root	0.0043
+_Control	U	Trifolium pratense	root	0.0027
+_Control	U	Trifolium pratense	root	0.0016
+_Control	U	Trifolium pratense	root	0.0004
+_Control	U	Trifolium pratense	root	0.0072
+BSFFF	A	Allium cepa	root	0.0011
+BSFFF	A	Allium cepa	root	0.001
+BSFFF	A	Allium cepa	root	0.0026
+BSFFF	A	Allium cepa	root	0.002
+BSFFF	B	Daucus carota	root	0.0007
+BSFFF	B	Daucus carota	root	0.0025
+BSFFF	B	Daucus carota	root	0.0009
+BSFFF	B	Daucus carota	root	0.0027
+BSFFF	B	Daucus carota	root	0.0043
+BSFFF	B	Daucus carota	root	0.0012
+BSFFF	B	Daucus carota	root	0.0032
+BSFFF	B	Daucus carota	root	0.0012
+BSFFF	B	Daucus carota	root	0.0016
+BSFFF	B	Daucus carota	root	0.0012
+BSFFF	C	Brassica napus	root	0.002
+BSFFF	C	Brassica napus	root	0.0024
+BSFFF	C	Brassica napus	root	0.0042
+BSFFF	C	Brassica napus	root	0.0019
+BSFFF	C	Brassica napus	root	0.0021
+BSFFF	C	Brassica napus	root	0.0059
+BSFFF	C	Brassica napus	root	0.0073
+BSFFF	C	Brassica napus	root	0.0016
+BSFFF	C	Brassica napus	root	0.0048
+BSFFF	C	Brassica napus	root	0.0028
+BSFFF	C	Brassica napus	root	0.0101
+BSFFF	C	Brassica napus	root	0.0055
+BSFFF	C	Brassica napus	root	0.0045
+BSFFF	C	Brassica napus	root	0.0015
+BSFFF	C	Brassica napus	root	0.0039
+BSFFF	C	Brassica napus	root	0.0054
+BSFFF	C	Brassica napus	root	0.0217
+BSFFF	C	Brassica napus	root	0.0026
+BSFFF	C	Brassica napus	root	0.0073
+BSFFF	C	Brassica napus	root	0.0029
+BSFFF	C	Brassica napus	root	0.0035
+BSFFF	C	Brassica napus	root	0.0054
+BSFFF	C	Brassica napus	root	0.0026
+BSFFF	C	Brassica napus	root	0.0017
+BSFFF	C	Brassica napus	root	0.0106
+BSFFF	D	B. oleracea var gemmifera	root	0.0048
+BSFFF	D	B. oleracea var gemmifera	root	0.0036
+BSFFF	D	B. oleracea var gemmifera	root	0.0025
+BSFFF	D	B. oleracea var gemmifera	root	0.0016
+BSFFF	D	B. oleracea var gemmifera	root	0.007
+BSFFF	D	B. oleracea var gemmifera	root	0.0025
+BSFFF	D	B. oleracea var gemmifera	root	0.0092
+BSFFF	D	B. oleracea var gemmifera	root	0.0016
+BSFFF	D	B. oleracea var gemmifera	root	0.008
+BSFFF	D	B. oleracea var gemmifera	root	0.0044
+BSFFF	D	B. oleracea var gemmifera	root	0.0051
+BSFFF	D	B. oleracea var gemmifera	root	0.0025
+BSFFF	D	B. oleracea var gemmifera	root	0.0076
+BSFFF	D	B. oleracea var gemmifera	root	0.009
+BSFFF	D	B. oleracea var gemmifera	root	0.005
+BSFFF	D	B. oleracea var gemmifera	root	0.004
+BSFFF	D	B. oleracea var gemmifera	root	0.005
+BSFFF	D	B. oleracea var gemmifera	root	0.0053
+BSFFF	D	B. oleracea var gemmifera	root	0.008
+BSFFF	D	B. oleracea var gemmifera	root	0.0049
+BSFFF	D	B. oleracea var gemmifera	root	0.0043
+BSFFF	D	B. oleracea var gemmifera	root	0.0047
+BSFFF	D	B. oleracea var gemmifera	root	0.0075
+BSFFF	D	B. oleracea var gemmifera	root	0.0039
+BSFFF	D	B. oleracea var gemmifera	root	0.0072
+BSFFF	D	B. oleracea var gemmifera	root	0.0076
+BSFFF	D	B. oleracea var gemmifera	root	0.0037
+BSFFF	D	B. oleracea var gemmifera	root	0.003
+BSFFF	D	B. oleracea var gemmifera	root	0.0022
+BSFFF	E	Cucurbita maxima	root	0.0258
+BSFFF	E	Cucurbita maxima	root	0.039
+BSFFF	E	Cucurbita maxima	root	0.0269
+BSFFF	E	Cucurbita maxima	root	0.0477
+BSFFF	E	Cucurbita maxima	root	0.0255
+BSFFF	E	Cucurbita maxima	root	0.0344
+BSFFF	E	Cucurbita maxima	root	0.0709
+BSFFF	E	Cucurbita maxima	root	0.0232
+BSFFF	E	Cucurbita maxima	root	0.0394
+BSFFF	E	Cucurbita maxima	root	0.0458
+BSFFF	E	Cucurbita maxima	root	0.0337
+BSFFF	E	Cucurbita maxima	root	0.03
+BSFFF	E	Cucurbita maxima	root	0.0356
+BSFFF	E	Cucurbita maxima	root	0.0273
+BSFFF	E	Cucurbita maxima	root	0.0439
+BSFFF	E	Cucurbita maxima	root	0.0355
+BSFFF	E	Cucurbita maxima	root	0.0515
+BSFFF	E	Cucurbita maxima	root	0.0213
+BSFFF	E	Cucurbita maxima	root	0.0379
+BSFFF	E	Cucurbita maxima	root	0.0275
+BSFFF	E	Cucurbita maxima	root	0.0298
+BSFFF	E	Cucurbita maxima	root	0.036
+BSFFF	E	Cucurbita maxima	root	0.0309
+BSFFF	E	Cucurbita maxima	root	0.0404
+BSFFF	E	Cucurbita maxima	root	0.0319
+BSFFF	E	Cucurbita maxima	root	0.0369
+BSFFF	E	Cucurbita maxima	root	0.024
+BSFFF	E	Cucurbita maxima	root	0.0175
+BSFFF	E	Cucurbita maxima	root	0.0221
+BSFFF	F	Raphanus sativus	root	0.0047
+BSFFF	F	Raphanus sativus	root	0.0053
+BSFFF	F	Raphanus sativus	root	0.0041
+BSFFF	F	Raphanus sativus	root	0.0049
+BSFFF	F	Raphanus sativus	root	0.0066
+BSFFF	F	Raphanus sativus	root	0.0076
+BSFFF	F	Raphanus sativus	root	0.0064
+BSFFF	F	Raphanus sativus	root	0.006
+BSFFF	F	Raphanus sativus	root	0.008
+BSFFF	F	Raphanus sativus	root	0.0076
+BSFFF	F	Raphanus sativus	root	0.0051
+BSFFF	F	Raphanus sativus	root	0.0084
+BSFFF	F	Raphanus sativus	root	0.0036
+BSFFF	F	Raphanus sativus	root	0.0047
+BSFFF	F	Raphanus sativus	root	0.0082
+BSFFF	F	Raphanus sativus	root	0.0044
+BSFFF	F	Raphanus sativus	root	0.0068
+BSFFF	F	Raphanus sativus	root	0.0074
+BSFFF	F	Raphanus sativus	root	0.0132
+BSFFF	F	Raphanus sativus	root	0.0101
+BSFFF	F	Raphanus sativus	root	0.0091
+BSFFF	F	Raphanus sativus	root	0.009
+BSFFF	F	Raphanus sativus	root	0.0101
+BSFFF	F	Raphanus sativus	root	0.0055
+BSFFF	F	Raphanus sativus	root	0.0031
+BSFFF	F	Raphanus sativus	root	0.0053
+BSFFF	F	Raphanus sativus	root	0.0062
+BSFFF	G	Beta vulgaris	root	0.002
+BSFFF	G	Beta vulgaris	root	0.0015
+BSFFF	G	Beta vulgaris	root	0.003
+BSFFF	G	Beta vulgaris	root	0.0027
+BSFFF	G	Beta vulgaris	root	0.0041
+BSFFF	G	Beta vulgaris	root	0.0017
+BSFFF	G	Beta vulgaris	root	0.0013
+BSFFF	G	Beta vulgaris	root	0.0022
+BSFFF	G	Beta vulgaris	root	0.0008
+BSFFF	G	Beta vulgaris	root	0.0037
+BSFFF	G	Beta vulgaris	root	0.001
+BSFFF	G	Beta vulgaris	root	0.0027
+BSFFF	G	Beta vulgaris	root	0.0044
+BSFFF	G	Beta vulgaris	root	0.0009
+BSFFF	G	Beta vulgaris	root	0.0022
+BSFFF	G	Beta vulgaris	root	0.0016
+BSFFF	G	Beta vulgaris	root	0.002
+BSFFF	G	Beta vulgaris	root	0.0031
+BSFFF	G	Beta vulgaris	root	0.0019
+BSFFF	G	Beta vulgaris	root	0.0027
+BSFFF	G	Beta vulgaris	root	0.0011
+BSFFF	G	Beta vulgaris	root	0.0012
+BSFFF	G	Beta vulgaris	root	0.0022
+BSFFF	G	Beta vulgaris	root	0.0003
+BSFFF	G	Beta vulgaris	root	0.003
+BSFFF	G	Beta vulgaris	root	0.0021
+BSFFF	G	Beta vulgaris	root	0.0021
+BSFFF	G	Beta vulgaris	root	0.0024
+BSFFF	G	Beta vulgaris	root	0.0015
+BSFFF	G	Beta vulgaris	root	0.0006
+BSFFF	G	Beta vulgaris	root	0.0023
+BSFFF	G	Beta vulgaris	root	0.0011
+BSFFF	G	Beta vulgaris	root	0.0036
+BSFFF	G	Beta vulgaris	root	0.0018
+BSFFF	G	Beta vulgaris	root	0.0017
+BSFFF	G	Beta vulgaris	root	0.0025
+BSFFF	G	Beta vulgaris	root	0.0024
+BSFFF	G	Beta vulgaris	root	0.0037
+BSFFF	H	B. oleracea var capitata	root	0.0024
+BSFFF	H	B. oleracea var capitata	root	0.0019
+BSFFF	H	B. oleracea var capitata	root	0.0021
+BSFFF	H	B. oleracea var capitata	root	0.0032
+BSFFF	H	B. oleracea var capitata	root	0.0053
+BSFFF	H	B. oleracea var capitata	root	0.0035
+BSFFF	H	B. oleracea var capitata	root	0.0025
+BSFFF	H	B. oleracea var capitata	root	0.002
+BSFFF	H	B. oleracea var capitata	root	0.0038
+BSFFF	H	B. oleracea var capitata	root	0.0024
+BSFFF	H	B. oleracea var capitata	root	0.004
+BSFFF	H	B. oleracea var capitata	root	0.0031
+BSFFF	H	B. oleracea var capitata	root	0.0044
+BSFFF	H	B. oleracea var capitata	root	0.0012
+BSFFF	H	B. oleracea var capitata	root	0.002
+BSFFF	H	B. oleracea var capitata	root	0.0027
+BSFFF	H	B. oleracea var capitata	root	0.0043
+BSFFF	H	B. oleracea var capitata	root	0.0024
+BSFFF	H	B. oleracea var capitata	root	0.0037
+BSFFF	H	B. oleracea var capitata	root	0.003
+BSFFF	H	B. oleracea var capitata	root	0.0025
+BSFFF	H	B. oleracea var capitata	root	0.0056
+BSFFF	H	B. oleracea var capitata	root	0.0081
+BSFFF	I	Cucumis sativus	root	0.0063
+BSFFF	I	Cucumis sativus	root	0.0055
+BSFFF	I	Cucumis sativus	root	0.0116
+BSFFF	I	Cucumis sativus	root	0.012
+BSFFF	I	Cucumis sativus	root	0.014
+BSFFF	I	Cucumis sativus	root	0.0063
+BSFFF	I	Cucumis sativus	root	0.0041
+BSFFF	I	Cucumis sativus	root	0.0049
+BSFFF	I	Cucumis sativus	root	0.0154
+BSFFF	I	Cucumis sativus	root	0.0079
+BSFFF	I	Cucumis sativus	root	0.0201
+BSFFF	I	Cucumis sativus	root	0.0124
+BSFFF	I	Cucumis sativus	root	0.0046
+BSFFF	I	Cucumis sativus	root	0.0103
+BSFFF	I	Cucumis sativus	root	0.0096
+BSFFF	I	Cucumis sativus	root	0.0082
+BSFFF	I	Cucumis sativus	root	0.0105
+BSFFF	I	Cucumis sativus	root	0.008
+BSFFF	I	Cucumis sativus	root	0.0083
+BSFFF	I	Cucumis sativus	root	0.0074
+BSFFF	I	Cucumis sativus	root	0.007
+BSFFF	I	Cucumis sativus	root	0.0057
+BSFFF	J	Solanum lycopersicum	root	0.0018
+BSFFF	J	Solanum lycopersicum	root	0.0035
+BSFFF	J	Solanum lycopersicum	root	0.0005
+BSFFF	J	Solanum lycopersicum	root	0.0022
+BSFFF	J	Solanum lycopersicum	root	0.0021
+BSFFF	J	Solanum lycopersicum	root	0.0023
+BSFFF	J	Solanum lycopersicum	root	0.0022
+BSFFF	J	Solanum lycopersicum	root	0.0031
+BSFFF	J	Solanum lycopersicum	root	0.0028
+BSFFF	J	Solanum lycopersicum	root	0.002
+BSFFF	J	Solanum lycopersicum	root	0.0049
+BSFFF	J	Solanum lycopersicum	root	0.0033
+BSFFF	J	Solanum lycopersicum	root	0.0029
+BSFFF	J	Solanum lycopersicum	root	0.0018
+BSFFF	J	Solanum lycopersicum	root	0.0039
+BSFFF	J	Solanum lycopersicum	root	0.0046
+BSFFF	J	Solanum lycopersicum	root	0.0035
+BSFFF	J	Solanum lycopersicum	root	0.0015
+BSFFF	J	Solanum lycopersicum	root	0.0068
+BSFFF	J	Solanum lycopersicum	root	0.0018
+BSFFF	J	Solanum lycopersicum	root	0.0042
+BSFFF	K	Capsicum annuum	root	0.0029
+BSFFF	K	Capsicum annuum	root	0.0017
+BSFFF	K	Capsicum annuum	root	0.0018
+BSFFF	L	Zea mays	root	0.0102
+BSFFF	L	Zea mays	root	0.0031
+BSFFF	L	Zea mays	root	0.0056
+BSFFF	L	Zea mays	root	0.0262
+BSFFF	L	Zea mays	root	0.004
+BSFFF	L	Zea mays	root	0.0412
+BSFFF	L	Zea mays	root	0.0288
+BSFFF	L	Zea mays	root	0.0262
+BSFFF	L	Zea mays	root	0.0127
+BSFFF	L	Zea mays	root	0.0219
+BSFFF	L	Zea mays	root	0.0218
+BSFFF	L	Zea mays	root	0.0136
+BSFFF	L	Zea mays	root	0.0241
+BSFFF	L	Zea mays	root	0.015
+BSFFF	L	Zea mays	root	0.0291
+BSFFF	L	Zea mays	root	0.0315
+BSFFF	L	Zea mays	root	0.0406
+BSFFF	L	Zea mays	root	0.0367
+BSFFF	L	Zea mays	root	0.0251
+BSFFF	L	Zea mays	root	0.0356
+BSFFF	L	Zea mays	root	0.0239
+BSFFF	M	Triticum aestivum	root	0.0105
+BSFFF	M	Triticum aestivum	root	0.008
+BSFFF	M	Triticum aestivum	root	0.0121
+BSFFF	M	Triticum aestivum	root	0.0089
+BSFFF	M	Triticum aestivum	root	0.0116
+BSFFF	M	Triticum aestivum	root	0.0077
+BSFFF	M	Triticum aestivum	root	0.0098
+BSFFF	M	Triticum aestivum	root	0.0169
+BSFFF	M	Triticum aestivum	root	0.0132
+BSFFF	M	Triticum aestivum	root	0.022
+BSFFF	M	Triticum aestivum	root	0.0139
+BSFFF	M	Triticum aestivum	root	0.0101
+BSFFF	M	Triticum aestivum	root	0.0093
+BSFFF	M	Triticum aestivum	root	0.0144
+BSFFF	M	Triticum aestivum	root	0.0335
+BSFFF	M	Triticum aestivum	root	0.0133
+BSFFF	M	Triticum aestivum	root	0.007
+BSFFF	M	Triticum aestivum	root	0.0086
+BSFFF	N	Pisum sativum	root	0.0237
+BSFFF	N	Pisum sativum	root	0.016
+BSFFF	N	Pisum sativum	root	0.0099
+BSFFF	N	Pisum sativum	root	0.0404
+BSFFF	N	Pisum sativum	root	0.02
+BSFFF	N	Pisum sativum	root	0.0183
+BSFFF	N	Pisum sativum	root	0.0237
+BSFFF	N	Pisum sativum	root	0.013
+BSFFF	N	Pisum sativum	root	0.0171
+BSFFF	N	Pisum sativum	root	0.0215
+BSFFF	N	Pisum sativum	root	0.0043
+BSFFF	N	Pisum sativum	root	0.0257
+BSFFF	N	Pisum sativum	root	0.0227
+BSFFF	N	Pisum sativum	root	0.0217
+BSFFF	N	Pisum sativum	root	0.015
+BSFFF	N	Pisum sativum	root	0.0178
+BSFFF	N	Pisum sativum	root	0.0199
+BSFFF	N	Pisum sativum	root	0.0237
+BSFFF	N	Pisum sativum	root	0.0138
+BSFFF	N	Pisum sativum	root	0.0218
+BSFFF	N	Pisum sativum	root	0.0101
+BSFFF	N	Pisum sativum	root	0.0186
+BSFFF	N	Pisum sativum	root	0.0128
+BSFFF	O	Vicia faba	root	0.0573
+BSFFF	O	Vicia faba	root	0.1594
+BSFFF	O	Vicia faba	root	0.0549
+BSFFF	O	Vicia faba	root	0.1053
+BSFFF	O	Vicia faba	root	0.0709
+BSFFF	O	Vicia faba	root	0.0809
+BSFFF	O	Vicia faba	root	0.0838
+BSFFF	O	Vicia faba	root	0.0958
+BSFFF	O	Vicia faba	root	0.105
+BSFFF	O	Vicia faba	root	0.082
+BSFFF	O	Vicia faba	root	0.1174
+BSFFF	O	Vicia faba	root	0.0766
+BSFFF	O	Vicia faba	root	0.105
+BSFFF	O	Vicia faba	root	0.103
+BSFFF	O	Vicia faba	root	0.0984
+BSFFF	O	Vicia faba	root	0.0753
+BSFFF	O	Vicia faba	root	0.1127
+BSFFF	O	Vicia faba	root	0.0858
+BSFFF	O	Vicia faba	root	0.0677
+BSFFF	P	Fagopyrum esculentum	root	0.0049
+BSFFF	P	Fagopyrum esculentum	root	0.0135
+BSFFF	P	Fagopyrum esculentum	root	0.0118
+BSFFF	P	Fagopyrum esculentum	root	0.0196
+BSFFF	P	Fagopyrum esculentum	root	0.0049
+BSFFF	P	Fagopyrum esculentum	root	0.0105
+BSFFF	P	Fagopyrum esculentum	root	0.0116
+BSFFF	P	Fagopyrum esculentum	root	0.0065
+BSFFF	P	Fagopyrum esculentum	root	0.0008
+BSFFF	P	Fagopyrum esculentum	root	0.0016
+BSFFF	P	Fagopyrum esculentum	root	0.0068
+BSFFF	P	Fagopyrum esculentum	root	0.021
+BSFFF	P	Fagopyrum esculentum	root	0.0071
+BSFFF	P	Fagopyrum esculentum	root	0.0041
+BSFFF	P	Fagopyrum esculentum	root	0.0132
+BSFFF	P	Fagopyrum esculentum	root	0.0047
+BSFFF	P	Fagopyrum esculentum	root	0.0083
+BSFFF	P	Fagopyrum esculentum	root	0.0098
+BSFFF	P	Fagopyrum esculentum	root	0.0042
+BSFFF	Q	Borago officinalis	root	0.0036
+BSFFF	Q	Borago officinalis	root	0.0029
+BSFFF	Q	Borago officinalis	root	0.0167
+BSFFF	Q	Borago officinalis	root	0.001
+BSFFF	Q	Borago officinalis	root	0.0033
+BSFFF	Q	Borago officinalis	root	0.0075
+BSFFF	Q	Borago officinalis	root	0.0075
+BSFFF	Q	Borago officinalis	root	0.0095
+BSFFF	Q	Borago officinalis	root	0.004
+BSFFF	Q	Borago officinalis	root	0.0046
+BSFFF	Q	Borago officinalis	root	0.01
+BSFFF	Q	Borago officinalis	root	0.0089
+BSFFF	Q	Borago officinalis	root	0.0033
+BSFFF	Q	Borago officinalis	root	0.0057
+BSFFF	Q	Borago officinalis	root	0.0074
+BSFFF	Q	Borago officinalis	root	0.0045
+BSFFF	Q	Borago officinalis	root	0.0078
+BSFFF	Q	Borago officinalis	root	0.0044
+BSFFF	Q	Borago officinalis	root	0.0051
+BSFFF	Q	Borago officinalis	root	0.0024
+BSFFF	Q	Borago officinalis	root	0.003
+BSFFF	Q	Borago officinalis	root	0.004
+BSFFF	Q	Borago officinalis	root	0.0076
+BSFFF	R	Lactuca sativa	root	0.0028
+BSFFF	R	Lactuca sativa	root	0.001
+BSFFF	R	Lactuca sativa	root	0.003
+BSFFF	R	Lactuca sativa	root	0.0057
+BSFFF	R	Lactuca sativa	root	0.0014
+BSFFF	R	Lactuca sativa	root	0.004
+BSFFF	R	Lactuca sativa	root	0.0035
+BSFFF	R	Lactuca sativa	root	0.0037
+BSFFF	R	Lactuca sativa	root	0.0152
+BSFFF	R	Lactuca sativa	root	0.0051
+BSFFF	R	Lactuca sativa	root	0.0049
+BSFFF	R	Lactuca sativa	root	0.0035
+BSFFF	R	Lactuca sativa	root	0.0066
+BSFFF	R	Lactuca sativa	root	0.0094
+BSFFF	R	Lactuca sativa	root	0.0037
+BSFFF	R	Lactuca sativa	root	0.0025
+BSFFF	R	Lactuca sativa	root	0.0029
+BSFFF	R	Lactuca sativa	root	0.0049
+BSFFF	R	Lactuca sativa	root	0.0014
+BSFFF	R	Lactuca sativa	root	0.0046
+BSFFF	R	Lactuca sativa	root	0.0041
+BSFFF	R	Lactuca sativa	root	0.002
+BSFFF	R	Lactuca sativa	root	0.001
+BSFFF	R	Lactuca sativa	root	0.0034
+BSFFF	S	Phacelia tanacetifolia	root	0.0012
+BSFFF	S	Phacelia tanacetifolia	root	0.001
+BSFFF	S	Phacelia tanacetifolia	root	0.0018
+BSFFF	S	Phacelia tanacetifolia	root	0.004
+BSFFF	S	Phacelia tanacetifolia	root	0.0025
+BSFFF	S	Phacelia tanacetifolia	root	0.0016
+BSFFF	S	Phacelia tanacetifolia	root	0.0019
+BSFFF	S	Phacelia tanacetifolia	root	0.0028
+BSFFF	S	Phacelia tanacetifolia	root	0.0022
+BSFFF	S	Phacelia tanacetifolia	root	0.0028
+BSFFF	S	Phacelia tanacetifolia	root	0.0029
+BSFFF	S	Phacelia tanacetifolia	root	0.0019
+BSFFF	S	Phacelia tanacetifolia	root	0.0032
+BSFFF	S	Phacelia tanacetifolia	root	0.0023
+BSFFF	S	Phacelia tanacetifolia	root	0.0015
+BSFFF	S	Phacelia tanacetifolia	root	0.0115
+BSFFF	S	Phacelia tanacetifolia	root	0.0022
+BSFFF	S	Phacelia tanacetifolia	root	0.0016
+BSFFF	S	Phacelia tanacetifolia	root	0.0009
+BSFFF	T	Helianthus annuus	root	0.041
+BSFFF	T	Helianthus annuus	root	0.0049
+BSFFF	T	Helianthus annuus	root	0.006
+BSFFF	T	Helianthus annuus	root	0.0104
+BSFFF	T	Helianthus annuus	root	0.0124
+BSFFF	T	Helianthus annuus	root	0.0095
+BSFFF	T	Helianthus annuus	root	0.0112
+BSFFF	T	Helianthus annuus	root	0.0034
+BSFFF	T	Helianthus annuus	root	0.0102
+BSFFF	T	Helianthus annuus	root	0.0172
+BSFFF	T	Helianthus annuus	root	0.0224
+BSFFF	T	Helianthus annuus	root	0.0082
+BSFFF	T	Helianthus annuus	root	0.0025
+BSFFF	T	Helianthus annuus	root	0.0263
+BSFFF	T	Helianthus annuus	root	0.0257
+BSFFF	T	Helianthus annuus	root	0.0163
+BSFFF	T	Helianthus annuus	root	0.0099
+BSFFF	T	Helianthus annuus	root	0.0095
+BSFFF	T	Helianthus annuus	root	0.0135
+BSFFF	T	Helianthus annuus	root	0.0105
+BSFFF	T	Helianthus annuus	root	0.0177
+BSFFF	T	Helianthus annuus	root	0.0068
+BSFFF	T	Helianthus annuus	root	0.0087
+BSFFF	T	Helianthus annuus	root	0.0156
+BSFFF	T	Helianthus annuus	root	0.0177
+BSFFF	U	Trifolium pratense	root	0.0012
+BSFFF	U	Trifolium pratense	root	0.0018
+BSFFF	U	Trifolium pratense	root	0.0013
+BSFFF	U	Trifolium pratense	root	0.0023
+BSFFF	U	Trifolium pratense	root	0.0022
+BSFFF	U	Trifolium pratense	root	0.0048
+BSFFF	U	Trifolium pratense	root	0.0011
+BSFFF	U	Trifolium pratense	root	0.0014
+BSFFF	U	Trifolium pratense	root	0.0046
+BSFFF	U	Trifolium pratense	root	0.0008
+BSFFF	U	Trifolium pratense	root	0.0012
+BSFFF	U	Trifolium pratense	root	0.0034
+_Control	A	Allium cepa	shoot	0.0837
+_Control	A	Allium cepa	shoot	0.0005
+_Control	A	Allium cepa	shoot	0.004
+_Control	A	Allium cepa	shoot	0.0023
+_Control	A	Allium cepa	shoot	0.0019
+_Control	A	Allium cepa	shoot	0.0026
+_Control	A	Allium cepa	shoot	0.0012
+_Control	A	Allium cepa	shoot	0.0042
+_Control	A	Allium cepa	shoot	0.0016
+_Control	A	Allium cepa	shoot	0.0038
+_Control	A	Allium cepa	shoot	0.0028
+_Control	A	Allium cepa	shoot	0.0018
+_Control	A	Allium cepa	shoot	0.0016
+_Control	A	Allium cepa	shoot	0.0041
+_Control	A	Allium cepa	shoot	0.004
+_Control	A	Allium cepa	shoot	0.0042
+_Control	A	Allium cepa	shoot	0.0076
+_Control	A	Allium cepa	shoot	0.0018
+_Control	A	Allium cepa	shoot	0.0016
+_Control	B	Daucus carota	shoot	0.0005
+_Control	B	Daucus carota	shoot	0.0032
+_Control	B	Daucus carota	shoot	0.0011
+_Control	B	Daucus carota	shoot	0.0006
+_Control	B	Daucus carota	shoot	0.0018
+_Control	B	Daucus carota	shoot	0.0013
+_Control	B	Daucus carota	shoot	0.0019
+_Control	B	Daucus carota	shoot	0.0268
+_Control	B	Daucus carota	shoot	0.0019
+_Control	B	Daucus carota	shoot	0.0022
+_Control	B	Daucus carota	shoot	0.0012
+_Control	B	Daucus carota	shoot	0.0011
+_Control	B	Daucus carota	shoot	0.0004
+_Control	B	Daucus carota	shoot	0.0003
+_Control	B	Daucus carota	shoot	0.0012
+_Control	C	Brassica napus	shoot	0.0093
+_Control	C	Brassica napus	shoot	0.0036
+_Control	C	Brassica napus	shoot	0.0174
+_Control	C	Brassica napus	shoot	0.0251
+_Control	C	Brassica napus	shoot	0.0158
+_Control	C	Brassica napus	shoot	0.0173
+_Control	C	Brassica napus	shoot	0.0049
+_Control	C	Brassica napus	shoot	0.0075
+_Control	C	Brassica napus	shoot	0.0065
+_Control	C	Brassica napus	shoot	0.0066
+_Control	C	Brassica napus	shoot	0.0126
+_Control	C	Brassica napus	shoot	0.0126
+_Control	C	Brassica napus	shoot	0.0092
+_Control	C	Brassica napus	shoot	0.0061
+_Control	C	Brassica napus	shoot	0.0068
+_Control	C	Brassica napus	shoot	0.007
+_Control	C	Brassica napus	shoot	0.0093
+_Control	C	Brassica napus	shoot	0.0086
+_Control	C	Brassica napus	shoot	0.0069
+_Control	C	Brassica napus	shoot	0.0088
+_Control	C	Brassica napus	shoot	0.0032
+_Control	C	Brassica napus	shoot	0.007
+_Control	C	Brassica napus	shoot	0.0069
+_Control	D	B. oleracea var gemmifera	shoot	0.0036
+_Control	D	B. oleracea var gemmifera	shoot	0.0076
+_Control	D	B. oleracea var gemmifera	shoot	0.0113
+_Control	D	B. oleracea var gemmifera	shoot	0.0166
+_Control	D	B. oleracea var gemmifera	shoot	0.0077
+_Control	D	B. oleracea var gemmifera	shoot	0.0052
+_Control	D	B. oleracea var gemmifera	shoot	0.0101
+_Control	D	B. oleracea var gemmifera	shoot	0.0102
+_Control	D	B. oleracea var gemmifera	shoot	0.0048
+_Control	D	B. oleracea var gemmifera	shoot	0.0165
+_Control	D	B. oleracea var gemmifera	shoot	0.0032
+_Control	D	B. oleracea var gemmifera	shoot	0.007
+_Control	D	B. oleracea var gemmifera	shoot	0.0088
+_Control	D	B. oleracea var gemmifera	shoot	0.002
+_Control	D	B. oleracea var gemmifera	shoot	0.0067
+_Control	D	B. oleracea var gemmifera	shoot	0.0095
+_Control	D	B. oleracea var gemmifera	shoot	0.009
+_Control	D	B. oleracea var gemmifera	shoot	0.0092
+_Control	D	B. oleracea var gemmifera	shoot	0.0195
+_Control	D	B. oleracea var gemmifera	shoot	0.0048
+_Control	D	B. oleracea var gemmifera	shoot	0.011
+_Control	D	B. oleracea var gemmifera	shoot	0.0123
+_Control	D	B. oleracea var gemmifera	shoot	0.0082
+_Control	D	B. oleracea var gemmifera	shoot	0.01
+_Control	D	B. oleracea var gemmifera	shoot	0.0063
+_Control	D	B. oleracea var gemmifera	shoot	0.0081
+_Control	D	B. oleracea var gemmifera	shoot	0.0075
+_Control	D	B. oleracea var gemmifera	shoot	0.008
+_Control	D	B. oleracea var gemmifera	shoot	0.0092
+_Control	D	B. oleracea var gemmifera	shoot	0.0083
+_Control	E	Cucurbita maxima	shoot	0.0645
+_Control	E	Cucurbita maxima	shoot	0.0865
+_Control	E	Cucurbita maxima	shoot	0.0777
+_Control	E	Cucurbita maxima	shoot	0.0806
+_Control	E	Cucurbita maxima	shoot	0.0524
+_Control	E	Cucurbita maxima	shoot	0.0731
+_Control	E	Cucurbita maxima	shoot	0.0826
+_Control	E	Cucurbita maxima	shoot	0.0662
+_Control	E	Cucurbita maxima	shoot	0.0728
+_Control	E	Cucurbita maxima	shoot	0.0609
+_Control	E	Cucurbita maxima	shoot	0.0116
+_Control	E	Cucurbita maxima	shoot	0.0581
+_Control	E	Cucurbita maxima	shoot	0.0675
+_Control	E	Cucurbita maxima	shoot	0.0773
+_Control	E	Cucurbita maxima	shoot	0.068
+_Control	E	Cucurbita maxima	shoot	0.066
+_Control	E	Cucurbita maxima	shoot	0.056
+_Control	E	Cucurbita maxima	shoot	0.0645
+_Control	E	Cucurbita maxima	shoot	0.0701
+_Control	E	Cucurbita maxima	shoot	0.0647
+_Control	E	Cucurbita maxima	shoot	0.0744
+_Control	E	Cucurbita maxima	shoot	0.113
+_Control	E	Cucurbita maxima	shoot	0.0705
+_Control	E	Cucurbita maxima	shoot	0.073
+_Control	E	Cucurbita maxima	shoot	0.0631
+_Control	E	Cucurbita maxima	shoot	0.0567
+_Control	E	Cucurbita maxima	shoot	0.063
+_Control	E	Cucurbita maxima	shoot	0.0863
+_Control	F	Raphanus sativus	shoot	0.0094
+_Control	F	Raphanus sativus	shoot	0.015
+_Control	F	Raphanus sativus	shoot	0.0185
+_Control	F	Raphanus sativus	shoot	0.0161
+_Control	F	Raphanus sativus	shoot	0.0143
+_Control	F	Raphanus sativus	shoot	0.0108
+_Control	F	Raphanus sativus	shoot	0.0081
+_Control	F	Raphanus sativus	shoot	0.0195
+_Control	F	Raphanus sativus	shoot	0.0112
+_Control	F	Raphanus sativus	shoot	0.0149
+_Control	F	Raphanus sativus	shoot	0.0198
+_Control	F	Raphanus sativus	shoot	0.0364
+_Control	F	Raphanus sativus	shoot	0.0146
+_Control	F	Raphanus sativus	shoot	0.0121
+_Control	F	Raphanus sativus	shoot	0.0188
+_Control	F	Raphanus sativus	shoot	0.0183
+_Control	F	Raphanus sativus	shoot	0.014
+_Control	F	Raphanus sativus	shoot	0.0186
+_Control	F	Raphanus sativus	shoot	0.0136
+_Control	F	Raphanus sativus	shoot	0.0147
+_Control	G	Beta vulgaris	shoot	0.0024
+_Control	G	Beta vulgaris	shoot	0.0014
+_Control	G	Beta vulgaris	shoot	0.083
+_Control	G	Beta vulgaris	shoot	0.0026
+_Control	G	Beta vulgaris	shoot	0.0055
+_Control	G	Beta vulgaris	shoot	0.0047
+_Control	G	Beta vulgaris	shoot	0.005
+_Control	G	Beta vulgaris	shoot	0.0068
+_Control	G	Beta vulgaris	shoot	0.003
+_Control	G	Beta vulgaris	shoot	0.0054
+_Control	G	Beta vulgaris	shoot	0.0043
+_Control	G	Beta vulgaris	shoot	0.0044
+_Control	G	Beta vulgaris	shoot	0.0031
+_Control	G	Beta vulgaris	shoot	0.0063
+_Control	G	Beta vulgaris	shoot	0.0035
+_Control	G	Beta vulgaris	shoot	0.0049
+_Control	G	Beta vulgaris	shoot	0.0052
+_Control	G	Beta vulgaris	shoot	0.0037
+_Control	G	Beta vulgaris	shoot	0.0048
+_Control	G	Beta vulgaris	shoot	0.0031
+_Control	G	Beta vulgaris	shoot	0.0044
+_Control	G	Beta vulgaris	shoot	0.0014
+_Control	G	Beta vulgaris	shoot	0.003
+_Control	H	B. oleracea var capitata	shoot	0.0065
+_Control	H	B. oleracea var capitata	shoot	0.0052
+_Control	H	B. oleracea var capitata	shoot	0.006
+_Control	H	B. oleracea var capitata	shoot	0.0071
+_Control	H	B. oleracea var capitata	shoot	0.0072
+_Control	H	B. oleracea var capitata	shoot	0.0059
+_Control	H	B. oleracea var capitata	shoot	0.0064
+_Control	H	B. oleracea var capitata	shoot	0.0051
+_Control	H	B. oleracea var capitata	shoot	0.0069
+_Control	H	B. oleracea var capitata	shoot	0.0091
+_Control	H	B. oleracea var capitata	shoot	0.0058
+_Control	H	B. oleracea var capitata	shoot	0.0054
+_Control	H	B. oleracea var capitata	shoot	0.0061
+_Control	H	B. oleracea var capitata	shoot	0.0075
+_Control	H	B. oleracea var capitata	shoot	0.0082
+_Control	H	B. oleracea var capitata	shoot	0.0067
+_Control	H	B. oleracea var capitata	shoot	0.0051
+_Control	H	B. oleracea var capitata	shoot	0.0097
+_Control	H	B. oleracea var capitata	shoot	0.0055
+_Control	H	B. oleracea var capitata	shoot	0.0075
+_Control	H	B. oleracea var capitata	shoot	0.0044
+_Control	H	B. oleracea var capitata	shoot	0.0046
+_Control	H	B. oleracea var capitata	shoot	0.007
+_Control	H	B. oleracea var capitata	shoot	0.0055
+_Control	H	B. oleracea var capitata	shoot	0.0076
+_Control	H	B. oleracea var capitata	shoot	0.0061
+_Control	H	B. oleracea var capitata	shoot	0.0086
+_Control	I	Cucumis sativus	shoot	0.0279
+_Control	I	Cucumis sativus	shoot	0.0279
+_Control	I	Cucumis sativus	shoot	0.0226
+_Control	I	Cucumis sativus	shoot	0.0255
+_Control	I	Cucumis sativus	shoot	0.0199
+_Control	I	Cucumis sativus	shoot	0.0102
+_Control	I	Cucumis sativus	shoot	0.0191
+_Control	I	Cucumis sativus	shoot	0.0197
+_Control	I	Cucumis sativus	shoot	0.0145
+_Control	I	Cucumis sativus	shoot	0.0245
+_Control	I	Cucumis sativus	shoot	0.0222
+_Control	I	Cucumis sativus	shoot	0.0252
+_Control	I	Cucumis sativus	shoot	0.0272
+_Control	I	Cucumis sativus	shoot	0.0256
+_Control	I	Cucumis sativus	shoot	0.0455
+_Control	I	Cucumis sativus	shoot	0.0129
+_Control	I	Cucumis sativus	shoot	0.0159
+_Control	I	Cucumis sativus	shoot	0.0224
+_Control	I	Cucumis sativus	shoot	0.021
+_Control	I	Cucumis sativus	shoot	0.0242
+_Control	I	Cucumis sativus	shoot	0.0155
+_Control	I	Cucumis sativus	shoot	0.0159
+_Control	J	Solanum lycopersicum	shoot	0.0064
+_Control	J	Solanum lycopersicum	shoot	0.0014
+_Control	J	Solanum lycopersicum	shoot	0.0036
+_Control	J	Solanum lycopersicum	shoot	0.0044
+_Control	J	Solanum lycopersicum	shoot	0.0012
+_Control	J	Solanum lycopersicum	shoot	0.0026
+_Control	J	Solanum lycopersicum	shoot	0.0041
+_Control	J	Solanum lycopersicum	shoot	0.0062
+_Control	J	Solanum lycopersicum	shoot	0.0048
+_Control	J	Solanum lycopersicum	shoot	0.0053
+_Control	J	Solanum lycopersicum	shoot	0.0051
+_Control	J	Solanum lycopersicum	shoot	0.0071
+_Control	J	Solanum lycopersicum	shoot	0.0051
+_Control	J	Solanum lycopersicum	shoot	0.0076
+_Control	J	Solanum lycopersicum	shoot	0.003
+_Control	J	Solanum lycopersicum	shoot	0.0043
+_Control	J	Solanum lycopersicum	shoot	0.0047
+_Control	J	Solanum lycopersicum	shoot	0.0072
+_Control	J	Solanum lycopersicum	shoot	0.0062
+_Control	J	Solanum lycopersicum	shoot	0.0038
+_Control	K	Capsicum annuum	shoot	0.0027
+_Control	K	Capsicum annuum	shoot	0.0036
+_Control	K	Capsicum annuum	shoot	0.0076
+_Control	K	Capsicum annuum	shoot	0.0087
+_Control	K	Capsicum annuum	shoot	0.0022
+_Control	K	Capsicum annuum	shoot	0.0042
+_Control	K	Capsicum annuum	shoot	0.0099
+_Control	K	Capsicum annuum	shoot	0.0082
+_Control	K	Capsicum annuum	shoot	0.0072
+_Control	K	Capsicum annuum	shoot	0.0085
+_Control	K	Capsicum annuum	shoot	0.0052
+_Control	K	Capsicum annuum	shoot	0.0063
+_Control	K	Capsicum annuum	shoot	0.0095
+_Control	K	Capsicum annuum	shoot	0.0139
+_Control	K	Capsicum annuum	shoot	0.0059
+_Control	K	Capsicum annuum	shoot	0.0096
+_Control	L	Zea mays	shoot	0.0155
+_Control	L	Zea mays	shoot	0.0046
+_Control	L	Zea mays	shoot	0.0121
+_Control	L	Zea mays	shoot	0.0209
+_Control	L	Zea mays	shoot	0.0131
+_Control	L	Zea mays	shoot	0.0133
+_Control	L	Zea mays	shoot	0.0176
+_Control	L	Zea mays	shoot	0.0149
+_Control	L	Zea mays	shoot	0.0182
+_Control	L	Zea mays	shoot	0.0219
+_Control	L	Zea mays	shoot	0.026
+_Control	L	Zea mays	shoot	0.036
+_Control	L	Zea mays	shoot	0.0139
+_Control	L	Zea mays	shoot	0.0166
+_Control	L	Zea mays	shoot	0.0236
+_Control	L	Zea mays	shoot	0.0383
+_Control	L	Zea mays	shoot	0.01
+_Control	L	Zea mays	shoot	0.0163
+_Control	L	Zea mays	shoot	0.0301
+_Control	M	Triticum aestivum	shoot	0.0112
+_Control	M	Triticum aestivum	shoot	0.0067
+_Control	M	Triticum aestivum	shoot	0.008
+_Control	M	Triticum aestivum	shoot	0.01
+_Control	M	Triticum aestivum	shoot	0.007
+_Control	M	Triticum aestivum	shoot	0.0163
+_Control	M	Triticum aestivum	shoot	0.0076
+_Control	M	Triticum aestivum	shoot	0.0084
+_Control	M	Triticum aestivum	shoot	0.0054
+_Control	M	Triticum aestivum	shoot	0.011
+_Control	M	Triticum aestivum	shoot	0.0132
+_Control	M	Triticum aestivum	shoot	0.0093
+_Control	M	Triticum aestivum	shoot	0.0009
+_Control	M	Triticum aestivum	shoot	0.0121
+_Control	M	Triticum aestivum	shoot	0.0059
+_Control	M	Triticum aestivum	shoot	0.0069
+_Control	M	Triticum aestivum	shoot	0.0111
+_Control	M	Triticum aestivum	shoot	0.0098
+_Control	M	Triticum aestivum	shoot	0.0053
+_Control	M	Triticum aestivum	shoot	0.0128
+_Control	M	Triticum aestivum	shoot	0.0073
+_Control	N	Pisum sativum	shoot	0.0171
+_Control	N	Pisum sativum	shoot	0.0191
+_Control	N	Pisum sativum	shoot	0.0163
+_Control	N	Pisum sativum	shoot	0.0376
+_Control	N	Pisum sativum	shoot	0.055
+_Control	N	Pisum sativum	shoot	0.015
+_Control	N	Pisum sativum	shoot	0.0232
+_Control	N	Pisum sativum	shoot	0.0292
+_Control	N	Pisum sativum	shoot	0.0174
+_Control	N	Pisum sativum	shoot	0.0259
+_Control	N	Pisum sativum	shoot	0.0204
+_Control	N	Pisum sativum	shoot	0.0184
+_Control	N	Pisum sativum	shoot	0.0225
+_Control	N	Pisum sativum	shoot	0.0168
+_Control	N	Pisum sativum	shoot	0.0168
+_Control	N	Pisum sativum	shoot	0.0095
+_Control	O	Vicia faba	shoot	0.1386
+_Control	O	Vicia faba	shoot	0.1436
+_Control	O	Vicia faba	shoot	0.0975
+_Control	O	Vicia faba	shoot	0.1179
+_Control	O	Vicia faba	shoot	0.0661
+_Control	O	Vicia faba	shoot	0.0877
+_Control	O	Vicia faba	shoot	0.0928
+_Control	O	Vicia faba	shoot	0.1043
+_Control	O	Vicia faba	shoot	0.0636
+_Control	O	Vicia faba	shoot	0.0819
+_Control	O	Vicia faba	shoot	0.061
+_Control	O	Vicia faba	shoot	0.0847
+_Control	O	Vicia faba	shoot	0.0904
+_Control	O	Vicia faba	shoot	0.0621
+_Control	O	Vicia faba	shoot	0.1139
+_Control	O	Vicia faba	shoot	0.125
+_Control	O	Vicia faba	shoot	0.0698
+_Control	O	Vicia faba	shoot	0.161
+_Control	O	Vicia faba	shoot	0.0774
+_Control	O	Vicia faba	shoot	0.0708
+_Control	O	Vicia faba	shoot	0.0822
+_Control	O	Vicia faba	shoot	0.1707
+_Control	O	Vicia faba	shoot	0.1018
+_Control	O	Vicia faba	shoot	0.1002
+_Control	O	Vicia faba	shoot	0.0718
+_Control	P	Fagopyrum esculentum	shoot	0.0119
+_Control	P	Fagopyrum esculentum	shoot	0.0068
+_Control	P	Fagopyrum esculentum	shoot	0.0188
+_Control	P	Fagopyrum esculentum	shoot	0.0186
+_Control	P	Fagopyrum esculentum	shoot	0.0134
+_Control	P	Fagopyrum esculentum	shoot	0.0399
+_Control	P	Fagopyrum esculentum	shoot	0.0143
+_Control	P	Fagopyrum esculentum	shoot	0.0142
+_Control	P	Fagopyrum esculentum	shoot	0.0167
+_Control	P	Fagopyrum esculentum	shoot	0.0153
+_Control	P	Fagopyrum esculentum	shoot	0.0173
+_Control	P	Fagopyrum esculentum	shoot	0.0152
+_Control	P	Fagopyrum esculentum	shoot	0.0159
+_Control	P	Fagopyrum esculentum	shoot	0.0239
+_Control	P	Fagopyrum esculentum	shoot	0.0171
+_Control	P	Fagopyrum esculentum	shoot	0.0142
+_Control	P	Fagopyrum esculentum	shoot	0.0185
+_Control	P	Fagopyrum esculentum	shoot	0.021
+_Control	P	Fagopyrum esculentum	shoot	0.0124
+_Control	P	Fagopyrum esculentum	shoot	0.0155
+_Control	P	Fagopyrum esculentum	shoot	0.0163
+_Control	P	Fagopyrum esculentum	shoot	0.0148
+_Control	Q	Borago officinalis	shoot	0.0126
+_Control	Q	Borago officinalis	shoot	0.0093
+_Control	Q	Borago officinalis	shoot	0.0231
+_Control	Q	Borago officinalis	shoot	0.0188
+_Control	Q	Borago officinalis	shoot	0.0042
+_Control	Q	Borago officinalis	shoot	0.0153
+_Control	Q	Borago officinalis	shoot	0.0128
+_Control	Q	Borago officinalis	shoot	0.0151
+_Control	Q	Borago officinalis	shoot	0.0133
+_Control	Q	Borago officinalis	shoot	0.02
+_Control	Q	Borago officinalis	shoot	0.0109
+_Control	Q	Borago officinalis	shoot	0.0139
+_Control	Q	Borago officinalis	shoot	0.0033
+_Control	Q	Borago officinalis	shoot	0.0137
+_Control	Q	Borago officinalis	shoot	0.0135
+_Control	Q	Borago officinalis	shoot	0.0161
+_Control	Q	Borago officinalis	shoot	0.0261
+_Control	Q	Borago officinalis	shoot	0.0126
+_Control	R	Lactuca sativa	shoot	0.0012
+_Control	R	Lactuca sativa	shoot	0.0016
+_Control	R	Lactuca sativa	shoot	0.0006
+_Control	R	Lactuca sativa	shoot	0.0021
+_Control	R	Lactuca sativa	shoot	0.002
+_Control	R	Lactuca sativa	shoot	0.0077
+_Control	R	Lactuca sativa	shoot	0.0044
+_Control	R	Lactuca sativa	shoot	0.0101
+_Control	R	Lactuca sativa	shoot	0.0098
+_Control	R	Lactuca sativa	shoot	0.0044
+_Control	R	Lactuca sativa	shoot	0.0032
+_Control	R	Lactuca sativa	shoot	0.0017
+_Control	R	Lactuca sativa	shoot	0.0031
+_Control	R	Lactuca sativa	shoot	0.0016
+_Control	R	Lactuca sativa	shoot	0.002
+_Control	R	Lactuca sativa	shoot	0.0047
+_Control	R	Lactuca sativa	shoot	0.0019
+_Control	R	Lactuca sativa	shoot	0.0025
+_Control	R	Lactuca sativa	shoot	0.002
+_Control	R	Lactuca sativa	shoot	0.001
+_Control	R	Lactuca sativa	shoot	0.0016
+_Control	R	Lactuca sativa	shoot	0.0029
+_Control	R	Lactuca sativa	shoot	0.0027
+_Control	R	Lactuca sativa	shoot	0.0048
+_Control	R	Lactuca sativa	shoot	0.0023
+_Control	R	Lactuca sativa	shoot	0.0024
+_Control	R	Lactuca sativa	shoot	0.003
+_Control	R	Lactuca sativa	shoot	0.0145
+_Control	R	Lactuca sativa	shoot	0.0035
+_Control	R	Lactuca sativa	shoot	0.0031
+_Control	S	Phacelia tanacetifolia	shoot	0.002
+_Control	S	Phacelia tanacetifolia	shoot	0.001
+_Control	S	Phacelia tanacetifolia	shoot	0.0036
+_Control	S	Phacelia tanacetifolia	shoot	0.0063
+_Control	S	Phacelia tanacetifolia	shoot	0.0063
+_Control	S	Phacelia tanacetifolia	shoot	0.0047
+_Control	S	Phacelia tanacetifolia	shoot	0.0043
+_Control	S	Phacelia tanacetifolia	shoot	0.0341
+_Control	S	Phacelia tanacetifolia	shoot	0.003
+_Control	S	Phacelia tanacetifolia	shoot	0.002
+_Control	S	Phacelia tanacetifolia	shoot	0.0127
+_Control	S	Phacelia tanacetifolia	shoot	0.0016
+_Control	S	Phacelia tanacetifolia	shoot	0.0043
+_Control	S	Phacelia tanacetifolia	shoot	0.0072
+_Control	S	Phacelia tanacetifolia	shoot	0.0037
+_Control	S	Phacelia tanacetifolia	shoot	0.0018
+_Control	S	Phacelia tanacetifolia	shoot	0.0045
+_Control	S	Phacelia tanacetifolia	shoot	0.002
+_Control	S	Phacelia tanacetifolia	shoot	0.0037
+_Control	S	Phacelia tanacetifolia	shoot	0.003
+_Control	S	Phacelia tanacetifolia	shoot	0.0039
+_Control	S	Phacelia tanacetifolia	shoot	0.0018
+_Control	T	Helianthus annuus	shoot	0.032
+_Control	T	Helianthus annuus	shoot	0.0268
+_Control	T	Helianthus annuus	shoot	0.0311
+_Control	T	Helianthus annuus	shoot	0.0192
+_Control	T	Helianthus annuus	shoot	0.0291
+_Control	T	Helianthus annuus	shoot	0.0329
+_Control	T	Helianthus annuus	shoot	0.0203
+_Control	T	Helianthus annuus	shoot	0.0263
+_Control	T	Helianthus annuus	shoot	0.0367
+_Control	T	Helianthus annuus	shoot	0.0273
+_Control	T	Helianthus annuus	shoot	0.0234
+_Control	T	Helianthus annuus	shoot	0.0317
+_Control	T	Helianthus annuus	shoot	0.029
+_Control	T	Helianthus annuus	shoot	0.0298
+_Control	T	Helianthus annuus	shoot	0.0206
+_Control	T	Helianthus annuus	shoot	0.0535
+_Control	T	Helianthus annuus	shoot	0.0192
+_Control	T	Helianthus annuus	shoot	0.0252
+_Control	T	Helianthus annuus	shoot	0.0175
+_Control	T	Helianthus annuus	shoot	0.0297
+_Control	T	Helianthus annuus	shoot	0.028
+_Control	T	Helianthus annuus	shoot	0.0188
+_Control	T	Helianthus annuus	shoot	0.0196
+_Control	T	Helianthus annuus	shoot	0.0247
+_Control	U	Trifolium pratense	shoot	0.0021
+_Control	U	Trifolium pratense	shoot	0.002
+_Control	U	Trifolium pratense	shoot	0.0013
+_Control	U	Trifolium pratense	shoot	0.0015
+_Control	U	Trifolium pratense	shoot	0.0101
+_Control	U	Trifolium pratense	shoot	0.0028
+_Control	U	Trifolium pratense	shoot	0.0023
+_Control	U	Trifolium pratense	shoot	0.0036
+_Control	U	Trifolium pratense	shoot	0.004
+_Control	U	Trifolium pratense	shoot	0.0006
+_Control	U	Trifolium pratense	shoot	0.005
+BSFFF	A	Allium cepa	shoot	0.0039
+BSFFF	A	Allium cepa	shoot	0.0035
+BSFFF	A	Allium cepa	shoot	0.0016
+BSFFF	A	Allium cepa	shoot	0.0008
+BSFFF	A	Allium cepa	shoot	0.0048
+BSFFF	B	Daucus carota	shoot	0.002
+BSFFF	B	Daucus carota	shoot	0.0009
+BSFFF	B	Daucus carota	shoot	0.0025
+BSFFF	B	Daucus carota	shoot	0.0002
+BSFFF	B	Daucus carota	shoot	0.0025
+BSFFF	B	Daucus carota	shoot	0.0007
+BSFFF	B	Daucus carota	shoot	0.0009
+BSFFF	B	Daucus carota	shoot	0.0025
+BSFFF	B	Daucus carota	shoot	0.003
+BSFFF	B	Daucus carota	shoot	0.003
+BSFFF	B	Daucus carota	shoot	0.0037
+BSFFF	B	Daucus carota	shoot	0.0043
+BSFFF	B	Daucus carota	shoot	0.0003
+BSFFF	C	Brassica napus	shoot	0.007
+BSFFF	C	Brassica napus	shoot	0.0071
+BSFFF	C	Brassica napus	shoot	0.025
+BSFFF	C	Brassica napus	shoot	0.0057
+BSFFF	C	Brassica napus	shoot	0.0076
+BSFFF	C	Brassica napus	shoot	0.0081
+BSFFF	C	Brassica napus	shoot	0.0075
+BSFFF	C	Brassica napus	shoot	0.0088
+BSFFF	C	Brassica napus	shoot	0.0085
+BSFFF	C	Brassica napus	shoot	0.0106
+BSFFF	C	Brassica napus	shoot	0.0076
+BSFFF	C	Brassica napus	shoot	0.0065
+BSFFF	C	Brassica napus	shoot	0.0083
+BSFFF	C	Brassica napus	shoot	0.0055
+BSFFF	C	Brassica napus	shoot	0.01
+BSFFF	C	Brassica napus	shoot	0.0073
+BSFFF	C	Brassica napus	shoot	0.007
+BSFFF	C	Brassica napus	shoot	0.0067
+BSFFF	C	Brassica napus	shoot	0.0094
+BSFFF	C	Brassica napus	shoot	0.0104
+BSFFF	C	Brassica napus	shoot	0.0078
+BSFFF	C	Brassica napus	shoot	0.0072
+BSFFF	C	Brassica napus	shoot	0.0068
+BSFFF	C	Brassica napus	shoot	0.0094
+BSFFF	C	Brassica napus	shoot	0.0094
+BSFFF	C	Brassica napus	shoot	0.0068
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0056
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0092
+BSFFF	D	B. oleracea var gemmifera	shoot	0.003
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0106
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0093
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0064
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0077
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0078
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0102
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0112
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0091
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0098
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0063
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0128
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0075
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0101
+BSFFF	D	B. oleracea var gemmifera	shoot	0.01
+BSFFF	D	B. oleracea var gemmifera	shoot	0.013
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0097
+BSFFF	D	B. oleracea var gemmifera	shoot	0.009
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0065
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0075
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0082
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0137
+BSFFF	D	B. oleracea var gemmifera	shoot	0.0076
+BSFFF	E	Cucurbita maxima	shoot	0.0734
+BSFFF	E	Cucurbita maxima	shoot	0.0502
+BSFFF	E	Cucurbita maxima	shoot	0.0699
+BSFFF	E	Cucurbita maxima	shoot	0.0928
+BSFFF	E	Cucurbita maxima	shoot	0.0442
+BSFFF	E	Cucurbita maxima	shoot	0.0761
+BSFFF	E	Cucurbita maxima	shoot	0.0848
+BSFFF	E	Cucurbita maxima	shoot	0.0699
+BSFFF	E	Cucurbita maxima	shoot	0.0834
+BSFFF	E	Cucurbita maxima	shoot	0.0113
+BSFFF	E	Cucurbita maxima	shoot	0.0401
+BSFFF	E	Cucurbita maxima	shoot	0.0699
+BSFFF	E	Cucurbita maxima	shoot	0.0668
+BSFFF	E	Cucurbita maxima	shoot	0.0555
+BSFFF	E	Cucurbita maxima	shoot	0.0444
+BSFFF	E	Cucurbita maxima	shoot	0.0583
+BSFFF	E	Cucurbita maxima	shoot	0.0556
+BSFFF	E	Cucurbita maxima	shoot	0.09
+BSFFF	E	Cucurbita maxima	shoot	0.0701
+BSFFF	E	Cucurbita maxima	shoot	0.0768
+BSFFF	E	Cucurbita maxima	shoot	0.0629
+BSFFF	E	Cucurbita maxima	shoot	0.0752
+BSFFF	E	Cucurbita maxima	shoot	0.067
+BSFFF	E	Cucurbita maxima	shoot	0.0503
+BSFFF	E	Cucurbita maxima	shoot	0.0789
+BSFFF	E	Cucurbita maxima	shoot	0.0491
+BSFFF	E	Cucurbita maxima	shoot	0.0634
+BSFFF	E	Cucurbita maxima	shoot	0.0693
+BSFFF	E	Cucurbita maxima	shoot	0.0515
+BSFFF	E	Cucurbita maxima	shoot	0.0565
+BSFFF	F	Raphanus sativus	shoot	0.0105
+BSFFF	F	Raphanus sativus	shoot	0.0149
+BSFFF	F	Raphanus sativus	shoot	0.0078
+BSFFF	F	Raphanus sativus	shoot	0.0125
+BSFFF	F	Raphanus sativus	shoot	0.0138
+BSFFF	F	Raphanus sativus	shoot	0.0158
+BSFFF	F	Raphanus sativus	shoot	0.0134
+BSFFF	F	Raphanus sativus	shoot	0.0171
+BSFFF	F	Raphanus sativus	shoot	0.0139
+BSFFF	F	Raphanus sativus	shoot	0.0176
+BSFFF	F	Raphanus sativus	shoot	0.0169
+BSFFF	F	Raphanus sativus	shoot	0.0154
+BSFFF	F	Raphanus sativus	shoot	0.0143
+BSFFF	F	Raphanus sativus	shoot	0.0108
+BSFFF	F	Raphanus sativus	shoot	0.0151
+BSFFF	F	Raphanus sativus	shoot	0.0137
+BSFFF	F	Raphanus sativus	shoot	0.0134
+BSFFF	F	Raphanus sativus	shoot	0.0164
+BSFFF	F	Raphanus sativus	shoot	0.0193
+BSFFF	F	Raphanus sativus	shoot	0.0232
+BSFFF	F	Raphanus sativus	shoot	0.0223
+BSFFF	F	Raphanus sativus	shoot	0.0215
+BSFFF	F	Raphanus sativus	shoot	0.0162
+BSFFF	F	Raphanus sativus	shoot	0.0154
+BSFFF	F	Raphanus sativus	shoot	0.0091
+BSFFF	F	Raphanus sativus	shoot	0.0104
+BSFFF	F	Raphanus sativus	shoot	0.0152
+BSFFF	F	Raphanus sativus	shoot	0.0113
+BSFFF	G	Beta vulgaris	shoot	0.0029
+BSFFF	G	Beta vulgaris	shoot	0.0074
+BSFFF	G	Beta vulgaris	shoot	0.0025
+BSFFF	G	Beta vulgaris	shoot	0.0078
+BSFFF	G	Beta vulgaris	shoot	0.0089
+BSFFF	G	Beta vulgaris	shoot	0.0061
+BSFFF	G	Beta vulgaris	shoot	0.0052
+BSFFF	G	Beta vulgaris	shoot	0.0058
+BSFFF	G	Beta vulgaris	shoot	0.0021
+BSFFF	G	Beta vulgaris	shoot	0.0033
+BSFFF	G	Beta vulgaris	shoot	0.0034
+BSFFF	G	Beta vulgaris	shoot	0.0023
+BSFFF	G	Beta vulgaris	shoot	0.0027
+BSFFF	G	Beta vulgaris	shoot	0.0043
+BSFFF	G	Beta vulgaris	shoot	0.005
+BSFFF	G	Beta vulgaris	shoot	0.0048
+BSFFF	G	Beta vulgaris	shoot	0.0035
+BSFFF	G	Beta vulgaris	shoot	0.0043
+BSFFF	G	Beta vulgaris	shoot	0.0049
+BSFFF	G	Beta vulgaris	shoot	0.0071
+BSFFF	G	Beta vulgaris	shoot	0.0049
+BSFFF	G	Beta vulgaris	shoot	0.0062
+BSFFF	G	Beta vulgaris	shoot	0.0054
+BSFFF	G	Beta vulgaris	shoot	0.0067
+BSFFF	G	Beta vulgaris	shoot	0.0039
+BSFFF	G	Beta vulgaris	shoot	0.0071
+BSFFF	G	Beta vulgaris	shoot	0.0027
+BSFFF	G	Beta vulgaris	shoot	0.0047
+BSFFF	G	Beta vulgaris	shoot	0.0042
+BSFFF	G	Beta vulgaris	shoot	0.0035
+BSFFF	G	Beta vulgaris	shoot	0.0054
+BSFFF	G	Beta vulgaris	shoot	0.0046
+BSFFF	G	Beta vulgaris	shoot	0.0034
+BSFFF	G	Beta vulgaris	shoot	0.0027
+BSFFF	G	Beta vulgaris	shoot	0.0075
+BSFFF	G	Beta vulgaris	shoot	0.002
+BSFFF	G	Beta vulgaris	shoot	0.0071
+BSFFF	G	Beta vulgaris	shoot	0.0065
+BSFFF	G	Beta vulgaris	shoot	0.0058
+BSFFF	H	B. oleracea var capitata	shoot	0.0064
+BSFFF	H	B. oleracea var capitata	shoot	0.0076
+BSFFF	H	B. oleracea var capitata	shoot	0.006
+BSFFF	H	B. oleracea var capitata	shoot	0.0053
+BSFFF	H	B. oleracea var capitata	shoot	0.0072
+BSFFF	H	B. oleracea var capitata	shoot	0.0067
+BSFFF	H	B. oleracea var capitata	shoot	0.0055
+BSFFF	H	B. oleracea var capitata	shoot	0.0066
+BSFFF	H	B. oleracea var capitata	shoot	0.0079
+BSFFF	H	B. oleracea var capitata	shoot	0.0086
+BSFFF	H	B. oleracea var capitata	shoot	0.0066
+BSFFF	H	B. oleracea var capitata	shoot	0.0056
+BSFFF	H	B. oleracea var capitata	shoot	0.0047
+BSFFF	H	B. oleracea var capitata	shoot	0.0076
+BSFFF	H	B. oleracea var capitata	shoot	0.0059
+BSFFF	H	B. oleracea var capitata	shoot	0.0046
+BSFFF	H	B. oleracea var capitata	shoot	0.0069
+BSFFF	H	B. oleracea var capitata	shoot	0.0082
+BSFFF	H	B. oleracea var capitata	shoot	0.0078
+BSFFF	H	B. oleracea var capitata	shoot	0.0053
+BSFFF	I	Cucumis sativus	shoot	0.0139
+BSFFF	I	Cucumis sativus	shoot	0.0245
+BSFFF	I	Cucumis sativus	shoot	0.0245
+BSFFF	I	Cucumis sativus	shoot	0.0102
+BSFFF	I	Cucumis sativus	shoot	0.0235
+BSFFF	I	Cucumis sativus	shoot	0.02
+BSFFF	I	Cucumis sativus	shoot	0.0203
+BSFFF	I	Cucumis sativus	shoot	0.0157
+BSFFF	I	Cucumis sativus	shoot	0.0189
+BSFFF	I	Cucumis sativus	shoot	0.0188
+BSFFF	I	Cucumis sativus	shoot	0.0175
+BSFFF	I	Cucumis sativus	shoot	0.0199
+BSFFF	I	Cucumis sativus	shoot	0.0204
+BSFFF	I	Cucumis sativus	shoot	0.0266
+BSFFF	I	Cucumis sativus	shoot	0.016
+BSFFF	I	Cucumis sativus	shoot	0.021
+BSFFF	I	Cucumis sativus	shoot	0.0129
+BSFFF	I	Cucumis sativus	shoot	0.0175
+BSFFF	I	Cucumis sativus	shoot	0.0265
+BSFFF	I	Cucumis sativus	shoot	0.0268
+BSFFF	I	Cucumis sativus	shoot	0.0279
+BSFFF	I	Cucumis sativus	shoot	0.0214
+BSFFF	I	Cucumis sativus	shoot	0.0308
+BSFFF	I	Cucumis sativus	shoot	0.0192
+BSFFF	I	Cucumis sativus	shoot	0.015
+BSFFF	J	Solanum lycopersicum	shoot	0.0054
+BSFFF	J	Solanum lycopersicum	shoot	0.0055
+BSFFF	J	Solanum lycopersicum	shoot	0.0076
+BSFFF	J	Solanum lycopersicum	shoot	0.0061
+BSFFF	J	Solanum lycopersicum	shoot	0.0055
+BSFFF	J	Solanum lycopersicum	shoot	0.007
+BSFFF	J	Solanum lycopersicum	shoot	0.0067
+BSFFF	J	Solanum lycopersicum	shoot	0.0048
+BSFFF	J	Solanum lycopersicum	shoot	0.0066
+BSFFF	J	Solanum lycopersicum	shoot	0.0053
+BSFFF	J	Solanum lycopersicum	shoot	0.006
+BSFFF	J	Solanum lycopersicum	shoot	0.0023
+BSFFF	J	Solanum lycopersicum	shoot	0.0083
+BSFFF	J	Solanum lycopersicum	shoot	0.0059
+BSFFF	J	Solanum lycopersicum	shoot	0.0306
+BSFFF	J	Solanum lycopersicum	shoot	0.0083
+BSFFF	J	Solanum lycopersicum	shoot	0.0085
+BSFFF	J	Solanum lycopersicum	shoot	0.0067
+BSFFF	J	Solanum lycopersicum	shoot	0.008
+BSFFF	J	Solanum lycopersicum	shoot	0.0071
+BSFFF	J	Solanum lycopersicum	shoot	0.0059
+BSFFF	J	Solanum lycopersicum	shoot	0.0063
+BSFFF	K	Capsicum annuum	shoot	0.0061
+BSFFF	K	Capsicum annuum	shoot	0.0065
+BSFFF	K	Capsicum annuum	shoot	0.0093
+BSFFF	L	Zea mays	shoot	0.0153
+BSFFF	L	Zea mays	shoot	0.0311
+BSFFF	L	Zea mays	shoot	0.0019
+BSFFF	L	Zea mays	shoot	0.0064
+BSFFF	L	Zea mays	shoot	0.0288
+BSFFF	L	Zea mays	shoot	0.021
+BSFFF	L	Zea mays	shoot	0.0349
+BSFFF	L	Zea mays	shoot	0.0336
+BSFFF	L	Zea mays	shoot	0.0205
+BSFFF	L	Zea mays	shoot	0.0176
+BSFFF	L	Zea mays	shoot	0.0293
+BSFFF	L	Zea mays	shoot	0.0138
+BSFFF	L	Zea mays	shoot	0.0108
+BSFFF	L	Zea mays	shoot	0.0286
+BSFFF	L	Zea mays	shoot	0.0302
+BSFFF	L	Zea mays	shoot	0.0147
+BSFFF	L	Zea mays	shoot	0.0243
+BSFFF	L	Zea mays	shoot	0.0167
+BSFFF	L	Zea mays	shoot	0.0293
+BSFFF	M	Triticum aestivum	shoot	0.0112
+BSFFF	M	Triticum aestivum	shoot	0.0097
+BSFFF	M	Triticum aestivum	shoot	0.0131
+BSFFF	M	Triticum aestivum	shoot	0.0112
+BSFFF	M	Triticum aestivum	shoot	0.0078
+BSFFF	M	Triticum aestivum	shoot	0.0127
+BSFFF	M	Triticum aestivum	shoot	0.009
+BSFFF	M	Triticum aestivum	shoot	0.0126
+BSFFF	M	Triticum aestivum	shoot	0.0191
+BSFFF	M	Triticum aestivum	shoot	0.0132
+BSFFF	M	Triticum aestivum	shoot	0.0158
+BSFFF	M	Triticum aestivum	shoot	0.0079
+BSFFF	M	Triticum aestivum	shoot	0.0112
+BSFFF	M	Triticum aestivum	shoot	0.0122
+BSFFF	M	Triticum aestivum	shoot	0.0139
+BSFFF	M	Triticum aestivum	shoot	0.0176
+BSFFF	M	Triticum aestivum	shoot	0.0106
+BSFFF	N	Pisum sativum	shoot	0.0086
+BSFFF	N	Pisum sativum	shoot	0.0153
+BSFFF	N	Pisum sativum	shoot	0.021
+BSFFF	N	Pisum sativum	shoot	0.0161
+BSFFF	N	Pisum sativum	shoot	0.0118
+BSFFF	N	Pisum sativum	shoot	0.0131
+BSFFF	N	Pisum sativum	shoot	0.0224
+BSFFF	N	Pisum sativum	shoot	0.023
+BSFFF	N	Pisum sativum	shoot	0.0261
+BSFFF	N	Pisum sativum	shoot	0.0131
+BSFFF	N	Pisum sativum	shoot	0.0231
+BSFFF	N	Pisum sativum	shoot	0.0177
+BSFFF	N	Pisum sativum	shoot	0.0197
+BSFFF	N	Pisum sativum	shoot	0.0295
+BSFFF	N	Pisum sativum	shoot	0.0249
+BSFFF	N	Pisum sativum	shoot	0.012
+BSFFF	N	Pisum sativum	shoot	0.0239
+BSFFF	N	Pisum sativum	shoot	0.0285
+BSFFF	N	Pisum sativum	shoot	0.0217
+BSFFF	N	Pisum sativum	shoot	0.0369
+BSFFF	N	Pisum sativum	shoot	0.0181
+BSFFF	N	Pisum sativum	shoot	0.0216
+BSFFF	O	Vicia faba	shoot	0.1284
+BSFFF	O	Vicia faba	shoot	0.0424
+BSFFF	O	Vicia faba	shoot	0.2094
+BSFFF	O	Vicia faba	shoot	0.1238
+BSFFF	O	Vicia faba	shoot	0.1012
+BSFFF	O	Vicia faba	shoot	0.0956
+BSFFF	O	Vicia faba	shoot	0.1109
+BSFFF	O	Vicia faba	shoot	0.1255
+BSFFF	O	Vicia faba	shoot	0.1433
+BSFFF	O	Vicia faba	shoot	0.1166
+BSFFF	O	Vicia faba	shoot	0.106
+BSFFF	O	Vicia faba	shoot	0.1097
+BSFFF	O	Vicia faba	shoot	0.1008
+BSFFF	O	Vicia faba	shoot	0.1282
+BSFFF	O	Vicia faba	shoot	0.0744
+BSFFF	O	Vicia faba	shoot	0.1214
+BSFFF	O	Vicia faba	shoot	0.1445
+BSFFF	O	Vicia faba	shoot	0.136
+BSFFF	O	Vicia faba	shoot	0.095
+BSFFF	O	Vicia faba	shoot	0.1603
+BSFFF	O	Vicia faba	shoot	0.1303
+BSFFF	P	Fagopyrum esculentum	shoot	0.0091
+BSFFF	P	Fagopyrum esculentum	shoot	0.0135
+BSFFF	P	Fagopyrum esculentum	shoot	0.0126
+BSFFF	P	Fagopyrum esculentum	shoot	0.0118
+BSFFF	P	Fagopyrum esculentum	shoot	0.0167
+BSFFF	P	Fagopyrum esculentum	shoot	0.014
+BSFFF	P	Fagopyrum esculentum	shoot	0.014
+BSFFF	P	Fagopyrum esculentum	shoot	0.0446
+BSFFF	P	Fagopyrum esculentum	shoot	0.0153
+BSFFF	P	Fagopyrum esculentum	shoot	0.0197
+BSFFF	P	Fagopyrum esculentum	shoot	0.0136
+BSFFF	P	Fagopyrum esculentum	shoot	0.0144
+BSFFF	P	Fagopyrum esculentum	shoot	0.0125
+BSFFF	P	Fagopyrum esculentum	shoot	0.0162
+BSFFF	P	Fagopyrum esculentum	shoot	0.0161
+BSFFF	P	Fagopyrum esculentum	shoot	0.0162
+BSFFF	P	Fagopyrum esculentum	shoot	0.015
+BSFFF	P	Fagopyrum esculentum	shoot	0.0115
+BSFFF	P	Fagopyrum esculentum	shoot	0.0107
+BSFFF	P	Fagopyrum esculentum	shoot	0.0134
+BSFFF	P	Fagopyrum esculentum	shoot	0.0139
+BSFFF	Q	Borago officinalis	shoot	0.016
+BSFFF	Q	Borago officinalis	shoot	0.0164
+BSFFF	Q	Borago officinalis	shoot	0.0141
+BSFFF	Q	Borago officinalis	shoot	0.0034
+BSFFF	Q	Borago officinalis	shoot	0.0044
+BSFFF	Q	Borago officinalis	shoot	0.001
+BSFFF	Q	Borago officinalis	shoot	0.0113
+BSFFF	Q	Borago officinalis	shoot	0.0174
+BSFFF	Q	Borago officinalis	shoot	0.0151
+BSFFF	Q	Borago officinalis	shoot	0.0162
+BSFFF	Q	Borago officinalis	shoot	0.0151
+BSFFF	Q	Borago officinalis	shoot	0.0136
+BSFFF	Q	Borago officinalis	shoot	0.0153
+BSFFF	Q	Borago officinalis	shoot	0.0144
+BSFFF	Q	Borago officinalis	shoot	0.0152
+BSFFF	Q	Borago officinalis	shoot	0.0172
+BSFFF	Q	Borago officinalis	shoot	0.0142
+BSFFF	Q	Borago officinalis	shoot	0.0118
+BSFFF	Q	Borago officinalis	shoot	0.0178
+BSFFF	Q	Borago officinalis	shoot	0.0103
+BSFFF	Q	Borago officinalis	shoot	0.0189
+BSFFF	Q	Borago officinalis	shoot	0.0175
+BSFFF	Q	Borago officinalis	shoot	0.0156
+BSFFF	Q	Borago officinalis	shoot	0.0088
+BSFFF	R	Lactuca sativa	shoot	0.002
+BSFFF	R	Lactuca sativa	shoot	0.0016
+BSFFF	R	Lactuca sativa	shoot	0.0024
+BSFFF	R	Lactuca sativa	shoot	0.0032
+BSFFF	R	Lactuca sativa	shoot	0.0037
+BSFFF	R	Lactuca sativa	shoot	0.002
+BSFFF	R	Lactuca sativa	shoot	0.0035
+BSFFF	R	Lactuca sativa	shoot	0.0043
+BSFFF	R	Lactuca sativa	shoot	0.005
+BSFFF	R	Lactuca sativa	shoot	0.0029
+BSFFF	R	Lactuca sativa	shoot	0.0036
+BSFFF	R	Lactuca sativa	shoot	0.0034
+BSFFF	R	Lactuca sativa	shoot	0.0032
+BSFFF	R	Lactuca sativa	shoot	0.0026
+BSFFF	R	Lactuca sativa	shoot	0.0028
+BSFFF	R	Lactuca sativa	shoot	0.0023
+BSFFF	R	Lactuca sativa	shoot	0.0016
+BSFFF	R	Lactuca sativa	shoot	0.0026
+BSFFF	R	Lactuca sativa	shoot	0.005
+BSFFF	R	Lactuca sativa	shoot	0.0034
+BSFFF	R	Lactuca sativa	shoot	0.0019
+BSFFF	R	Lactuca sativa	shoot	0.0025
+BSFFF	R	Lactuca sativa	shoot	0.002
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0015
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0035
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0018
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0016
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0016
+BSFFF	S	Phacelia tanacetifolia	shoot	0.003
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0019
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0035
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0044
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0034
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0026
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0038
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0034
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0019
+BSFFF	S	Phacelia tanacetifolia	shoot	0.003
+BSFFF	S	Phacelia tanacetifolia	shoot	0.0045
+BSFFF	T	Helianthus annuus	shoot	0.0775
+BSFFF	T	Helianthus annuus	shoot	0.0181
+BSFFF	T	Helianthus annuus	shoot	0.0432
+BSFFF	T	Helianthus annuus	shoot	0.0192
+BSFFF	T	Helianthus annuus	shoot	0.0358
+BSFFF	T	Helianthus annuus	shoot	0.0435
+BSFFF	T	Helianthus annuus	shoot	0.024
+BSFFF	T	Helianthus annuus	shoot	0.0174
+BSFFF	T	Helianthus annuus	shoot	0.0395
+BSFFF	T	Helianthus annuus	shoot	0.0286
+BSFFF	T	Helianthus annuus	shoot	0.0084
+BSFFF	T	Helianthus annuus	shoot	0.0495
+BSFFF	T	Helianthus annuus	shoot	0.0359
+BSFFF	T	Helianthus annuus	shoot	0.0372
+BSFFF	T	Helianthus annuus	shoot	0.0282
+BSFFF	T	Helianthus annuus	shoot	0.041
+BSFFF	T	Helianthus annuus	shoot	0.0217
+BSFFF	T	Helianthus annuus	shoot	0.0283
+BSFFF	T	Helianthus annuus	shoot	0.03
+BSFFF	T	Helianthus annuus	shoot	0.0274
+BSFFF	T	Helianthus annuus	shoot	0.0218
+BSFFF	T	Helianthus annuus	shoot	0.0321
+BSFFF	T	Helianthus annuus	shoot	0.0374
+BSFFF	U	Trifolium pratense	shoot	0.0018
+BSFFF	U	Trifolium pratense	shoot	0.0007
+BSFFF	U	Trifolium pratense	shoot	0.002
+BSFFF	U	Trifolium pratense	shoot	0.0002
+BSFFF	U	Trifolium pratense	shoot	0.0035
+BSFFF	U	Trifolium pratense	shoot	0.0022
+BSFFF	U	Trifolium pratense	shoot	0.0003
+BSFFF	U	Trifolium pratense	shoot	1E-04
+BSFFF	U	Trifolium pratense	shoot	0.0031
+BSFFF	U	Trifolium pratense	shoot	0.003
+BSFFF	U	Trifolium pratense	shoot	0.0023
+BSFFF	U	Trifolium pratense	shoot	0.0038
+BSFFF	U	Trifolium pratense	shoot	0.0013
+BSFFF	U	Trifolium pratense	shoot	0.0005
+BSFFF	U	Trifolium pratense	shoot	0.0024
