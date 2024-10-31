@@ -301,23 +301,36 @@ print(posthoc_tukey)
 
 ```{r}
 
-# Step 1: Load the data
-data <- read.table("Root_Shoot Length_Flytilizer_Final.txt", sep = "\t")
-data <- read.table("Root_Shoot Length_Flytilizer_Final.txt", 
-                   sep = "\t", header = TRUE, stringsAsFactors = FALSE)
+# Install readxl if not already installed
+if (!require(readxl)) install.packages("readxl")
+library(readxl)
+
+# Read the Excel file
+data_ratio <- read_excel("Root_Shoot_Length_Flytilizer_Final.xlsx")
+
+
 
 # Step 2: Ensure variables are correctly formatted
-data$amendment <- as.factor(data$amendment)
-data$plant_species <- as.factor(data$plant_species)
-data$root_shoot_ratio <- as.numeric(data$root_shoot_ratio) 
+data_ratio$amendment <- as.factor(data_ratio$amendment)
+data_ratio$plant_species <- as.factor(data_ratio$plant_species)
+data_ratio$root_shoot_ratio <- as.numeric(data_ratio$root_shoot_ratio) 
 
 
 # Histogram of dry weights
-hist(data$dryweight, main = "Histogram of Dry Weight", xlab = "Dry Weight (g)") 
+hist(data_ratio$root_shoot_ratio, main = "Histogram of root-shoot ratio", xlab = "ratio") 
 #positively skewed (skewed to the right = most values are close to zero) 
 
 # Q-Q plot to check normality
-qqnorm(data$dryweight)
-qqline(data$dryweight, col = "red")  # Add a reference line # not normally distr.
+qqnorm(data_ratio$root_shoot_ratio)
+qqline(data_ratio$root_shoot_ratio, col = "red")  # Add a reference line # not normally distr.
+
+
+# Fit a Gamma Generalized Linear Model (GLM)
+gamma_glm <- glm(root_shoot_ratio ~ amendment * plant_species, 
+                 data = data_ratio, family = Gamma(link = "log"))
+
+# Display the model summary
+anova(gamma_glm, test = "Chisq")
+
 ```
 
