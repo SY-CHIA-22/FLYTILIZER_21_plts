@@ -296,3 +296,28 @@ print(posthoc_tukey)
 
 ```
 
+
+# Root-shoot ratio
+
+```{r}
+
+# Step 1: Load the data
+data <- read.table("Root_Shoot Length_Flytilizer_Final.txt", sep = "\t")
+data <- read.table("Root_Shoot Length_Flytilizer_Final.txt", 
+                   sep = "\t", header = TRUE, stringsAsFactors = FALSE)
+
+# Step 2: Ensure variables are correctly formatted
+data$amendment <- as.factor(data$amendment)
+data$plant_species <- as.factor(data$plant_species)
+data$root_shoot_ratio <- as.numeric(data$root_shoot_ratio) 
+
+
+# Histogram of dry weights
+hist(data$dryweight, main = "Histogram of Dry Weight", xlab = "Dry Weight (g)") 
+#positively skewed (skewed to the right = most values are close to zero) 
+
+# Q-Q plot to check normality
+qqnorm(data$dryweight)
+qqline(data$dryweight, col = "red")  # Add a reference line # not normally distr.
+```
+

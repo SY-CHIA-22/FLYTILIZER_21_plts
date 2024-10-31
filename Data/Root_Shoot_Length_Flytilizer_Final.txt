@@ -1,4 +1,4 @@
-amendment	plant_code	plant_species	rootlength	shootlength	root_shoot_ratio
+amendment plant_code  plant_species rootlength shootlength root_shoot_ratio
 _Control	A	Allium cepa	6.3	6.0	1.05
 _Control	A	Allium cepa	5.5	5.0	1.10
 _Control	A	Allium cepa	6.4	8.2	0.78
